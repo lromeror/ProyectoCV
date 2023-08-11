@@ -27,7 +27,8 @@ def haversine_distance(lat1, lon1, lat2, lon2):
     return distance_meters
 
 # Ejemplo de uso:
-lat1, lon1 =""  # Coordenadas de INICIO
-lat2, lon2 = ""  # Coordenadas de FIN
+lat1, lon1 = -2.14843,-79.96738  # Coordenadas de INICIO
+lat2, lon2 = -2.14752,-79.96727  # Coordenadas de FIN
 
-print(haversine_distance(lat1, lon1, lat2, lon2), "metros")
+print(round(haversine_distance(lat1, lon1, lat2, lon2), 2), "metros")
+
