@@ -43,7 +43,7 @@ navbar = dbc.Navbar(
 )
 navbar2 = dbc.Row(
             [
-                dbc.Col(html.Img(src="assets/Images/logo_espol.png", height="41px",className="col1_1")),
+                dbc.Col(html.Img(src="assets/images/logo_espol.png", height="41px",className="col1_1")),
                 dbc.Col(html.H5("PROYECTO CALCULO VECTORIAL"),style={"color":"white","font-size":"10vw"},className="col1_1"),
                 dbc.Col(html.H5("GRUPO 6"),style={"color":"white","font-size":"10vw"},className="col1_1")
             ],
@@ -59,11 +59,12 @@ tituloProyecto=dbc.Container([
 ])
 #Dataset de planificacion de clases
 
-dir = os.path.dirname(__file__)  # Get the directory of the script
-folder = "assets\Datas"
-
-df = pd.read_excel(os.path.join(folder,"planificacion.xlsx"),sheet_name="Hoja1")
-
+PAGES_DIR = os.path.dirname(__file__)
+APP_DIR = os.path.relpath(os.path.dirname(PAGES_DIR))
+ASSETS_DIR = os.path.relpath(os.path.join(APP_DIR,'assets'))
+DATAS_DIR = os.path.relpath(os.path.join(ASSETS_DIR,'data'))
+#df = pd.read_excel(os.path.join(DATAS_DIR,'planificacion.csv'),sheet_name="Hoja1")
+df = pd.read_csv(os.path.join(DATAS_DIR,'planificacion.csv'),sep=",")
 bosy=html.Div([
     dbc.Container([
     dbc.Row([
