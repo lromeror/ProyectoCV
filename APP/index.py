@@ -53,12 +53,19 @@ navbar2 = dbc.Row(
             className="Header"
 )
 
-
-
+#map = dbc.Container([
+#    html.Iframe(src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3987.0205291828083!2d-79.96704509721975!3d-2.1458240017673655!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x902d72f925e5bfdb%3A0x327cdb9f7f4ba3b2!2sEscuela%20Superior%20Polit%C3%A9cnica%20del%20Litoral%20(ESPOL)!5e0!3m2!1ses!2sec!4v1691779963691!5m2!1ses!2sec" ,width="600" ,height="450")
+#])
 
 # embedding the navigation bar
+tituloProyecto=dbc.Container([
+    dbc.Row([
+        dbc.Col(html.H3("OPTIMIZACION DE RUTAS EN LAS AULAS CLASES"),className="col1_1"),
+    ])
+
+])
 app.layout = html.Div([
-    navbar2
+    navbar2,tituloProyecto
 ])
 
 
