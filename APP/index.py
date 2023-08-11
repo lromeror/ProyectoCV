@@ -60,9 +60,9 @@ tituloProyecto=dbc.Container([
 #Dataset de planificacion de clases
 
 dir = os.path.dirname(__file__)  # Get the directory of the script
-folder = "assets/Datas/"
-print(dir)
-df = pd.read_csv("assets/Datas/planificacion.csv",sep=",")
+folder = "assets\Datas"
+
+df = pd.read_excel(os.path.join(folder,"planificacion.xlsx"),sheet_name="Hoja1")
 
 bosy=html.Div([
     dbc.Container([
