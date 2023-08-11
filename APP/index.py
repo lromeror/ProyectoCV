@@ -64,7 +64,14 @@ APP_DIR = os.path.relpath(os.path.dirname(PAGES_DIR))
 ASSETS_DIR = os.path.relpath(os.path.join(APP_DIR,'assets'))
 DATAS_DIR = os.path.relpath(os.path.join(ASSETS_DIR,'data'))
 #df = pd.read_excel(os.path.join(DATAS_DIR,'planificacion.csv'),sheet_name="Hoja1")
-df = pd.read_csv(os.path.join(DATAS_DIR,'planificacion.csv'),sep=",")
+#df = pd.read_csv(os.path.join(DATAS_DIR,'planificacion.csv'),sep=",")
+try:
+    df = pd.read_csv(os.path.join(DATAS_DIR,'planificacion.csv'),sep=",")
+except FileNotFoundError:
+    df = pd.read_csv("https://raw.githubusercontent.com/lromeror/ProyectoCV/main/APP/assets/data/planificacion.csv",sep=",")
+    #ahí que estar actualizando
+finally:
+    print(df)
 bosy=html.Div([
     dbc.Container([
     dbc.Row([
