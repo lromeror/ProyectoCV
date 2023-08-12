@@ -69,15 +69,11 @@ DATAS_DIR = os.path.relpath(os.path.join(ASSETS_DIR,'data'))
 #df = pd.read_csv(os.path.join(DATAS_DIR,'planificacion.csv'),sep=",")
 
 try:
-    df = pd.read_excel("APP/assets/data/planificacion.xlsx",sheet_name="Hoja1")
+    df = pd.read_excel("APP/assets/data/planificacion.xlsx",sheet_name="Sheet1")
 except FileNotFoundError:
-    df = pd.read_excel("https://raw.githubusercontent.com/lromeror/ProyectoCV/main/APP/assets/data/planificacion.xlsx",)
+    df = pd.read_excel("https://raw.githubusercontent.com/lromeror/ProyectoCV/main/APP/assets/data/planificacion.xlsx",sheet_name="Sheet1")
     #ahí que estar actualizando
 
-<<<<<<< HEAD
-
-=======
->>>>>>> bf51800 (ok)
 distancia=0
 menuHorario=html.Div([
     dbc.Container([
