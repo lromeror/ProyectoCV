@@ -3,6 +3,7 @@ import dash
 import dash_bootstrap_components as dbc
 import os
 import plotly.express as px
+import plotly.graph_objects as go
 import pandas as pd
 import math
 external_stylesheets = [dbc.themes.BOOTSTRAP]  
@@ -70,16 +71,12 @@ DATAS_DIR = os.path.relpath(os.path.join(ASSETS_DIR,'data'))
 try:
     df = pd.read_excel("APP/assets/data/planificacion.xlsx",sheet_name="Hoja1")
 except FileNotFoundError:
-    df = pd.read_csv("https://raw.githubusercontent.com/lromeror/ProyectoCV/main/APP/assets/data/planificacion.xlsx",sep=",")
+    df = pd.read_excel("https://raw.githubusercontent.com/lromeror/ProyectoCV/main/APP/assets/data/planificacion.xlsx",)
     #ahí que estar actualizando
 
-<<<<<<< HEAD
 
 distancia=0
 menuHorario=html.Div([
-=======
-bosy=html.Div([
->>>>>>> 22e18456acafd883e95588494dea778cdd5c2c2d
     dbc.Container([
     dbc.Row([
         # Sidebar
@@ -93,7 +90,6 @@ bosy=html.Div([
                 value=df.NOMBRE.unique().tolist()[0]
             ),html.H6('Bloque:'),
             dcc.Dropdown(
-                
                 id='Bloquepartida',
                 options=df.BLOQUE,style={'margin-bottom': '50px'},
                 value=df.BLOQUE.unique().tolist()[0]
@@ -120,16 +116,73 @@ bosy=html.Div([
 ],fluid=True,className=" container mt-4 g-0",style={"background-color": "#f2f2f2", "padding": "50px","border-radius": "10px"})#container
 ])
 
-@app.callback([Output('')],[Input('Materiapartida', 'value'), Input('Bloquepartida', 'value'), Input('MateriaLlegada', 'value'), Input('BloqueLlegada', 'value')])
-def grafica(Materiapartida,Bloquepartida,MateriaLlegada,BloqueLlegada):
-    global distancia
-    lat1=df[(df['NOMBRE']==Materiapartida) & (df['BLOQUE']==Bloquepartida)]['lat'].values[0]
-    lon1=df[(df['NOMBRE']==Materiapartida) & (df['BLOQUE']==Bloquepartida)]['lot'].values[0]
+@app.callback(
+    Output('Bloquepartida', 'options'),
+    Input('Materiapartida', 'value'))
+def set_bloques_options(selected_materia):
+     dff = df[df['NOMBRE']==selected_materia]
+     return [{'label': i, 'value': i} for i in dff['BLOQUE'].unique()]
 
-    lat2=df[(df['NOMBRE']==MateriaLlegada) & (df['BLOQUE']==BloqueLlegada)]['lat'].values[0]
-    lon2=df[(df['NOMBRE']==MateriaLlegada) & (df['BLOQUE']==BloqueLlegada)]['lot'].values[0]
-    distancia= haversine_distance(lat1,lon1,lat2,lon2)
+@app.callback(
+    Output('MateriaLlegada', 'options'),
+    Input('Materiapartida', 'value'))
+def set_cities_options(selected_materia_ini):
+    try:
+        l_filtrada = df['NOMBRE'].unique().tolist()
+        l_filtrada.remove(selected_materia_ini)
+        return [{'label': i, 'value': i} for i in l_filtrada]
+    except ValueError:
+        l_filtrada = df['NOMBRE'].unique().tolist()
+        return [{'label': i, 'value': i} for i in l_filtrada]    
     
+@app.callback(
+    Output('Bloquellegada', 'options'),
+    Input('Materiallegada', 'value'))
+def set_bloques_options(selected_materia_lle):
+     dff = df[df['NOMBRE']==selected_materia_lle]
+     return [{'label': i, 'value': i} for i in dff['BLOQUE'].unique()]
+
+mapa=html.Div([
+    dbc.Container([
+        dbc.Row([
+            dbc.Col(html.H3("Mapa de Rutas",className="text-center")),
+        ]),
+    dbc.Row(dcc.Graph(id="mapa")),
+],fluid=True,className=" container mt-4 g-0",style={"background-color": "#f2f2f2", "padding": "50px","border-radius": "10px"})#container
+])
+
+@app.callback(
+    Output('mapa','figure'),
+    [Input('Materiapartida', 'value')],
+    [Input('Bloquepartida', 'value')],
+    [Input('MateriaLlegada', 'value')],
+    [Input('BloqueLlegada', 'value')])
+def grafica(Materiapartida,Bloquepartida,MateriaLlegada,BloqueLlegada):
+   # global distancia
+    lat1=df[(df['NOMBRE']==Materiapartida) & (df['BLOQUE']==Bloquepartida)]['LATS'].values[0]
+    lon1=df[(df['NOMBRE']==Materiapartida) & (df['BLOQUE']==Bloquepartida)]['LONGS'].values[0]
+    lat2=df[(df['NOMBRE']==MateriaLlegada) & (df['BLOQUE']==BloqueLlegada)]['LATS'].values[0]
+    lon2=df[(df['NOMBRE']==MateriaLlegada) & (df['BLOQUE']==BloqueLlegada)]['LONGS'].values[0]
+    print(type(lat1))
+    print(type(lat2))
+    print(type(lon1))
+    print(type(lon2))
+    fig = go.Figure(go.Scattermapbox(
+    mode = "markers+lines",
+    lon = [lon1, lon2],
+    lat = [lat1, lat2],
+    marker = {'size': 10}))
+    fig.update_layout(
+    margin ={'l':0,'t':0,'b':0,'r':0},
+    mapbox = {
+        'center': {'lon': 10, 'lat': 10},
+        'style': "stamen-terrain",
+        'center': {'lon': -20, 'lat': -20},
+        'zoom': 1},mapbox_style="open-street-map")
+
+    #distancia= haversine_distance(lat1,lon1,lat2,lon2)
+
+    return fig
 
 #Funcion para calcular la distancia entre dos puntos
 def haversine_distance(lat1, lon1, lat2, lon2):
@@ -179,14 +232,13 @@ def update_map(relayoutData):
     
     return fig
 
-mapa=html.Div([
-    dbc.Container([
-        dbc.Row([
-            dbc.Col(html.H3("Mapa de Rutas",className="text-center")),
-        ]),
-    dbc.Row(grafica),
-],fluid=True,className=" container mt-4 g-0",style={"background-color": "#f2f2f2", "padding": "50px","border-radius": "10px"})#container
-])
+
+
+
+
+
+
+
 app.layout = html.Div([
     navbar2,tituloProyecto,menuHorario,mapa
 ])
