@@ -156,15 +156,12 @@ mapa=html.Div([
     [Input('MateriaLlegada', 'value')],
     [Input('BloqueLlegada', 'value')])
 def grafica(Materiapartida,Bloquepartida,MateriaLlegada,BloqueLlegada):
-   # global distancia
+    global distancia
     lat1=df[(df['NOMBRE']==Materiapartida) & (df['BLOQUE']==Bloquepartida)]['LATS'].values[0]
     lon1=df[(df['NOMBRE']==Materiapartida) & (df['BLOQUE']==Bloquepartida)]['LONGS'].values[0]
     lat2=df[(df['NOMBRE']==MateriaLlegada) & (df['BLOQUE']==BloqueLlegada)]['LATS'].values[0]
     lon2=df[(df['NOMBRE']==MateriaLlegada) & (df['BLOQUE']==BloqueLlegada)]['LONGS'].values[0]
-    print(type(lat1))
-    print(type(lat2))
-    print(type(lon1))
-    print(type(lon2))
+
     fig = go.Figure(go.Scattermapbox(
     mode = "markers+lines",
     lon = [lon1, lon2],
@@ -178,7 +175,7 @@ def grafica(Materiapartida,Bloquepartida,MateriaLlegada,BloqueLlegada):
         'center': {'lon': -20, 'lat': -20},
         'zoom': 1},mapbox_style="open-street-map")
 
-    #distancia= haversine_distance(lat1,lon1,lat2,lon2)
+    distancia= haversine_distance(lat1,lon1,lat2,lon2)
 
     return fig
 
