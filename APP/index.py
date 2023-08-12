@@ -74,7 +74,10 @@ except FileNotFoundError:
     df = pd.read_excel("https://raw.githubusercontent.com/lromeror/ProyectoCV/main/APP/assets/data/planificacion.xlsx",)
     #ahí que estar actualizando
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> bf51800 (ok)
 distancia=0
 menuHorario=html.Div([
     dbc.Container([
@@ -101,7 +104,6 @@ menuHorario=html.Div([
             html.H3('Ubicaciones de Llegada'),
             html.H6('Materia:'),
             dcc.Dropdown(
-                
                 id='MateriaLlegada',
                 options=df.NOMBRE,style={'margin-bottom': '30px'},
                 value=df.NOMBRE.unique().tolist()[1]
