@@ -1,4 +1,4 @@
-
+from datetime import datetime
 import dash
 import dash_bootstrap_components as dbc
 import os
@@ -74,6 +74,7 @@ except FileNotFoundError:
     df = pd.read_excel("https://raw.githubusercontent.com/lromeror/ProyectoCV/main/APP/assets/data/planificacion.xlsx",sheet_name="Sheet1")
     #ahí que estar actualizando
 
+
 distancia=0
 menuHorario=html.Div([
     dbc.Container([
@@ -85,8 +86,8 @@ menuHorario=html.Div([
             dcc.Dropdown(
                 
                 id='Materiapartida',
-                options=df.NOMBRE,style={'margin-bottom': '30px'},
-                value=df.NOMBRE.unique().tolist()[0]
+                options=sorted(df.NOMBRE.unique().tolist()),style={'margin-bottom': '30px'},
+                value=sorted(df.NOMBRE.unique().tolist())[0]
             ),html.H6('Bloque:'),
             dcc.Dropdown(
                 id='Bloquepartida',
@@ -101,8 +102,8 @@ menuHorario=html.Div([
             html.H6('Materia:'),
             dcc.Dropdown(
                 id='MateriaLlegada',
-                options=df.NOMBRE,style={'margin-bottom': '30px'},
-                value=df.NOMBRE.unique().tolist()[1]
+                options=sorted(df.NOMBRE.unique().tolist()),style={'margin-bottom': '30px'},
+                value=sorted(df.NOMBRE.unique().tolist())[1]
             ),html.H6('Bloque:'),
             dcc.Dropdown(
                 id='BloqueLlegada',
@@ -113,13 +114,25 @@ menuHorario=html.Div([
     ]),
 ],fluid=True,className=" container mt-4 g-0",style={"background-color": "#f2f2f2", "padding": "50px","border-radius": "10px"})#container
 ])
-
 @app.callback(
-    Output('Bloquepartida', 'options'),
+    Output('Materiapartida', 'options'),
+    Input('Materiallegada', 'value'))
+def set_cities_options(selected_materia_lle):
+    try:
+        l_filtrada = df['NOMBRE'].unique().tolist()
+        l_filtrada.remove(selected_materia_lle)
+        return [{'label': i, 'value': i} for i in sorted(l_filtrada)]
+    except ValueError:
+        l_filtrada = df['NOMBRE'].unique().tolist()
+        return [{'label': i, 'value': i} for i in sorted(l_filtrada)]    
+    
+@app.callback(
+    [Output('Bloquepartida', 'options')],
+    [Output('Bloquepartida', 'value')],
     Input('Materiapartida', 'value'))
 def set_bloques_options(selected_materia):
-     dff = df[df['NOMBRE']==selected_materia]
-     return [{'label': i, 'value': i} for i in dff['BLOQUE'].unique()]
+    dff = df[df['NOMBRE']==selected_materia]
+    return [{'label': u, 'value': u} for u in sorted(dff['BLOQUE'].unique().tolist())],dff['BLOQUE'].unique()[0]
 
 @app.callback(
     Output('MateriaLlegada', 'options'),
@@ -128,17 +141,18 @@ def set_cities_options(selected_materia_ini):
     try:
         l_filtrada = df['NOMBRE'].unique().tolist()
         l_filtrada.remove(selected_materia_ini)
-        return [{'label': i, 'value': i} for i in l_filtrada]
+        return [{'label': i, 'value': i} for i in sorted(l_filtrada)]
     except ValueError:
         l_filtrada = df['NOMBRE'].unique().tolist()
-        return [{'label': i, 'value': i} for i in l_filtrada]    
+        return [{'label': i, 'value': i} for i in sorted(l_filtrada)]    
     
 @app.callback(
-    Output('Bloquellegada', 'options'),
-    Input('Materiallegada', 'value'))
+    [Output('BloqueLlegada', 'options')],
+    [Output('BloqueLlegada', 'value')],
+    Input('MateriaLlegada', 'value'))
 def set_bloques_options(selected_materia_lle):
-     dff = df[df['NOMBRE']==selected_materia_lle]
-     return [{'label': i, 'value': i} for i in dff['BLOQUE'].unique()]
+    dff = df[df['NOMBRE']==selected_materia_lle]
+    return [{'label': u, 'value': u} for u in sorted(dff['BLOQUE'].unique().tolist())],dff['BLOQUE'].unique()[0]
 
 mapa=html.Div([
     dbc.Container([
@@ -149,37 +163,14 @@ mapa=html.Div([
 ],fluid=True,className=" container mt-4 g-0",style={"background-color": "#f2f2f2", "padding": "50px","border-radius": "10px"})#container
 ])
 
-@app.callback(
-    Output('mapa','figure'),
-    [Input('Materiapartida', 'value')],
-    [Input('Bloquepartida', 'value')],
-    [Input('MateriaLlegada', 'value')],
-    [Input('BloqueLlegada', 'value')])
-def grafica(Materiapartida,Bloquepartida,MateriaLlegada,BloqueLlegada):
-    global distancia
-    lat1=df[(df['NOMBRE']==Materiapartida) & (df['BLOQUE']==Bloquepartida)]['LATS'].values[0]
-    lon1=df[(df['NOMBRE']==Materiapartida) & (df['BLOQUE']==Bloquepartida)]['LONGS'].values[0]
-    lat2=df[(df['NOMBRE']==MateriaLlegada) & (df['BLOQUE']==BloqueLlegada)]['LATS'].values[0]
-    lon2=df[(df['NOMBRE']==MateriaLlegada) & (df['BLOQUE']==BloqueLlegada)]['LONGS'].values[0]
+resume =html.Div([
+    dbc.Container([
+        dbc.Row(
+            id="resumen"
+        )
+],fluid=True,className=" container mt-4 g-0",style={"background-color": "#f2f2f2", "padding": "50px","border-radius": "10px"})#container
+])
 
-    fig = go.Figure(go.Scattermapbox(
-    mode = "markers+lines",
-    lon = [lon1, lon2],
-    lat = [lat1, lat2],
-    marker = {'size': 10}))
-    fig.update_layout(
-    margin ={'l':0,'t':0,'b':0,'r':0},
-    mapbox = {
-        'center': {'lon': 10, 'lat': 10},
-        'style': "stamen-terrain",
-        'center': {'lon': -20, 'lat': -20},
-        'zoom': 1},mapbox_style="open-street-map")
-
-    distancia= haversine_distance(lat1,lon1,lat2,lon2)
-
-    return fig
-
-#Funcion para calcular la distancia entre dos puntos
 def haversine_distance(lat1, lon1, lat2, lon2):
     # Radio de la Tierra en kilómetros
     R = 6371.0
@@ -206,36 +197,81 @@ def haversine_distance(lat1, lon1, lat2, lon2):
 
     return distance_meters
 
-
-us_cities = pd.read_csv("https://raw.githubusercontent.com/plotly/datasets/master/us-cities-top-1k.csv")
-us_cities = us_cities.query("State in ['New York', 'Ohio']")
-grafica=html.Div([
-    dcc.Graph(id="city-map"),
-])
-
+@app.callback(
+    Output('mapa','figure'),
+    [Input('Materiapartida', 'value')],
+    [Input('Bloquepartida', 'value')],
+    [Input('MateriaLlegada', 'value')],
+    [Input('BloqueLlegada', 'value')])
+def grafica(Materiapartida,Bloquepartida,MateriaLlegada,BloqueLlegada): 
+    try:
+        lat1=df[(df['NOMBRE']==Materiapartida) & (df['BLOQUE']==Bloquepartida)]['LATS'].values[0]
+        lon1=df[(df['NOMBRE']==Materiapartida) & (df['BLOQUE']==Bloquepartida)]['LONGS'].values[0]
+        lat2=df[(df['NOMBRE']==MateriaLlegada) & (df['BLOQUE']==BloqueLlegada)]['LATS'].values[0]
+        lon2=df[(df['NOMBRE']==MateriaLlegada) & (df['BLOQUE']==BloqueLlegada)]['LONGS'].values[0]
+        data = {
+            'lon': [lon1, lon2],
+            'lat': [lat1, lat2],
+            'size': [5, 5],
+            'Ubicaciones':[Materiapartida,MateriaLlegada,]
+        }
+        # Crear gráfico con marcadores
+        fig = px.scatter_mapbox(data, 
+                                lat='lat', 
+                                lon='lon',
+                                size='size',
+                                color='Ubicaciones',
+                                size_max=20,
+                                zoom=15,)
+        # Añadir líneas
+        fig.add_traces(go.Scattermapbox(
+            mode="lines",
+            lon=[lon1, lon2],
+            lat=[lat1, lat2],
+            line=dict(width=2, color='red'),
+            name='CAMINO MÁS CORTO',
+        ))
+        # Actualizar el estilo del mapa y centrar
+        fig.update_layout(mapbox_style="open-street-map", 
+                        mapbox={'center': {'lat':-2.14730,'lon': -79.9630}})
+        # Actualizar márgenes
+        fig.update_layout(margin={"r":0,"t":0,"l":0,"b":0})
+        return fig
+    except : 
+        current_time = datetime.now().time()
+        with open('APP/assets/data/errores.txt', 'a') as archivo:
+            archivo.write(f"Error {current_time}\n")
 
 @app.callback(
-    Output("city-map", "figure"),
-    Input("city-map", "relayoutData")
-)
-def update_map(relayoutData):
-    # Crear la figura del mapa
-    fig = px.line_mapbox(us_cities, lat="lat", lon="lon", color="State", zoom=3, height=800)
-    
-    fig.update_layout(mapbox_style="stamen-terrain", mapbox_zoom=4, mapbox_center_lat=41,
-                    margin={"r": 0, "t": 0, "l": 0, "b": 0})
-    
-    return fig
-
-
-
-
-
-
-
-
+    Output('resumen','children'),
+    [Input('Materiapartida', 'value')],
+    [Input('Bloquepartida', 'value')],
+    [Input('MateriaLlegada', 'value')],
+    [Input('BloqueLlegada', 'value')])
+def mostrar_resumen(Materiapartida,Bloquepartida,MateriaLlegada,BloqueLlegada):
+    if BloqueLlegada==Bloquepartida :
+        return dbc.Col(html.H4(f"Se punto de llegada se encuentra en el mismo bloque {BloqueLlegada}"),className="text-center")
+    else:
+        try:
+            lat1=df[(df['NOMBRE']==Materiapartida) & (df['BLOQUE']==Bloquepartida)]['LATS'].values[0]
+            lon1=df[(df['NOMBRE']==Materiapartida) & (df['BLOQUE']==Bloquepartida)]['LONGS'].values[0]
+            lat2=df[(df['NOMBRE']==MateriaLlegada) & (df['BLOQUE']==BloqueLlegada)]['LATS'].values[0]
+            lon2=df[(df['NOMBRE']==MateriaLlegada) & (df['BLOQUE']==BloqueLlegada)]['LONGS'].values[0]
+            distancia = haversine_distance(lat1,lon1,lat2,lon2)
+            return dbc.Col(html.H4(f"La distancia más corta, desde el bloque {Bloquepartida}({Materiapartida.title()}) hasta el bloque {BloqueLlegada}({MateriaLlegada.title()}) es {round(distancia,2)} metros"),className="text-center")
+        except:
+            current_time = datetime.now().time()
+            with open('APP/assets/data/errores.txt', 'a') as archivo:
+                archivo.write(f"Error {current_time}\n")
+integrantes =html.Div([
+    dbc.Container([
+        dbc.Row(
+            dbc.Col(html.H6('ANGELO ZURITA - LUIS ROMERO - GABRIEL DELGADO - DAVID SUMBA - PARALELO 6 - ©2023',className="text-center centrado"))
+        )
+],fluid=True,className=" container mt-4 g-0",style={"background-color": "#f2f2f2", "padding": "10px","border-radius": "10px",'text-align':'center'})#container
+])
 app.layout = html.Div([
-    navbar2,tituloProyecto,menuHorario,mapa
+    navbar2,tituloProyecto,menuHorario,resume, mapa,integrantes
 ])
 
 
