@@ -1,856 +1,853 @@
-"NOMBRE","CODIGOMATERIA","UNIDAD","BLOQUE"
-"QUIMIOMETRIA","ESTP1033       ","Facultad de Ciencias Naturales y Matemáticas","9M "
-"DISEÑO DE CIMENTACIONES SUPERFICIALES Y PROFUNDAS","ARQP1014       ","Facultad de Ingeniería en Ciencias de la Tierra","9M "
-"INTRODUCCIÓN A LA INDUSTRIA HIDROCARBURÍFERA","PETG1032       ","Facultad de Ingeniería en Ciencias de la Tierra","13H"
-"ESTRATIGRAFIA Y SEDIMENTACIÓN","GEOG1028       ","Facultad de Ingeniería en Ciencias de la Tierra","13H"
-"PATOLOGÍA ACUÍCOLA I","ACUG1057       ","Facultad de Ingeniería Marítima y Ciencias del Mar","5K "
-"GEOMÁTICA","ARQG2040       ","Facultad de Ciencias Sociales y Humanísticas","13C"
-"PETROFÍSICA","PETG1027       ","Facultad de Ingeniería en Ciencias de la Tierra","13H"
-"CLIMATOLOGÍA Y METEOROLOGÍA","OCEG1030       ","Facultad de Ingeniería Marítima y Ciencias del Mar","5K "
-"MATERIA INTEGRADORA DE ESTADÍSTICA","ESTG1062       ","Facultad de Ciencias Naturales y Matemáticas","FCNM"
-"ESTRUCTURA Y CARACTERIZACIÓN DE MATERIALES","MTRG1028       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12E"
-"MÉTODOS GEOFÍSICOS","GEOG1040       ","Facultad de Ingeniería en Ciencias de la Tierra","13H"
-"GEOLOGÍA DEL PETRÓLEO","GEOG1031       ","Facultad de Ingeniería en Ciencias de la Tierra","13H"
-"GEOMORFOLOGIA","GEOG1034       ","Facultad de Ingeniería en Ciencias de la Tierra","13H"
-"BIOGEOQUÍMICA MARINA","OCEG1029       ","Facultad de Ingeniería Marítima y Ciencias del Mar","5K "
-"FUNDAMENTOS DE INGENIERÍA OCEANOGRÁFICA","OCEG1035       ","Facultad de Ingeniería Marítima y Ciencias del Mar","5K "
-"PROYECTOS DE INVESTIGACIÓN ARQUEOLÓGICA","ARQG2023       ","Facultad de Ciencias Sociales y Humanísticas","9F "
-"CAMPO DE ANTROPOLOGÍA SOCIOCULTURAL I","ARQG2036       ","Facultad de Ciencias Sociales y Humanísticas","FCSH"
-"PERFORACIÓN","PETG1025       ","Facultad de Ingeniería en Ciencias de la Tierra","13H"
-"VULNERABILIDAD Y RIESGO GEOLÓGICO","GEOG1050       ","Facultad de Ingeniería en Ciencias de la Tierra","13H"
-"HERRAMIENTAS PARA EL DIAGNÓSTICO DE ENFERMEDADES ACUÍCOLAS","ACUG1043       ","Facultad de Ingeniería Marítima y Ciencias del Mar","5K "
-"EVALUACIÓN DE PROYECTOS HIDROCARBURÍFEROS","ECOG1009       ","Facultad de Ingeniería en Ciencias de la Tierra","FICT"
-"SEGURIDAD MINERA","MING1037       ","Facultad de Ingeniería en Ciencias de la Tierra","FICT"
-"VENTILACIÓN, DRENAJE Y SISTEMAS ELÉCTRICOS","MING1032       ","Facultad de Ingeniería en Ciencias de la Tierra","FICT"
-"DISEÑO DE MATERIALES COMPUESTOS","MTRG1027       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12H"
-"CALIDAD Y EFICIENCIA ENERGÉTICA","INGP1059       ","Facultad de Ingeniería en Electricidad y Computación","FIEC"
-"GEOMÁTICA MINERA","MING1026       ","Facultad de Ingeniería en Ciencias de la Tierra","13H"
-"INGENIERÍA GEOLÓGICA","GEOG1037       ","Facultad de Ingeniería en Ciencias de la Tierra","13H"
-"ANTROPOLOGÍA BIOLÓGICA","ARQG2020       ","Facultad de Ciencias Sociales y Humanísticas","9F "
-"PRODUCCIÓN ACUICOLA I","ACUG1046       ","Facultad de Ingeniería Marítima y Ciencias del Mar","CENAIM"
-"PROPIEDADES DE HIDROCARBUROS Y COMPORTAMIENTO DE FASES","PETG1031       ","Facultad de Ingeniería en Ciencias de la Tierra","13H"
-"EXPLOTACIÓN SUBTERRÁNEA","MING1024       ","Facultad de Ingeniería en Ciencias de la Tierra","13H"
-"OCEANOGRAFÍA FÍSICA","OCEG1050       ","Facultad de Ingeniería Marítima y Ciencias del Mar","5K "
-"OCEANOGRAFÍA DESCRIPTIVA","OCEG1051       ","Facultad de Ingeniería Marítima y Ciencias del Mar","5K "
-"ECUACIONES EN DERIVADAS PARCIALES","MATG1083       ","Facultad de Ciencias Naturales y Matemáticas","8G "
-"TECTONICA","GEOG1048       ","Facultad de Ingeniería en Ciencias de la Tierra","13H"
-"DANZA","ARTG2034       ","Facultad de Arte, Diseño y Comunicación Audiovisual","9F "
-"INTRODUCCIÓN A LA INGENIERÍA EN MATERIALES","MTRG1032       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12E"
-"MATERIA INTEGRADORA EN ARQUEOLOGÍA","ARQG2024       ","Facultad de Ciencias Sociales y Humanísticas","13C"
-"PLANEAMIENTO Y DISEÑO MINERO","MING1031       ","Facultad de Ingeniería en Ciencias de la Tierra","13H"
-"PERFORACIÓN Y VOLADURA","MING1030       ","Facultad de Ingeniería en Ciencias de la Tierra","13H"
-"EXPLOTACIÓN A CIELO ABIERTO","MING1040       ","Facultad de Ingeniería en Ciencias de la Tierra","13H"
-"PROCESOS ESTOCÁSTICOS","ESTG1048       ","Facultad de Ciencias Naturales y Matemáticas","9M "
-"FÍSICA: TERMODINÁMICA Y ÓPTICA","FISG1009       ","Facultad de Ciencias Naturales y Matemáticas","9M "
-"PETROGRAFÍA","MING1036       ","Facultad de Ingeniería en Ciencias de la Tierra","FICT"
-"GEOTECNIA MINERA","MING1027       ","Facultad de Ingeniería en Ciencias de la Tierra","13H"
-"MORFOLOGÍA Y FISIOLOGÍA DE ORGANISMOS ACUÍCOLAS","ACUG1052       ","Facultad de Ingeniería Marítima y Ciencias del Mar","5K "
-"BUENAS PRÁCTICAS EN ACUICULTURA","ACUG1059       ","Facultad de Ingeniería Marítima y Ciencias del Mar","5K "
-"CONSTRUCCIÓN NAVAL CON MATERIALES COMPUESTOS","NAVG1026       ","Facultad de Ingeniería Marítima y Ciencias del Mar","5K "
-"ANÁLISIS DE FALLAS Y SELECCIÓN DE MATERIALES","MTRG1023       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12H"
-"GEOLOGÍA GENERAL","GEOG1033       ","Facultad de Ingeniería en Ciencias de la Tierra","13H"
-"FUNDAMENTOS DE INGENIERÍA ACUÍCOLA","ACUG1042       ","Facultad de Ingeniería Marítima y Ciencias del Mar","5K "
-"OPTIMIZACIÓN LINEAL","MATG1057       ","Facultad de Ciencias Naturales y Matemáticas","9I "
-"INGENIERÍA DE CERÁMICOS","MTRG1029       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12H"
-"HIDROGEOLOGÍA","GEOG1036       ","Facultad de Ingeniería en Ciencias de la Tierra","13H"
-"ANÁLISIS DE DATOS ACUÍCOLAS","ACUG1036       ","Facultad de Ingeniería Marítima y Ciencias del Mar","5K "
-"MATERIA INTEGRADORA DE MINAS","MING1039       ","Facultad de Ingeniería en Ciencias de la Tierra","FICT"
-"TELEDETECCIÓN","GEOG1049       ","Facultad de Ingeniería en Ciencias de la Tierra","13G"
-"ECONOMIA DEL CRECIMIENTO Y DESARROLLO ","ECOP2056       ","Facultad de Ciencias Sociales y Humanísticas","FCNM"
-"ECONOMIA DEL CRECIMIENTO Y DESARROLLO ","ECOP2056       ","Facultad de Ciencias Sociales y Humanísticas","FCSH"
-"INGENIERÍA DE YACIMIENTOS I","PETG1023       ","Facultad de Ingeniería en Ciencias de la Tierra","FICT"
-"SISTEMAS DINÁMICOS PARA LA TOMA DE DECISIONES","INGP1032       ","Facultad de Ingeniería en Electricidad y Computación","11A"
-"SISTEMAS DE CONTROL EMBEBIDOS (14 AL 30 OCT 2002)","INGP1043       ","Facultad de Ingeniería en Electricidad y Computación","11A"
-"CORROSIÓN Y DEGRADACIÓN DE MATERIALES","MTRG1026       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12E"
-"MINERALOGÍA ÓPTICA","GEOG1042       ","Facultad de Ingeniería en Ciencias de la Tierra","13B"
-"LABORATORIO DE ARQUEOLOGÍA II","ARQG2026       ","Facultad de Ciencias Sociales y Humanísticas","13C"
-"TRANSPORTE MULTIMODAL","LOGG1016       ","Facultad de Ciencias Naturales y Matemáticas","8G "
-"MÉTODOS ROBUSTOS Y NO PARAMÉTRICOS","ESTG1054       ","Facultad de Ciencias Naturales y Matemáticas","9M "
-"SOLDADURA Y ENSAYOS NO DESTRUCTIVOS","MTRG1036       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12H"
-"PRIMER POBLAMIENTO AMERICANO","ARQG2038       ","Facultad de Ciencias Sociales y Humanísticas","13C"
-"DEPÓSITOS MINERALES","GEOG1026       ","Facultad de Ingeniería en Ciencias de la Tierra","13H"
-"INGENIERÍA DE PRODUCCIÓN I","PETG1021       ","Facultad de Ingeniería en Ciencias de la Tierra","13H"
-"PALEONTOLOGÍA APLICADA","GEOG1044       ","Facultad de Ingeniería en Ciencias de la Tierra","13H"
-"COMPLETACIÓN Y REACONDICIONAMIENTO DE POZOS","PETG1020       ","Facultad de Ingeniería en Ciencias de la Tierra","13H"
-"DIAGNÓSTICO Y PROTECCIÓN VEGETAL I","AGRG1025       ","Facultad de Ciencias de la Vida","3H "
-"ARQUEOLOGÍA SOCIAL LATINOAMERICANA","ARQG2035       ","Facultad de Ciencias Sociales y Humanísticas","9F "
-"ARQUEOLOGÍA DEL ECUADOR II","ARQG2025       ","Facultad de Ciencias Sociales y Humanísticas","9F "
-"PRODUCCIÓN VEGETAL I","AGRG1032       ","Facultad de Ciencias de la Vida","GEA"
-"TRANSFORMACIONES DE FASES","MTRG1039       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12E"
-"SÍNTESIS DE MATERIALES","MTRG1038       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12H"
-"ANTROPOLOGÍA NUTRICIONAL","MEDG2012       ","Facultad de Ciencias de la Vida","3H "
-"MATERIA INTEGRADORA DE MATEMÁTICA","MATG1086       ","Facultad de Ciencias Naturales y Matemáticas","FCNM"
-"MACHINE LEARNING","TICP1020       ","Facultad de Ingeniería en Electricidad y Computación","FIEC"
-"NUTRICIÓN ACUÍCOLA","ACUG1051       ","Facultad de Ingeniería Marítima y Ciencias del Mar","5K "
-"AGROECOSISTEMAS","AGRG1023       ","Facultad de Ciencias de la Vida","GEA"
-"PETROLOGÍA ÍGNEA Y METAMÓRFICA","GEOG1046       ","Facultad de Ingeniería en Ciencias de la Tierra","13B"
-"EVALUACIÓN DE YACIMIENTOS MINERALES","GEOG1029       ","Facultad de Ingeniería en Ciencias de la Tierra","13H"
-"INGENIERÍA PARA LA ACUICULTURA I","ACUG1050       ","Facultad de Ingeniería Marítima y Ciencias del Mar","5K "
-"DISEÑO DE BUQUES","NAVG1028       ","Facultad de Ingeniería Marítima y Ciencias del Mar","5K "
-"MANEJO ACUÍCOLA","ACUG1053       ","Facultad de Ingeniería Marítima y Ciencias del Mar","5K "
-"INTRODUCCIÓN A LA ACUICULTURA","ACUG1054       ","Facultad de Ingeniería Marítima y Ciencias del Mar","5K "
-"ESTADÍSTICA MULTIVARIANTE","ESTG1042       ","Facultad de Ciencias Naturales y Matemáticas","9C "
-"ARQUEOLOGÍA DEL VIEJO MUNDO","ARQG2034       ","Facultad de Ciencias Sociales y Humanísticas","9F "
-"TEORÍA ANTROPOLÓGICA Y ARQUEOLÓGICA","ARQG2039       ","Facultad de Ciencias Sociales y Humanísticas","FCSH"
-"INGENIERÍA DE PRODUCCIÓN II","PETG1022       ","Facultad de Ingeniería en Ciencias de la Tierra","13H"
-"EDAFOLOGÍA","AGRG1026       ","Facultad de Ciencias de la Vida","3H "
-"GENOTECNIA","MEDG1022       ","Facultad de Ciencias de la Vida","3H "
-"CULTIVO DE PLANCTON","ACUG1040       ","Facultad de Ingeniería Marítima y Ciencias del Mar","5K "
-"ADMINISTRACIÓN DE LA PRODUCCIÓN DE ALIMENTOS ","INDP1027       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","8G "
-"DISEÑO DE EXPERIMENTOS","ESTG1050       ","Facultad de Ciencias Naturales y Matemáticas","9I "
-"DANZA FOLCLÓRICA","ARTG2036       ","Facultad de Arte, Diseño y Comunicación Audiovisual","14B"
-"GEOMECÁNICA","MING1035       ","Facultad de Ingeniería en Ciencias de la Tierra","13H"
-"PREPARACIÓN MECÁNICA","MING1041       ","Facultad de Ingeniería en Ciencias de la Tierra","13H"
-"PERFORACIÓN DIRECCIONAL","PETG1026       ","Facultad de Ingeniería en Ciencias de la Tierra","13H"
-"EVALUACIÓN DE FORMACIONES II","PETG1034       ","Facultad de Ingeniería en Ciencias de la Tierra","13H"
-"DIBUJO TÉCNICO Y PLANOS","CIVG1035       ","Facultad de Ingeniería en Ciencias de la Tierra","13H"
-"ESTADÍSTICA BAYESIANA","ESTG1047       ","Facultad de Ciencias Naturales y Matemáticas","9M "
-"SOFTWARE EN INGENIERÍA EN PETRÓLEO","PETG1029       ","Facultad de Ingeniería en Ciencias de la Tierra","13G"
-"DISEÑO DE PRODUCTOS IV","DING2026       ","Facultad de Arte, Diseño y Comunicación Audiovisual","14B"
-"CONTROL ESTADÍSTICO DE PROCESOS","ESTG1043       ","Facultad de Ciencias Naturales y Matemáticas","9I "
-"OPTIMIZACIÓN COMBINATORIA","MATG1059       ","Facultad de Ciencias Naturales y Matemáticas","9I "
-"SEÑALES Y SISTEMAS","TELG1037       ","Facultad de Ingeniería en Electricidad y Computación","11D"
-"DISTRIBUCIÓN ELÉCTRICA I","ELEG1032       ","Facultad de Ingeniería en Electricidad y Computación","11F"
-"HSEQ EN LA INDUSTRIA HIDROCARBURÍFERA","INDG1061       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","13G"
-"INGENIERÍA DE YACIMIENTOS II","PETG1024       ","Facultad de Ingeniería en Ciencias de la Tierra","13H"
-"GESTIÓN DE DRAGADOS","OCEG1037       ","Facultad de Ingeniería Marítima y Ciencias del Mar","5K "
-"TRANSPORTE MARÍTIMO","NAVG1035       ","Facultad de Ingeniería Marítima y Ciencias del Mar","5K "
-"ELEMENTOS DE COMPUTACIÓN CIENTÍFICA","MATG1082       ","Facultad de Ciencias Naturales y Matemáticas","9I "
-"AGENCIAS DE VIAJE","TURG2018       ","Facultad de Ciencias Sociales y Humanísticas","FCSH"
-"COMPORTAMIENTO MECÁNICO","MTRG1025       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12E"
-"MATERIA INTEGRADORA PARA PETRÓLEOS","PETG1033       ","Facultad de Ingeniería en Ciencias de la Tierra","13H"
-"DISEÑO DE CAMPO GEOLÓGICO","GEOG1027       ","Facultad de Ingeniería en Ciencias de la Tierra","13B"
-"LABORATORIO DE ARQUEOLOGÍA I","ARQG2029       ","Facultad de Ciencias Sociales y Humanísticas","13C"
-"SISTEMAS ACUÍCOLAS","ACUG1048       ","Facultad de Ingeniería Marítima y Ciencias del Mar","5K "
-"CONTAMINACIÓN MARINA","OCEG1032       ","Facultad de Ingeniería Marítima y Ciencias del Mar","5K "
-"GESTIÓN MARÍTIMA PORTUARIA","NAVG1033       ","Facultad de Ingeniería Marítima y Ciencias del Mar","5K "
-"TEORÍA DEL TURISMO","TURG2036       ","Facultad de Ciencias Sociales y Humanísticas","9B "
-"LOGÍSTICA II","LOGG1018       ","Facultad de Ciencias Naturales y Matemáticas","9C "
-"LOGÍSTICA I","LOGG1017       ","Facultad de Ciencias Naturales y Matemáticas","9C "
-"ARQUEOLOGÍA DE LAS TIERRAS BAJAS DE SUDAMÉRICA Y DEL CARIBE","ARQG2032       ","Facultad de Ciencias Sociales y Humanísticas","9F "
-"LOGÍSTICA I","LOGG1017       ","Facultad de Ciencias Naturales y Matemáticas","9M "
-"MATERIA INTEGRADORA DE TURISMO","TURG2029       ","Facultad de Ciencias Sociales y Humanísticas","FCSH"
-"PROPIEDADES  FUNCIONALES DE LOS  MATERIALES","MTRG1037       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12E"
-"INGENIERÍA DE TÚNELES","MING1042       ","Facultad de Ingeniería en Ciencias de la Tierra","13H"
-"MATERIA INTEGRADORA DE BIOLOGÍA","BIOG1027       ","Facultad de Ciencias de la Vida","3D "
-"INGENIERÍA PARA LA ACUICULTURA II","ACUG1049       ","Facultad de Ingeniería Marítima y Ciencias del Mar","5K "
-"GEOLOGÍA MARINA","OCEG1036       ","Facultad de Ingeniería Marítima y Ciencias del Mar","5K "
-"MEDIDA Y PROBABILIDAD","ESTG1038       ","Facultad de Ciencias Naturales y Matemáticas","8G "
-"TEORÍA DE LA MEDIDA","MATG1077       ","Facultad de Ciencias Naturales y Matemáticas","9I "
-"GESTIÓN DE PROYECTOS Y REGULACIÓN EN TELECOMUNICACIONES","ADMG1006       ","Facultad de Ingeniería en Electricidad y Computación","11A"
-"MATERIA INTEGRADORA DE MATERIALES","MTRG1034       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12E"
-"ANÁLISIS DE ALIMENTOS","ALIG1029       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12H"
-"ARQUEOLOGÍA ANDINOAMERICANA","ARQG2031       ","Facultad de Ciencias Sociales y Humanísticas","13C"
-"GEOLOGIA DE ECUADOR","GEOG1030       ","Facultad de Ingeniería en Ciencias de la Tierra","13H"
-"EVALUACIÓN DE FORMACIONES I","PETG1030       ","Facultad de Ingeniería en Ciencias de la Tierra","13H"
-"ELECTRICIDAD Y ELECTRÓNICA PARA BUQUES","NAVG1029       ","Facultad de Ingeniería Marítima y Ciencias del Mar","5K "
-"MATERIA INTEGRADORA DE INGENIERÍA AGRÍCOLA Y BIOLÓGICA","AGRG1029       ","Facultad de Ciencias de la Vida","GEA"
-"MATERIALES Y MANUFACTURA II","DING2034       ","Facultad de Arte, Diseño y Comunicación Audiovisual","FADCOM"
-"MATERIA INTEGRADORA DE MECÁNICA","MECG1066       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","FIMCP"
-"NANOTECNOLOGÍA Y NANOMATERIALES","MTRG1041       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12E"
-"TERMODINÁMICA DE MATERIALES","MTRG1040       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12E"
-"INOCUIDAD ALIMENTARIA","ALIG1039       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12H"
-"GEOLOGÍA ESTRUCTURAL","GEOG1032       ","Facultad de Ingeniería en Ciencias de la Tierra","13H"
-"MATERIA INTEGRADORA DE INGENIERÍA CIVIL","CIVG1054       ","Facultad de Ingeniería en Ciencias de la Tierra","13H"
-"GEOMETRÍA DIFERENCIAL","MATG1080       ","Facultad de Ciencias Naturales y Matemáticas","9I "
-"TÉCNICAS DE MUESTREO Y ANÁLISIS MULTIVARIADO","ESTG1040       ","Facultad de Ciencias Naturales y Matemáticas","9M "
-"MATERIA INTEGRADORA DE ECONOMÍA","ECOG2053       ","Facultad de Ciencias Sociales y Humanísticas","FCSH"
-"MATERIA INTEGRADORA DE ADMINISTRACIÓN DE EMPRESAS","ADMG2031       ","Facultad de Ciencias Sociales y Humanísticas","FCSH"
-"ARQUEOLOGÍA DEL ECUADOR I","ARQG2033       ","Facultad de Ciencias Sociales y Humanísticas","13C"
-"SIMULACIÓN DE RESERVORIOS","PETG1028       ","Facultad de Ingeniería en Ciencias de la Tierra","13G"
-"PROTOTIPADO AVANZADO","DING2038       ","Facultad de Arte, Diseño y Comunicación Audiovisual","14B"
-"OCEANOGRAFÍA PESQUERA","OCEG1042       ","Facultad de Ingeniería Marítima y Ciencias del Mar","5K "
-"MATERIA INTEGRADORA DE OCEANOGRAFÍA","OCEG1043       ","Facultad de Ingeniería Marítima y Ciencias del Mar","5K "
-"MODELOS ESTADÍSTICOS APLICADOS II","ESTG1046       ","Facultad de Ciencias Naturales y Matemáticas","8G "
-"FUNDAMENTOS DE OPTIMIZACIÓN","MATG1072       ","Facultad de Ciencias Naturales y Matemáticas","8G "
-"ARQUEOLOGÍA DE MESOAMÉRICA","ARQG2021       ","Facultad de Ciencias Sociales y Humanísticas","9F "
-"ECOSISTEMAS ACUÍCOLAS","ACUG1041       ","Facultad de Ingeniería Marítima y Ciencias del Mar","5K "
-"DATOS CATEGÓRICOS","ESTG1044       ","Facultad de Ciencias Naturales y Matemáticas","8G "
-"APRENDIZAJE ESTADÍSTICO","ESTG1055       ","Facultad de Ciencias Naturales y Matemáticas","9C "
-"MATEMÁTICA APLICADA A LA INGENIERÍA","MATG1053       ","Facultad de Ciencias Naturales y Matemáticas","9C "
-"ECUACIONES DIFERENCIALES I","MATG1068       ","Facultad de Ciencias Naturales y Matemáticas","9I "
-"OPTIMIZACIÓN NO LINEAL Y ESTOCÁSTICA","MATG1060       ","Facultad de Ciencias Naturales y Matemáticas","9M "
-"SISTEMAS DE TRANSPORTE","LOGG1019       ","Facultad de Ciencias Naturales y Matemáticas","9M "
-"PISCICULTURA","ACUG1047       ","Facultad de Ingeniería Marítima y Ciencias del Mar","CENAIM"
-"INGENIERÍA DE METALES","MTRG1030       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12E"
-"MATERIA INTEGRADORA DE ELECTRICIDAD","ELEG1042       ","Facultad de Ingeniería en Electricidad y Computación","FIEC"
-"MATERIA INTEGRADORA DE INGENIERÍA INDUSTRIAL","INDG1043       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12C"
-"SISTEMAS ENERGÉTICOS SOSTENIBLES","MECG1071       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12H"
-"EVOLUCIÓN","MEDG1021       ","Facultad de Ciencias de la Vida","3D "
-"ECOLOGÍA ACUÁTICA","ADSG1020       ","Facultad de Ciencias de la Vida","3D "
-"EVOLUCIÓN","MEDG1021       ","Facultad de Ciencias de la Vida","3H "
-"CULTIVO DE ESPECIES NO TRADICIONALES","ACUG1039       ","Facultad de Ingeniería Marítima y Ciencias del Mar","5K "
-"ACUICULTURA ORNAMENTAL","ACUG1035       ","Facultad de Ingeniería Marítima y Ciencias del Mar","CENAIM"
-"MATERIA INTEGRADORA DE AUDITORÍA Y CONTROL DE GESTIÓN","AUDG2040       ","Facultad de Ciencias Sociales y Humanísticas","FCSH"
-"MATERIA INTEGRADORA DE MECATRÓNICA","MCTG1028       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12C"
-"ENTOMOLOGÍA","MEDG1020       ","Facultad de Ciencias de la Vida","3D "
-"ORÍGENES DE LOS ESTADOS PREHISPÁNICOS","ARQG2037       ","Facultad de Ciencias Sociales y Humanísticas","13C"
-"TALLER DE DISEÑO II","DING2040       ","Facultad de Arte, Diseño y Comunicación Audiovisual","14B"
-"ANÁLISIS NUMÉRICO","MATG1076       ","Facultad de Ciencias Naturales y Matemáticas","8G "
-"ANÁLISIS MATEMÁTICO I","MATG1070       ","Facultad de Ciencias Naturales y Matemáticas","9I "
-"GESTIÓN Y MARCO REGULATORIO DEL SECTOR ELÉCTRICO","ELEG1037       ","Facultad de Ingeniería en Electricidad y Computación","11F"
-"SISTEMAS DE INFORMACIÓN APLICADOS A LOGÍSTICA","CCPG1058       ","Facultad de Ciencias Naturales y Matemáticas","9C "
-"MATERIA INTEGRADORA DE DISEÑO GRÁFICO","DIGG2034       ","Facultad de Arte, Diseño y Comunicación Audiovisual","FADCOM"
-"MATERIA INTEGRADORA DE DISEÑO DE PRODUCTOS","DING2032       ","Facultad de Arte, Diseño y Comunicación Audiovisual","14B"
-"BIOQUÍMICA ALIMENTARIA","ALIG1030       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12H"
-"INGENIERÍA DE POLÍMEROS","MTRG1031       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12H"
-"CONTAMINACIÓN AMBIENTAL","ADSG1019       ","Facultad de Ciencias de la Vida","3D "
-"VIROLOGÍA","BIOG1029       ","Facultad de Ciencias de la Vida","3D "
-"ANÁLISIS DE INFORMACIÓN OCEANOGRÁFICA","OCEG1028       ","Facultad de Ingeniería Marítima y Ciencias del Mar","5K "
-"OPTIMIZACION DE SISTEMAS DE POTENCIA","ELEG1045       ","Facultad de Ingeniería en Electricidad y Computación","11F"
-"CONTROL DE CALIDAD Y EVALUACIÓN SENSORIAL DE ALIMENTOS","ALIG1031       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12H"
-"SISTEMAS Y PROGRAMACIÓN DE PRODUCCIÓN","INDG1058       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12H"
-"MUSEOS Y ESPACIOS DE CONSERVACIÓN DE LA MEMORIA","ARQG2027       ","Facultad de Ciencias Sociales y Humanísticas","9F "
-"INTRODUCCIÓN A LAS TELECOMUNICACIONES","TELG1032       ","Facultad de Ingeniería en Electricidad y Computación","11D"
-"MODELADO TRIDIMENSIONAL","DING2036       ","Facultad de Arte, Diseño y Comunicación Audiovisual","14B"
-"MATERIA INTEGRADORA DE INGENIERÍA NAVAL","NAVG1034       ","Facultad de Ingeniería Marítima y Ciencias del Mar","5K "
-"MATERIA INTEGRADORA DE ACUICULTURA","ACUG1058       ","Facultad de Ingeniería Marítima y Ciencias del Mar","CENAIM"
-"TRANSPORTE URBANO","LOGG1022       ","Facultad de Ciencias Naturales y Matemáticas","9M "
-"MATERIA INTEGRADORA DE TELECOMUNICACIONES","TELG1033       ","Facultad de Ingeniería en Electricidad y Computación","11D"
-"TOPOGRAFÍA","CIVG1059       ","Facultad de Ingeniería en Ciencias de la Tierra","13H"
-"FOTOGRAFÍA PARA MEDIOS","CADG2031       ","Facultad de Arte, Diseño y Comunicación Audiovisual","14B"
-"PRODUCCIÓN PECUARIA II","AGRG1038       ","Facultad de Ciencias de la Vida","3D "
-"BIOQUÍMICA","BIOG1024       ","Facultad de Ciencias de la Vida","3H "
-"BOTÁNICA SISTEMÁTICA","MEDG1018       ","Facultad de Ciencias de la Vida","3H "
-"SIMULACIÓN MATEMÁTICA","ESTG1057       ","Facultad de Ciencias Naturales y Matemáticas","8G "
-"MÉTODOS MATEMÁTICOS PARA LAS CIENCIAS","MATG1075       ","Facultad de Ciencias Naturales y Matemáticas","9M "
-"INTERNETWORKING","TLMG1030       ","Facultad de Ingeniería en Electricidad y Computación","11B"
-"PATOLOGÍA ACUÍCOLA II","ACUG1056       ","Facultad de Ingeniería Marítima y Ciencias del Mar","5K "
-"RIEGO Y DRENAJE","AGRG1035       ","Facultad de Ciencias de la Vida","3H "
-"ERGONOMÍA","DING2028       ","Facultad de Arte, Diseño y Comunicación Audiovisual","14B"
-"MATERIALES Y MANUFACTURA I","DING2033       ","Facultad de Arte, Diseño y Comunicación Audiovisual","14B"
-"OPTIMIZACIÓN NUMÉRICA","MATG1058       ","Facultad de Ciencias Naturales y Matemáticas","8G "
-"FUNDAMENTOS DE LA INGENIERÍA EN ALIMENTOS","ALIG1037       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12H"
-"TALLER DE DISEÑO III","DING2041       ","Facultad de Arte, Diseño y Comunicación Audiovisual","14B"
-"EXTENSIONISMO","CCAG1002       ","Facultad de Ciencias de la Vida","3H "
-"PLATAFORMAS MULTIMODALES","LOGG1025       ","Facultad de Ciencias Naturales y Matemáticas","9M "
-"MANUFACTURA SOSTENIBLE","MTRG1033       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12H"
-"ZOOLOGÍA DE INVERTEBRADOS","MEDG1026       ","Facultad de Ciencias de la Vida","3D "
-"OCEANOGRAFÍA COSTERA","OCEG1048       ","Facultad de Ingeniería Marítima y Ciencias del Mar","5K "
-"ESTRUCTURAS ALGEBRAICAS","MATG1073       ","Facultad de Ciencias Naturales y Matemáticas","9M "
-"MICROBIOLOGÍA DE ALIMENTOS","ALIG1041       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12H"
-"DISEÑO Y GESTIÓN DE RELLENOS SANITARIOS","CIVG1061       ","Facultad de Ingeniería en Ciencias de la Tierra","13H"
-"DISEÑO DE PRODUCTOS II","DING2024       ","Facultad de Arte, Diseño y Comunicación Audiovisual","14B"
-"CÁLCULO II","MATG1064       ","Facultad de Ciencias Naturales y Matemáticas","8G "
-"GEOESTADISTICA","ESTG1033       ","Facultad de Ciencias Naturales y Matemáticas","8G "
-"ESTRUCTURAS Y MECANISMOS II","DING2030       ","Facultad de Arte, Diseño y Comunicación Audiovisual","14B"
-"BIOINFORMÁTICA","BIOG1030       ","Facultad de Ciencias de la Vida","3H "
-"MATERIA INTEGRADORA DE GEOLOGÍA","GEOG1039       ","Facultad de Ingeniería en Ciencias de la Tierra","FICT"
-"BUCEO Y ACTIVIDADES NAÚTICAS","DEPG2018       ","ESCUELA SUPERIOR POLITECNICA DEL LITORAL","5K "
-"MODELIZACIÓN DEL TRANSPORTE","LOGG1020       ","Facultad de Ciencias Naturales y Matemáticas","9M "
-"MODELOS ESTADÍSTICOS APLICADOS I","ESTG1045       ","Facultad de Ciencias Naturales y Matemáticas","9M "
-"PROYECTO AUDIOVISUAL II","CADG2040       ","Facultad de Arte, Diseño y Comunicación Audiovisual","14B"
-"ECOLOGÍA GENERAL","ADSG1022       ","Facultad de Ciencias de la Vida","3D "
-"DISEÑO COSTERO","OCEG1034       ","Facultad de Ingeniería Marítima y Ciencias del Mar","5K "
-"QUÍMICA ORGÁNICA","QUIG1035       ","Facultad de Ciencias Naturales y Matemáticas","9M "
-"ELECTRICIDAD BÁSICA","ELEG1034       ","Facultad de Ingeniería en Electricidad y Computación","11D"
-"MATERIA INTEGRADORA DE TELEMÁTICA","TLMG1031       ","Facultad de Ingeniería en Electricidad y Computación","BLOQUE VIRTUAL"
-"CHINO-MANDARÍN I","IDIG2013       ","Facultad de Ciencias Sociales y Humanísticas","8E "
-"PRESUPUESTOS Y PROYECTOS LOGÍSTICOS","LOGG1023       ","Facultad de Ciencias Naturales y Matemáticas","9I "
-"PRODUCCIÓN ACUÍCOLA II","ACUG1045       ","Facultad de Ingeniería Marítima y Ciencias del Mar","CENAIM"
-"ROBÓTICA INDUSTRIAL","EYAG1042       ","Facultad de Ingeniería en Electricidad y Computación","11D"
-"CIRCUITOS DE ALTA FRECUENCIA Y MICROONDAS","TELG1027       ","Facultad de Ingeniería en Electricidad y Computación","11D"
-"GESTIÓN DE BODEGAS Y ABASTECIMIENTO","LOGG1021       ","Facultad de Ciencias Naturales y Matemáticas","9C "
-"ECONOMÍA MATEMÁTICA","ECOG2049       ","Facultad de Ciencias Sociales y Humanísticas","9F "
-"SISTEMAS DE INFORMACIÓN GEOGRÁFICA","GEOG1047       ","Facultad de Ingeniería en Ciencias de la Tierra","FICT"
-"GESTIÓN HOTELERA","TURG2030       ","Facultad de Ciencias Sociales y Humanísticas","FCSH"
-"QUÍMICA ALIMENTARIA","ALIG1050       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12H"
-"ANÁLISIS MATEMÁTICO II","MATG1071       ","Facultad de Ciencias Naturales y Matemáticas","9M "
-"INGENIERÍA DE PROCESOS ALIMENTARIOS","ALIG1038       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12C"
-"ORGANIZACIÓN DE COMPUTADORES","CCPG1049       ","Facultad de Ingeniería en Electricidad y Computación","11A"
-"TALLER DE DISEÑO IV","DING2042       ","Facultad de Arte, Diseño y Comunicación Audiovisual","11C"
-"MINERALOGÍA","GEOG1041       ","Facultad de Ingeniería en Ciencias de la Tierra","13D"
-"ALIMENTOS Y BEBIDAS","TURG2019       ","Facultad de Ciencias Sociales y Humanísticas","14B"
-"MEZCLA DE SONIDO","CADG2044       ","Facultad de Arte, Diseño y Comunicación Audiovisual","14B"
-"ZOOLOGÍA DE VERTEBRADOS","MEDG1025       ","Facultad de Ciencias de la Vida","BLOQUE VIRTUAL"
-"ESTRUCTURAS Y MECANISMOS I","DING2029       ","Facultad de Arte, Diseño y Comunicación Audiovisual","14B"
-"TÉCNICAS DE MANEJO COSTERO","OCEG1044       ","Facultad de Ingeniería Marítima y Ciencias del Mar","5K "
-"PROCESOS DE MANUFACTURA","MECG1053       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12C"
-"NARRATIVA AUDIOVISUAL","CADG2034       ","Facultad de Arte, Diseño y Comunicación Audiovisual","14B"
-"ELEMENTOS FINITOS","NAVG1042       ","Facultad de Ingeniería Marítima y Ciencias del Mar","5K "
-"TELEMÁTICA Y TRANSFORMACIÓN DIGITAL","TLMG1036       ","Facultad de Ingeniería en Electricidad y Computación","11B"
-"DISEÑO DIGITAL","DING2027       ","Facultad de Arte, Diseño y Comunicación Audiovisual","14B"
-"REMEDIACIÓN AMBIENTAL","ADSG1023       ","Facultad de Ciencias de la Vida","3D "
-"SERIES DE TIEMPO","ESTG1051       ","Facultad de Ciencias Naturales y Matemáticas","8G "
-"PROGRAMACIÓN DE SISTEMAS TELEMÁTICOS","TLMG1037       ","Facultad de Ingeniería en Electricidad y Computación","11B"
-"DISEÑO DE REDES CONMUTADAS","TELG1030       ","Facultad de Ingeniería en Electricidad y Computación","FIEC"
-"SISTEMAS DE COMUNICACIONES II","TELG1039       ","Facultad de Ingeniería en Electricidad y Computación","11A"
-"INTRODUCCIÓN A LAS ENERGÍAS RENOVABLES","ELEG1052       ","Facultad de Ingeniería en Electricidad y Computación","13G"
-"INVESTIGACIÓN AUDIOVISUAL","ARTG2030       ","Facultad de Arte, Diseño y Comunicación Audiovisual","14B"
-"TALLER DE DISEÑO I","DING2039       ","Facultad de Arte, Diseño y Comunicación Audiovisual","14B"
-"MATERIALES Y MANUFACTURA III","DING2035       ","Facultad de Arte, Diseño y Comunicación Audiovisual","14B"
-"REDES INALÁMBRICAS Y DE SENSORES","TLMG1033       ","Facultad de Ingeniería en Electricidad y Computación","FIEC"
-"DISEÑO MECÁNICO","MECG1045       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12C"
-"ADMINISTRACIÓN DE OPERACIONES","ADMG2022       ","Facultad de Ciencias Sociales y Humanísticas","9B "
-"MATERIA INTEGRADORA DE ELECTRÓNICA Y AUTOMATIZACIÓN","EYAG1039       ","Facultad de Ingeniería en Electricidad y Computación","11A"
-"INTRODUCCIÓN AL RAZONAMIENTO MATEMÁTICO","MATG1056       ","Facultad de Ciencias Naturales y Matemáticas","9I "
-"ESTADÍSTICA MATEMÁTICA","ESTG1039       ","Facultad de Ciencias Naturales y Matemáticas","9M "
-"SÍNTESIS Y CARACTERIZACIÓN DE PRODUCTOS QUÍMICOS","QUIG1049       ","Facultad de Ciencias Naturales y Matemáticas","9M "
-"GEOMETRÍA AXIOMÁTICA","MATG1062       ","Facultad de Ciencias Naturales y Matemáticas","9M "
-"ENTRENAMIENTO DE FUERZA","DEPG2019       ","ESCUELA SUPERIOR POLITECNICA DEL LITORAL","DEPORTES"
-"HORMIGÓN Y MATERIALES DE CONSTRUCCIÓN","CIVG1047       ","Facultad de Ingeniería en Ciencias de la Tierra","13H"
-"DISEÑO DE PRODUCTOS III","DING2025       ","Facultad de Arte, Diseño y Comunicación Audiovisual","14B"
-"APLICACIONES MÓVILES Y SERVICIOS TELEMÁTICOS","TLMG1024       ","Facultad de Ingeniería en Electricidad y Computación","11C"
-"SISTEMAS DE COMUNICACIONES I","TELG1038       ","Facultad de Ingeniería en Electricidad y Computación","11A"
-"DISEÑO DE PROCESOS TÉRMICOS I","ALIG1034       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12C"
-"REOLOGÍA DE FLUIDOS","MECG1067       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12H"
-"INGENIERÍA SISMO-RESISTENTE","CIVG1052       ","Facultad de Ingeniería en Ciencias de la Tierra","13H"
-"DISEÑO DE PRODUCTOS I","DING2023       ","Facultad de Arte, Diseño y Comunicación Audiovisual","14B"
-"PRODUCCIÓN PARA NUEVOS MEDIOS","CADG2038       ","Facultad de Arte, Diseño y Comunicación Audiovisual","14B"
-"SALUD COMUNITARIA","MEDG2020       ","Facultad de Ciencias de la Vida","3H "
-"MAQUINARIA MARÍTIMA II","NAVG1037       ","Facultad de Ingeniería Marítima y Ciencias del Mar","5K "
-"ESTRATEGIAS DE GESTIÓN","ADMG1007       ","Facultad de Ciencias Sociales y Humanísticas","9F "
-"FORMULACIÓN Y EVALUACIÓN DE PROYECTOS","ECOG2058       ","Facultad de Ciencias Sociales y Humanísticas","9F "
-"TENIS","DEPG2023       ","ESCUELA SUPERIOR POLITECNICA DEL LITORAL","DEPORTES"
-"DISEÑO ESTRUCTURAL","CIVG1039       ","Facultad de Ingeniería en Ciencias de la Tierra","13H"
-"MATERIA INTEGRADORA DE PRODUCCIÓN PARA MEDIOS DE COMUNICACIÓN","CADG2043       ","Facultad de Arte, Diseño y Comunicación Audiovisual","FADCOM"
-"MATERIA INTEGRADORA DE LOGÍSTICA Y TRANSPORTE","LOGG1027       ","Facultad de Ciencias Naturales y Matemáticas","FCNM"
-"TEORÍA ELECTROMAGNÉTICA","ELEG1051       ","Facultad de Ingeniería en Electricidad y Computación","11D"
-"DISEÑO DE PLANTAS ALIMENTARIAS","ALIG1033       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12H"
-"PRINCIPIOS DE ECOTOXICOLOGÍA","ADSG1024       ","Facultad de Ciencias de la Vida","3D "
-"ECOLOGÍA DE ECOSISTEMAS","ADSG1021       ","Facultad de Ciencias de la Vida","3H "
-"BIENESTAR ANIMAL","ACUG1037       ","Facultad de Ingeniería Marítima y Ciencias del Mar","5K "
-"MODELADO Y SIMULACIÓN DE ESTRUCTURAS Y MÁQUINAS","MECG1073       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12H"
-"BIOLOGÍA DE LA CONSERVACIÓN","MEDG1016       ","Facultad de Ciencias de la Vida","3H "
-"NUTRICIÓN EN EL CICLO DE LA VIDA II","NUTG2037       ","Facultad de Ciencias de la Vida","3H "
-"DESARROLLO ORGANIZACIONAL","ADMG2026       ","Facultad de Ciencias Sociales y Humanísticas","FCSH"
-"MATERIA INTEGRADORA DE COMPUTACIÓN","CCPG1035       ","Facultad de Ingeniería en Electricidad y Computación","FIEC"
-"BALONCESTO","DEPG2025       ","ESCUELA SUPERIOR POLITECNICA DEL LITORAL","DEPORTES"
-"POSTPRODUCCIÓN","CADG2035       ","Facultad de Arte, Diseño y Comunicación Audiovisual","14B"
-"MATEMÁTICAS SUPERIORES","MATG1054       ","Facultad de Ciencias Naturales y Matemáticas","9I "
-"SANIDAD E HIGIENE ALIMENTARIA","ALIG1047       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12H"
-"ANÁLISIS ESTRUCTURAL","CIVG1034       ","Facultad de Ingeniería en Ciencias de la Tierra","13H"
-"FISIOLOGÍA ANIMAL","BIOG1023       ","Facultad de Ciencias de la Vida","3D "
-"ESTABILIDAD Y CONTROL DE SISTEMAS DE POTENCIA","ELEG1036       ","Facultad de Ingeniería en Electricidad y Computación","11F"
-"AMBIENTES INTELIGENTES","TLMG1023       ","Facultad de Ingeniería en Electricidad y Computación","11C"
-"CALIDAD DE SERVICIO Y REDES MULTIMEDIA","TLMG1025       ","Facultad de Ingeniería en Electricidad y Computación","11D"
-"PROCESAMIENTO DE FRUTAS Y VEGETALES","ALIG1044       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12H"
-"MATERIA INTEGRADORA DE ALIMENTOS","ALIG1040       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12H"
-"APRECIACIÓN MUSICAL","ARTG2045       ","Facultad de Arte, Diseño y Comunicación Audiovisual","14B"
-"EVALUACIÓN DEL ESTADO NUTRICIONAL I","NUTG2029       ","Facultad de Ciencias de la Vida","3H "
-"TRATAMIENTO DE AGUAS","ADSG1029       ","Facultad de Ciencias Naturales y Matemáticas","9M "
-"INTERACCIÓN HUMANO COMPUTADOR","CCPG1046       ","Facultad de Ingeniería en Electricidad y Computación","FIEC"
-"HERRAMIENTAS DE MANUFACTURA ESBELTA","INDG1038       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12C"
-"DESARROLLO DE NUEVOS PRODUCTOS ALIMENTICIOS","ALIG1032       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12H"
-"PLANIFICACIÓN Y CONSTRUCCIÓN","OCEG1045       ","Facultad de Ingeniería Marítima y Ciencias del Mar","5K "
-"CIBERSEGURIDAD Y GESTIÓN DE REDES","TLMG1026       ","Facultad de Ingeniería en Electricidad y Computación","11D"
-"DISEÑO DE SONIDO","CADG2042       ","Facultad de Arte, Diseño y Comunicación Audiovisual","14B"
-"EMBRIOLOGÍA","MEDG1019       ","Facultad de Ciencias de la Vida","3H "
-"CONSTRUCCIÓN DE OBRAS PORTUARIAS","OCEG1031       ","Facultad de Ingeniería Marítima y Ciencias del Mar","5K "
-"INTRODUCCIÓN A LA ECONOMÍA","ECOG2067       ","Facultad de Ciencias Sociales y Humanísticas","9F "
-"INTRODUCCIÓN A LA ESTADÍSTICA","ESTG1035       ","Facultad de Ciencias Naturales y Matemáticas","9I "
-"TEORÍA DEL DISEÑO","DING2043       ","Facultad de Arte, Diseño y Comunicación Audiovisual","14B"
-"ADMINISTRACIÓN DE SISTEMAS Y SERVICIOS EN RED","TLMG1022       ","Facultad de Ingeniería en Electricidad y Computación","11B"
-"TRANSFERENCIA DE CALOR","MECG1058       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12H"
-"GESTIÓN DE OBRAS CIVILES","CIVG1041       ","Facultad de Ingeniería en Ciencias de la Tierra","13H"
-"FINANZAS INTERNACIONALES","ECOG2051       ","Facultad de Ciencias Sociales y Humanísticas","9F "
-"MACROECONOMÍA I","ECOG2063       ","Facultad de Ciencias Sociales y Humanísticas","9F "
-"INGENIERÍA DE TRÁNSITO","LOGG1024       ","Facultad de Ciencias Naturales y Matemáticas","9M "
-"SISTEMAS BIOMECATRÓNICOS","MCTG1019       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12H"
-"EXPRESIÓN CORPORAL","ARTG2038       ","Facultad de Arte, Diseño y Comunicación Audiovisual","14B"
-"REDACCIÓN CREATIVA","DIGG2039       ","Facultad de Arte, Diseño y Comunicación Audiovisual","14B"
-"INMUNOLOGÍA","MEDG1024       ","Facultad de Ciencias de la Vida","3H "
-"BIOGEOGRAFÍA","MEDG1015       ","Facultad de Ciencias de la Vida","3H "
-"BIOESTADÍSTICA","ESTG1063       ","Facultad de Ciencias Naturales y Matemáticas","8G "
-"GEOGRAFÍA TURÍSTICA","TURG2035       ","Facultad de Ciencias Sociales y Humanísticas","9C "
-"CÁLCULO I","MATG1063       ","Facultad de Ciencias Naturales y Matemáticas","9I "
-"AJEDREZ","DEPG2017       ","ESCUELA SUPERIOR POLITECNICA DEL LITORAL","VRA"
-"PROPAGACIÓN","TELG1035       ","Facultad de Ingeniería en Electricidad y Computación","11A"
-"SISTEMAS DE POTENCIA II","ELEG1050       ","Facultad de Ingeniería en Electricidad y Computación","11D"
-"CIRCUITOS ELÉCTRICOS","ELEG1030       ","Facultad de Ingeniería en Electricidad y Computación","11D"
-"DISEÑO DE SOFTWARE","CCPG1042       ","Facultad de Ingeniería en Electricidad y Computación","11D"
-"GESTIÓN DE PROYECTOS","ADMG2037       ","Facultad de Ciencias Sociales y Humanísticas","9F "
-"ELECTRÓNICA","EYAG1034       ","Facultad de Ingeniería en Electricidad y Computación","11D"
-"PROGRAMACIÓN APLICADA A LA AUTOMATIZACIÓN","EYAG1041       ","Facultad de Ingeniería en Electricidad y Computación","11D"
-"SISTEMA DE BASES DE DATOS","TICG1018       ","Facultad de Ingeniería en Electricidad y Computación","11D"
-"INSTALACIONES ELÉCTRICAS","ELEG1038       ","Facultad de Ingeniería en Electricidad y Computación","11F"
-"TRANSFERENCIA DE CALOR Y MASA","MECG1068       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12H"
-"SISTEMAS DE MONITOREO Y CONTROL INDUSTRIAL","MCTG1022       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12H"
-"POTABILIZACIÓN Y TRATAMIENTO DEL AGUA","CIVG1055       ","Facultad de Ingeniería en Ciencias de la Tierra","13H"
-"DISEÑO DE EXPERIENCIA","DIGG2024       ","Facultad de Arte, Diseño y Comunicación Audiovisual","14B"
-"GENÉTICA","MEDG1023       ","Facultad de Ciencias de la Vida","3D "
-"LOGÍSTICA Y SERVICIO AL CLIENTE","INDG1042       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12C"
-"MÉTODOS DE INVESTIGACIÓN EN TURISMO","TURG2032       ","Facultad de Ciencias Sociales y Humanísticas","FCSH"
-"PROCESAMIENTO DE FARINÁCEOS Y OLEAGINOSAS","ALIG1043       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12H"
-"GESTIÓN DEL DISEÑO","ECOG2041       ","Facultad de Arte, Diseño y Comunicación Audiovisual","14B"
-"FRANCÉS I","IDIG2016       ","Facultad de Ciencias Sociales y Humanísticas","8E "
-"EDUCACIÓN SOCIOEMOCIONAL","CCAG1005       ","Facultad de Ciencias Sociales y Humanísticas","9F "
-"CONSEJERÍA NUTRICIONAL","MEDG2014       ","Facultad de Ciencias de la Vida","VRA"
-"GESTIÓN DE INFRAESTRUCTURA Y SERVICIOS TI","TLMG1029       ","Facultad de Ingeniería en Electricidad y Computación","11B"
-"TELEMETRÍA Y SISTEMAS CIBERFÍSICOS","TLMG1035       ","Facultad de Ingeniería en Electricidad y Computación","11D"
-"PROCESAMIENTO DIGITAL DE SEÑALES","TELG1034       ","Facultad de Ingeniería en Electricidad y Computación","11D"
-"OPTIMIZACIÓN Y SIMULACIÓN DE PROCESOS ALIMENTARIOS","ALIG1042       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12C"
-"FERMENTACIÓN Y ENZIMOLOGÍA ALIMENTARIA","ALIG1036       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12H"
-"CONTROL POR APRENDIZAJE REFORZADO","MCTG1024       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12H"
-"GUIANZA Y MANEJO DE GRUPOS","TURG2027       ","Facultad de Ciencias Sociales y Humanísticas","9F "
-"SCADA APLICADO A SISTEMAS DE POTENCIA","ELEG1048       ","Facultad de Ingeniería en Electricidad y Computación","11F"
-"PROGRAMACIÓN ENTERA PARA INGENIERÍA","INDG1051       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12C"
-"MECÁNICA DE SUELOS Y ROCAS","CIVG1060       ","Facultad de Ingeniería en Ciencias de la Tierra","13H"
-"DIETOTERAPIA BÁSICA","NUTG2028       ","Facultad de Ciencias de la Vida","3H "
-"BOTÁNICA GENERAL","MEDG1017       ","Facultad de Ciencias de la Vida","3H "
-"NUTRICIÓN EN EL CICLO DE LA VIDA I","NUTG2036       ","Facultad de Ciencias de la Vida","3H "
-"HISTORIA DEL DISEÑO INDUSTRIAL","DING2031       ","Facultad de Arte, Diseño y Comunicación Audiovisual","14B"
-"ACTUACIÓN","ARTG2044       ","Facultad de Arte, Diseño y Comunicación Audiovisual","14B"
-"TENDENCIAS EN NUTRICIÓN","NUTG2038       ","Facultad de Ciencias de la Vida","3H "
-"NUTRICIÓN CLÍNICA I","NUTG2032       ","Facultad de Ciencias de la Vida","3H "
-"TOXICOLOGÍA NUTRICIONAL Y ALIMENTARIA","NUTG2040       ","Facultad de Ciencias de la Vida","3H "
-"DIETOTERAPIA AVANZADA","NUTG2027       ","Facultad de Ciencias de la Vida","3H "
-"AUDITORÍA DE SISTEMAS INTEGRADOS","AUDG2026       ","Facultad de Ciencias Sociales y Humanísticas","FCSH"
-"TERMODINÁMICA","MECG1061       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12C"
-"DISEÑO MECATRÓNICO","MCTG1013       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12C"
-"EDICIÓN Y MONTAJE","CADG2030       ","Facultad de Arte, Diseño y Comunicación Audiovisual","14B"
-"FOTOGRAFÍA DIGITAL","CADG2045       ","Facultad de Arte, Diseño y Comunicación Audiovisual","14B"
-"FOTOGRAFÍA","ARTG2039       ","Facultad de Arte, Diseño y Comunicación Audiovisual","14B"
-"TÉCNICAS CULINARIAS","NUTG2043       ","Facultad de Ciencias de la Vida","3D "
-"MATERIALES EN MEDIOS MARINOS","NAVG1040       ","Facultad de Ingeniería Marítima y Ciencias del Mar","5K "
-"CONTABILIDAD I","AUDG2035       ","Facultad de Ciencias Sociales y Humanísticas","9B "
-"MICROECONOMÍA I","ECOG2064       ","Facultad de Ciencias Sociales y Humanísticas","9F "
-"EVALUACIÓN Y SIMULACIÓN DE REDES","TLMG1028       ","Facultad de Ingeniería en Electricidad y Computación","11A"
-"ELECTRÓNICA MÉDICA","EYAG1026       ","Facultad de Ingeniería en Electricidad y Computación","11C"
-"ENERGÍAS RENOVABLES","ELEG1035       ","Facultad de Ingeniería en Electricidad y Computación","11F"
-"FIBRAS ÓPTICAS","TELG1031       ","Facultad de Ingeniería en Electricidad y Computación","11A"
-"SISTEMAS EN LA NUBE","TLMG1034       ","Facultad de Ingeniería en Electricidad y Computación","11B"
-"MAQUINARIA ELÉCTRICA I","ELEG1040       ","Facultad de Ingeniería en Electricidad y Computación","11C"
-"DISTRIBUCIÓN ELÉCTRICA II","ELEG1033       ","Facultad de Ingeniería en Electricidad y Computación","11D"
-"ESTRUCTURAS DE DATOS","CCPG1034       ","Facultad de Ingeniería en Electricidad y Computación","11D"
-"INSTRUMENTACIÓN","MECG1046       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12H"
-"INVESTIGACIÓN EN CIENCIAS DE LA VIDA","BIOG1026       ","Facultad de Ciencias de la Vida","3D "
-"ESTRATEGIAS CORPORATIVAS Y DE NEGOCIOS","ADMG2028       ","Facultad de Ciencias Sociales y Humanísticas","9B "
-"PRESUPUESTO","ECOG2054       ","Facultad de Ciencias Sociales y Humanísticas","9B "
-"MARKETING TURÍSTICO","TURG2031       ","Facultad de Ciencias Sociales y Humanísticas","9F "
-"REFRIGERACIÓN Y CLIMATIZACIÓN","MECG1070       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12C"
-"HORMIGÓN PREFORZADO","CIVG1046       ","Facultad de Ingeniería en Ciencias de la Tierra","13H"
-"LÍNEAS DE TRANSMISIÓN Y SUBESTACIONES","ELEG1039       ","Facultad de Ingeniería en Electricidad y Computación","11D"
-"MAQUINARIA ELÉCTRICA II","ELEG1041       ","Facultad de Ingeniería en Electricidad y Computación","11D"
-"CONGRESOS Y EVENTOS","TURG2020       ","Facultad de Ciencias Sociales y Humanísticas","9B "
-"REDES DE DATOS","TLMG1032       ","Facultad de Ingeniería en Electricidad y Computación","11D"
-"SIMULACIÓN","INDG1052       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12H"
-"INTRODUCCIÓN A LA MANUFACTURA","MCTG1017       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12H"
-"PREPRODUCCIÓN","CADG2036       ","Facultad de Arte, Diseño y Comunicación Audiovisual","14B"
-"ORNITOLOGÍA","MEDG1027       ","Facultad de Ciencias de la Vida","3D "
-"EVALUACIÓN DEL ESTADO NUTRICIONAL II","NUTG2030       ","Facultad de Ciencias de la Vida","3H "
-"INGLÉS V","IDIG1010       ","Facultad de Ciencias Sociales y Humanísticas","8E "
-"DISEÑO GRÁFICO III","DIGG2031       ","Facultad de Arte, Diseño y Comunicación Audiovisual","FADCOM"
-"MACROECONOMÍA III","ECOG2059       ","Facultad de Ciencias Sociales y Humanísticas","9B "
-"SISTEMAS OPERATIVOS","CCPG1056       ","Facultad de Ingeniería en Electricidad y Computación","11D"
-"ESTÁTICA","MECG1060       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12C"
-"ANTROPOLOGÍA DEL DISEÑO","DIGG2040       ","Facultad de Arte, Diseño y Comunicación Audiovisual","14B"
-"INTRODUCCIÓN A LAS HERRAMIENTAS ÓMICAS","BIOG1025       ","Facultad de Ciencias de la Vida","3D "
-"GESTIÓN COMERCIAL","ADMG2032       ","Facultad de Ciencias Sociales y Humanísticas","FCSH"
-"ELECTRÓNICA DE POTENCIA I","EYAG1035       ","Facultad de Ingeniería en Electricidad y Computación","11A"
-"SISTEMAS DIGITALES I","EYAG1044       ","Facultad de Ingeniería en Electricidad y Computación","11A"
-"PRINCIPIOS DE ELECTRÓNICA","EYAG1040       ","Facultad de Ingeniería en Electricidad y Computación","11D"
-"ANÁLISIS DE ALGORITMOS","CCPG1036       ","Facultad de Ingeniería en Electricidad y Computación","11D"
-"COMUNICACIÓN DIGITAL DE DATOS","TLMG1027       ","Facultad de Ingeniería en Electricidad y Computación","11D"
-"MODELADO Y SIMULACIÓN EN TERMOFLUIDOS","MECG1072       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12C"
-"MECÁNICA DE SÓLIDOS","MECG1050       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12H"
-"SISTEMAS DE RECOLECCIÓN Y DISTRIBUCIÓN DE AGUA","CIVG1058       ","Facultad de Ingeniería en Ciencias de la Tierra","13H"
-"HORMIGÓN ARMADO","CIVG1045       ","Facultad de Ingeniería en Ciencias de la Tierra","13H"
-"INGENIERÍA DE CIMENTACIÓN","CIVG1049       ","Facultad de Ingeniería en Ciencias de la Tierra","13H"
-"DISEÑO DE PAVIMENTOS","CIVG1036       ","Facultad de Ingeniería en Ciencias de la Tierra","13H"
-"DISEÑO DE INTERFACES","DIGG2038       ","Facultad de Arte, Diseño y Comunicación Audiovisual","14B"
-"HISTORIA CONTEMPORÁNEA DE AMÉRICA LATINA","HISG1002       ","Facultad de Ciencias Sociales y Humanísticas","9F "
-"ELECTRÓNICA DE POTENCIA II","EYAG1036       ","Facultad de Ingeniería en Electricidad y Computación","11A"
-"DOMÓTICA E INMÓTICA","EYAG1033       ","Facultad de Ingeniería en Electricidad y Computación","11D"
-"INSTALACIONES","CIVG1053       ","Facultad de Ingeniería en Ciencias de la Tierra","13H"
-"TÉCNICAS PICTÓRICAS","ARTG2033       ","Facultad de Arte, Diseño y Comunicación Audiovisual","14B"
-"DISEÑO EDITORIAL","DIGG2027       ","Facultad de Arte, Diseño y Comunicación Audiovisual","14B"
-"NUTRICIÓN DEPORTIVA","NUTG2035       ","Facultad de Ciencias de la Vida","3H "
-"MICROECONOMÍA II","ECOG2062       ","Facultad de Ciencias Sociales y Humanísticas","9B "
-"MACROECONOMÍA II","ECOG2061       ","Facultad de Ciencias Sociales y Humanísticas","9F "
-"MANTENIMIENTO INDUSTRIAL","MECG1048       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12H"
-"DISEÑO DE SISTEMAS MECÁNICOS","MECG1043       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12H"
-"FUNDAMENTOS DE PLANIFICACIÓN TURÍSTICA","TURG2024       ","Facultad de Ciencias Sociales y Humanísticas","FCSH"
-"PROCESOS DE MECANIZACIÓN","MECG1057       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12C"
-"MECÁNICA DE MAQUINARIA","MECG1051       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12H"
-"DESARROLLO SOCIAL Y VOLUNTARIADO","CCAG1007       ","Facultad de Ciencias Sociales y Humanísticas","9F "
-"SISTEMAS DE POTENCIA I","ELEG1049       ","Facultad de Ingeniería en Electricidad y Computación","11D"
-"MÉTODOS DE ANALÍTICA PARA LA INDUSTRIA","INDG1046       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12C"
-"VIDEOGRAFÍA","CADG2046       ","Facultad de Arte, Diseño y Comunicación Audiovisual","14B"
-"PROGRAMACIÓN DE SISTEMAS","CCPG1051       ","Facultad de Ingeniería en Electricidad y Computación","FIEC"
-"CONTROL DE PROCESOS INDUSTRIALES","EYAG1031       ","Facultad de Ingeniería en Electricidad y Computación","11D"
-"PROCESAMIENTO DE LÁCTEOS","ALIG1045       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12C"
-"PROYECTOS INDUSTRIALES","INDG1048       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12H"
-"INTRODUCCIÓN A LA MECATRÓNICA","MCTG1018       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12H"
-"INGENIERÍA PORTUARIA","CIVG1051       ","Facultad de Ingeniería en Ciencias de la Tierra","13H"
-"NUTRICIÓN CLÍNICA III","NUTG2034       ","Facultad de Ciencias de la Vida","3H "
-"ECUACIONES DIFERENCIALES","MATG1050       ","Facultad de Ciencias Naturales y Matemáticas","9M "
-"LENGUAJES DE PROGRAMACIÓN","SOFG1009       ","Facultad de Ingeniería en Electricidad y Computación","11A"
-"ACTUADORES MECATRÓNICOS","MCTG1011       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12C"
-"PROCESAMIENTO DE CÁRNICOS, PESCADOS Y MARISCOS","ALIG1046       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12H"
-"DISEÑO DE PRODUCCIÓN","CADG2029       ","Facultad de Arte, Diseño y Comunicación Audiovisual","14B"
-"PROCESAMIENTO DIGITAL DE IMÁGENES","CCPG1050       ","Facultad de Ingeniería en Electricidad y Computación","11A"
-"TURBOMAQUINARIA Y PLANTAS DE POTENCIA","MECG1056       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12C"
-"FUNDAMENTOS DE ELECTRICIDAD Y SISTEMAS DIGITALES","EYAG1037       ","Facultad de Ingeniería en Electricidad y Computación","11A"
-"SISTEMAS EMBEBIDOS","EYAG1046       ","Facultad de Ingeniería en Electricidad y Computación","11D"
-"MECÁNICA VECTORIAL","MECG1052       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12C"
-"DISEÑO DE VÍAS","CIVG1038       ","Facultad de Ingeniería en Ciencias de la Tierra","13H"
-"DIRECCIÓN DE ARTE","DIGG2023       ","Facultad de Arte, Diseño y Comunicación Audiovisual","14B"
-"RESISTENCIA Y PROPULSIÓN DE BUQUES","NAVG1038       ","Facultad de Ingeniería Marítima y Ciencias del Mar","5K "
-"METAHEURÍSTICAS","MATG1061       ","Facultad de Ciencias Naturales y Matemáticas","9C "
-"INTRODUCCIÓN A LA CIENCIA DE DATOS","CCPG1047       ","Facultad de Ingeniería en Electricidad y Computación","FIEC"
-"METODOLOGÍA DE LA INVESTIGACIÓN EN COMPUTACIÓN","CCPG1048       ","Facultad de Ingeniería en Electricidad y Computación","11A"
-"METODOLOGÍA DE LA INVESTIGACIÓN EN COMPUTACIÓN","CCPG1048       ","Facultad de Ingeniería en Electricidad y Computación","11D"
-"MECÁNICA DE FLUIDOS","MECG1049       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12C"
-"NUTRICIÓN CLÍNICA II","NUTG2033       ","Facultad de Ciencias de la Vida","3H "
-"FISIOLOGÍA VEGETAL","AGRG1027       ","Facultad de Ciencias de la Vida","3H "
-"GESTIÓN DE LA PRODUCTIVIDAD","AUDG2044       ","Facultad de Ciencias Sociales y Humanísticas","9B "
-"OPERACIÓN TURÍSTICA","TURG2037       ","Facultad de Ciencias Sociales y Humanísticas","9F "
-"CONSERVACIÓN Y MANEJO AMBIENTAL EN TURISMO","TURG2021       ","Facultad de Ciencias Sociales y Humanísticas","9F "
-"INGENIERÍA DE LA CALIDAD","INDG1057       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12H"
-"GUION","CADG2032       ","Facultad de Arte, Diseño y Comunicación Audiovisual","14B"
-"HISTORIA Y FILOSOFÍA DE LAS CIENCIAS","HISG1003       ","Facultad de Ciencias Sociales y Humanísticas","9F "
-"APRECIACIÓN CINEMATOGRÁFICA","ARTG2035       ","Facultad de Arte, Diseño y Comunicación Audiovisual","FADCOM"
-"COMPUTACIÓN Y SOCIEDAD","CCPG1039       ","Facultad de Ingeniería en Electricidad y Computación","11D"
-"HIDROLOGÍA","CIVG1043       ","Facultad de Ingeniería en Ciencias de la Tierra","13H"
-"HIDRÁULICA","CIVG1044       ","Facultad de Ingeniería en Ciencias de la Tierra","13H"
-"ECONOMÍA POLÍTICA","ECOG1010       ","Facultad de Ciencias Sociales y Humanísticas","9F "
-"INGENIERÍA DE BIOPROCESOS","ALIG1051       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12H"
-"ESTRUCTURAS METÁLICAS","CIVG1040       ","Facultad de Ingeniería en Ciencias de la Tierra","13H"
-"DISEÑO GRÁFICO I","DIGG2029       ","Facultad de Arte, Diseño y Comunicación Audiovisual","14B"
-"BIOLOGÍA GENERAL","BIOG1022       ","Facultad de Ciencias de la Vida","3H "
-"INGLÉS III","IDIG1008       ","Facultad de Ciencias Sociales y Humanísticas","8F "
-"MATEMÁTICAS","MATG2007       ","Facultad de Ciencias Naturales y Matemáticas","9I "
-"BALANCE DE MATERIA Y ENERGÍA","QUIG1037       ","Facultad de Ciencias Naturales y Matemáticas","9M "
-"PROTECCIONES ELÉCTRICAS","ELEG1047       ","Facultad de Ingeniería en Electricidad y Computación","11D"
-"CENTRALES ELÉCTRICAS","ELEG1029       ","Facultad de Ingeniería en Electricidad y Computación","11F"
-"FARMACOLOGÍA Y NUTRICIÓN","MEDG2016       ","Facultad de Ciencias de la Vida","3H "
-"EPIDEMIOLOGÍA Y SALUD PÚBLICA","MEDG2015       ","Facultad de Ciencias de la Vida","3H "
-"ECONOMETRÍA II","ECOG2045       ","Facultad de Ciencias Sociales y Humanísticas","9B "
-"HISTORIA DEL CINE","ARTG2029       ","Facultad de Arte, Diseño y Comunicación Audiovisual","14B"
-"ORGANIZACIÓN INDUSTRIAL","ECOG2068       ","Facultad de Ciencias Sociales y Humanísticas","9B "
-"MATEMÁTICAS FINANCIERAS","MATG2008       ","Facultad de Ciencias Sociales y Humanísticas","9B "
-"SEGURIDAD DE LA INFORMACIÓN","CCPG1053       ","Facultad de Ingeniería en Electricidad y Computación","11A"
-"ERGONOMÍA LABORAL","INDG1036       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12C"
-"DISEÑO DE PUENTES","CIVG1037       ","Facultad de Ingeniería en Ciencias de la Tierra","13H"
-"TALLER DE ILUSTRACIÓN","ARTG2032       ","Facultad de Arte, Diseño y Comunicación Audiovisual","14B"
-"VIBRACIONES MECÁNICAS","NAVG1041       ","Facultad de Ingeniería Marítima y Ciencias del Mar","5K "
-"DESARROLLO SOCIAL Y NUEVAS TECNOLOGÍAS","CCAG1006       ","Facultad de Ciencias Sociales y Humanísticas","9F "
-"FÍSICA GENERAL","FISG2002       ","Facultad de Ciencias Naturales y Matemáticas","9M "
-"PROGRAMACIÓN ORIENTADA A OBJETOS","CCPG1052       ","Facultad de Ingeniería en Electricidad y Computación","11A"
-"DISEÑO DE SISTEMAS TERMOFLUIDOS","MECG1044       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12C"
-"INGENIERÍA AMBIENTAL","CIVG1048       ","Facultad de Ingeniería en Ciencias de la Tierra","13H"
-"LEGISLACIÓN AUDIOVISUAL","CADG2033       ","Facultad de Arte, Diseño y Comunicación Audiovisual","14B"
-"DIBUJO II","ARTG2026       ","Facultad de Arte, Diseño y Comunicación Audiovisual","14B"
-"DIBUJO ARTÍSTICO","ARTG2037       ","Facultad de Arte, Diseño y Comunicación Audiovisual","14B"
-"TÉCNICAS DIETÉTICAS","NUTG2042       ","Facultad de Ciencias de la Vida","3H "
-"MICROBIOLOGÍA GENERAL","BIOG1028       ","Facultad de Ciencias de la Vida","3H "
-"INGLÉS IV","IDIG1009       ","Facultad de Ciencias Sociales y Humanísticas","8F "
-"ÁLGEBRA LINEAL I","MATG1066       ","Facultad de Ciencias Naturales y Matemáticas","9I "
-"FENÓMENOS DE TRANSPORTE DE MASA","QUIG1042       ","Facultad de Ciencias Naturales y Matemáticas","9M "
-"FUNDAMENTOS DE PROGRAMACIÓN","CCPG1043       ","Facultad de Ingeniería en Electricidad y Computación","11A"
-"DISEÑO Y SIMULACIÓN DE MÁQUINAS","MCTG1015       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12C"
-"TÉCNICAS DE IMPRESIÓN","DIGG2037       ","Facultad de Arte, Diseño y Comunicación Audiovisual","14B"
-"SERVICIOS DE ALIMENTACIÓN","NUTG2039       ","Facultad de Ciencias de la Vida","3H "
-"MORFOFISIOLOGÍA HUMANA I","MEDG2018       ","Facultad de Ciencias de la Vida","3H "
-"MORFOFISIOLOGÍA HUMANA II","MEDG2019       ","Facultad de Ciencias de la Vida","3H "
-"INGLÉS I","IDIG1006       ","Facultad de Ciencias Sociales y Humanísticas","8F "
-"ECONOMÍA GERENCIAL","ECOG2047       ","Facultad de Ciencias Sociales y Humanísticas","9B "
-"GESTIÓN DEL PATRIMONIO CULTURAL","ARQG2019       ","Facultad de Ciencias Sociales y Humanísticas","9F "
-"ESTADÍSTICA","ESTG1034       ","Facultad de Ciencias Naturales y Matemáticas","9I "
-"ESTADÍSTICA I","ESTG1036       ","Facultad de Ciencias Naturales y Matemáticas","9M "
-"SISTEMAS DE CONTROL DE GESTIÓN","AUDG2042       ","Facultad de Ciencias Sociales y Humanísticas","FCSH"
-"INGENIERÍA DE SOFTWARE I","SOFG1007       ","Facultad de Ingeniería en Electricidad y Computación","11A"
-"ECONOMETRÍA III","ECOG2046       ","Facultad de Ciencias Sociales y Humanísticas","9B "
-"CONTABILIDAD DE COSTOS","AUDG2033       ","Facultad de Ciencias Sociales y Humanísticas","9F "
-"SISTEMAS DE INFORMACIÓN","CCPG1054       ","Facultad de Ingeniería en Electricidad y Computación","FIEC"
-"INTELIGENCIA ARTIFICIAL","CCPG1044       ","Facultad de Ingeniería en Electricidad y Computación","11A"
-"SISTEMAS DE CONTROL APLICADOS","MECG1055       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12H"
-"HIDRÁULICA Y NEUMÁTICA","MCTG1016       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12H"
-"DIRECCIÓN AUDIOVISUAL","CADG2027       ","Facultad de Arte, Diseño y Comunicación Audiovisual","14B"
-"INGLÉS II","IDIG1007       ","Facultad de Ciencias Sociales y Humanísticas","8F "
-"FUNDAMENTOS DE MARKETING","ADMG2030       ","Facultad de Ciencias Sociales y Humanísticas","9B "
-"ADMINISTRACIÓN LOGÍSTICA","INDG1060       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","9C "
-"GEOGRAFÍA FÍSICA","ARQG2041       ","Facultad de Ciencias Sociales y Humanísticas","9F "
-"CONTABILIDAD FINANCIERA","AUDG2034       ","Facultad de Ciencias Sociales y Humanísticas","9F "
-"OPERACIONES UNITARIAS I","QUIG1044       ","Facultad de Ciencias Naturales y Matemáticas","9M "
-"DISEÑO GRÁFICO IV","DIGG2032       ","Facultad de Arte, Diseño y Comunicación Audiovisual","FADCOM"
-"EMPRENDIMIENTO E INNOVACIÓN","ADMG1005       ","ESCUELA SUPERIOR POLITECNICA DEL LITORAL","VRA"
-"CONTROLES ELÉCTRICOS INDUSTRIALES","ELEG1031       ","Facultad de Ingeniería en Electricidad y Computación","11C"
-"DISEÑO DE APLICACIONES EN TELECOMUNICACIONES","TELG1029       ","Facultad de Ingeniería en Electricidad y Computación","11D"
-"COMUNICACIONES INDUSTRIALES Y SISTEMAS SCADA","EYAG1029       ","Facultad de Ingeniería en Electricidad y Computación","11A"
-"DIRECCIÓN DE PROYECTOS INFORMÁTICOS","CCPG1041       ","Facultad de Ingeniería en Electricidad y Computación","11A"
-"TERMOFLUIDOS","MECG1054       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12C"
-"TIPOGRAFÍA","DIGG2036       ","Facultad de Arte, Diseño y Comunicación Audiovisual","14B"
-"BIOLOGÍA CELULAR Y MOLECULAR","BIOG1021       ","Facultad de Ciencias de la Vida","3H "
-"SISTEMAS DE CONTROL","EYAG1043       ","Facultad de Ingeniería en Electricidad y Computación","11D"
-"SISTEMAS DISTRIBUIDOS Y COMPUTACIÓN EN LA NUBE","CCPG1055       ","Facultad de Ingeniería en Electricidad y Computación","11A"
-"SISTEMAS DE REDES","TELG1040       ","Facultad de Ingeniería en Electricidad y Computación","FIEC"
-"PLANIFICACIÓN DE SISTEMAS DE POTENCIA","ELEG1046       ","Facultad de Ingeniería en Electricidad y Computación","11F"
-"INGENIERÍA DE SOFTWARE II","SOFG1008       ","Facultad de Ingeniería en Electricidad y Computación","FIEC"
-"INGENIERÍA DE LA CONSTRUCCIÓN","CIVG1050       ","Facultad de Ingeniería en Ciencias de la Tierra","13H"
-"ESTUDIO DE CASOS DE CIENCIAS SOCIALES","CCAG2022       ","Facultad de Ciencias Sociales y Humanísticas","9F "
-"MATEMÁTICAS DISCRETAS","MATG1051       ","Facultad de Ciencias Naturales y Matemáticas","9M "
-"SISTEMAS DIGITALES II","EYAG1045       ","Facultad de Ingeniería en Electricidad y Computación","11A"
-"TRANSMISIÓN DE SERVICIOS MULTIMEDIA","TELG1042       ","Facultad de Ingeniería en Electricidad y Computación","11D"
-"INTRODUCCIÓN A LA HISTORIA Y ETNOHISTORIA","HISG2002       ","Facultad de Ciencias Sociales y Humanísticas","9F "
-"DISEÑO GRÁFICO II","DIGG2030       ","Facultad de Arte, Diseño y Comunicación Audiovisual","FADCOM"
-"DISEÑO DE ELEMENTOS DE MÁQUINAS","MCTG1012       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12H"
-"OPERACIONES UNITARIAS II","QUIG1045       ","Facultad de Ciencias Naturales y Matemáticas","9M "
-"INTRODUCCIÓN A LA ANTROPOLOGÍA Y ARQUEOLOGÍA","ARQG2042       ","Facultad de Ciencias Sociales y Humanísticas","9F "
-"ANIMACIÓN II","CADG2026       ","Facultad de Arte, Diseño y Comunicación Audiovisual","FADCOM"
-"HISTORIA DEL ARTE","ARTG2028       ","Facultad de Arte, Diseño y Comunicación Audiovisual","14B"
-"TERMODINÁMICA II","MECG1065       ","Facultad de Ciencias Naturales y Matemáticas","9M "
-"ARTE Y CIENCIA","ARTG2023       ","Facultad de Arte, Diseño y Comunicación Audiovisual","FADCOM"
-"AUTOMATIZACIÓN DE PROCESOS INDUSTRIALES","EYAG1028       ","Facultad de Ingeniería en Electricidad y Computación","11A"
-"MÁQUINAS Y TRANSFORMADORES","ELEG1043       ","Facultad de Ingeniería en Electricidad y Computación","11D"
-"NUTRICIÓN HUMANA Y METABOLISMO","NUTG2041       ","Facultad de Ciencias de la Vida","3H "
-"DINÁMICA DE PROCESOS Y CONTROL","QUIG1046       ","Facultad de Ciencias Naturales y Matemáticas","8G "
-"MATEMÁTICAS AVANZADAS","MATG1055       ","Facultad de Ciencias Naturales y Matemáticas","9M "
-"ANIMACIÓN I","CADG2025       ","Facultad de Arte, Diseño y Comunicación Audiovisual","FADCOM"
-"PLANIFICACIÓN DE ESPACIOS TURÍSTICOS","TURG2033       ","Facultad de Ciencias Sociales y Humanísticas","9F "
-"DESARROLLO DE JUEGOS DE VIDEO","CCPG1040       ","Facultad de Ingeniería en Electricidad y Computación","FIEC"
-"PROYECTO DE DISEÑO","DIGG2035       ","Facultad de Arte, Diseño y Comunicación Audiovisual","14B"
-"AUDITORÍA OPERACIONAL","AUDG2030       ","Facultad de Ciencias Sociales y Humanísticas","9B "
-"INVESTIGACIÓN DE OPERACIONES","INDG1041       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12H"
-"DISEÑO DE PROCESOS TÉRMICOS II","ALIG1035       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12H"
-"INVESTIGACIÓN APLICADA AL DISEÑO","DIGG2041       ","Facultad de Arte, Diseño y Comunicación Audiovisual","14B"
-"MATERIA INTEGRADORA DE NUTRICIÓN Y DIETÉTICA","NUTG2031       ","Facultad de Ciencias de la Vida","3H "
-"CONTABILIDAD AVANZADA","AUDG2032       ","Facultad de Ciencias Sociales y Humanísticas","9B "
-"GESTIÓN DE LA RELACIÓN CON EL CLIENTE","TURG2028       ","Facultad de Ciencias Sociales y Humanísticas","9B "
-"COMUNICACIONES INALÁMBRICAS","TELG1028       ","Facultad de Ingeniería en Electricidad y Computación","11A"
-"ANÁLISIS DE REDES ELÉCTRICAS","ELEG1028       ","Facultad de Ingeniería en Electricidad y Computación","11D"
-"EVALUACIÓN DE POLÍTICAS PÚBLICAS","ECOG2056       ","Facultad de Ciencias Sociales y Humanísticas","8B "
-"DISEÑO DE PLANTAS","QUIG1047       ","Facultad de Ciencias Naturales y Matemáticas","9M "
-"ANÁLISIS DE VALOR DE PRODUCTO","INDG1034       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12C"
-"INTRODUCCIÓN A LA INGENIERÍA INDUSTRIAL","INDG1040       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12C"
-"ANÁLISIS Y RESOLUCIÓN DE PROBLEMAS","INDG1033       ","ESCUELA SUPERIOR POLITECNICA DEL LITORAL","14B"
-"COMPORTAMIENTO ORGANIZACIONAL","ADMG2025       ","Facultad de Ciencias Sociales y Humanísticas","9B "
-"PATRIMONIO NATURAL Y CULTURAL","TURG2034       ","Facultad de Ciencias Sociales y Humanísticas","9B "
-"FORMAS E HIDROSTÁTICA DEL BUQUE","NAVG1032       ","Facultad de Ingeniería Marítima y Ciencias del Mar","FIMCM"
-"CONTROL AVANZADO","EYAG1030       ","Facultad de Ingeniería en Electricidad y Computación","11D"
-"DESARROLLO DE APLICACIONES WEB Y MÓVILES","SOFG1006       ","Facultad de Ingeniería en Electricidad y Computación","11D"
-"ECUACIONES DIFERENCIALES Y ÁLGEBRA LINEAL","MATG1048       ","Facultad de Ciencias Naturales y Matemáticas","9M "
-"COMERCIO EXTERIOR","ADMG2024       ","Facultad de Ciencias Sociales y Humanísticas","9F "
-"LEGISLACIÓN Y SOBERANÍA ALIMENTARIA","MEDG2017       ","Facultad de Ciencias de la Vida","3H "
-"ATENCIÓN PLENA","INDG1059       ","Facultad de Ciencias Sociales y Humanísticas","9F "
-"MATERIA INTEGRADORA DE INGENIERÍA QUÍMICA","QUIG1050       ","Facultad de Ciencias Naturales y Matemáticas","FCNM"
-"SEGURIDAD Y SALUD OCUPACIONAL","INDG1054       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12C"
-"DINÁMICA","MECG1042       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12C"
-"FÍSICA: ELECTRICIDAD Y MAGNETISMO","FISG1006       ","Facultad de Ciencias Naturales y Matemáticas","9M "
-"DESARROLLO SOSTENIBLE DEL TURISMO","TURG2023       ","Facultad de Ciencias Sociales y Humanísticas","FCSH"
-"TALLER MECÁNICO","MECG1059       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12H"
-"MODELOS ESTOCÁSTICOS PARA MANUFACTURA Y SERVICIOS","INDG1045       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12C"
-"DISEÑO DE INFORMACIÓN","DIGG2025       ","Facultad de Arte, Diseño y Comunicación Audiovisual","14B"
-"DIBUJO  I","ARTG2025       ","Facultad de Arte, Diseño y Comunicación Audiovisual","14B"
-"PRODUCCIÓN EJECUTIVA","CADG2037       ","Facultad de Arte, Diseño y Comunicación Audiovisual","14B"
-"COMUNICACIÓN","IDIG2012       ","ESCUELA SUPERIOR POLITECNICA DEL LITORAL","8G "
-"CINÉTICA Y REACTORES","QUIG1043       ","Facultad de Ciencias Naturales y Matemáticas","9C "
-"CÁLCULO VECTORIAL","MATG1046       ","Facultad de Ciencias Naturales y Matemáticas","9M "
-"FÍSICA: MECÁNICA","FISG1005       ","Facultad de Ciencias Naturales y Matemáticas","9M "
-"PLANIFICACIÓN DE LA PRODUCCIÓN","INDG1047       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12C"
-"PROCESOS INDUSTRIALES","INDG1055       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12C"
-"PRÁCTICA TRIBUTARIA","AUDG2041       ","Facultad de Ciencias Sociales y Humanísticas","9B "
-"QUÍMICA INORGÁNICA","QUIG1033       ","Facultad de Ciencias Naturales y Matemáticas","9M "
-"INVESTIGACIÓN DE MERCADOS","ADMG2035       ","Facultad de Ciencias Sociales y Humanísticas","FCSH"
-"HISTORIA Y FILOSOFÍA DEL PENSAMIENTO ECONÓMICO","ECOG2069       ","Facultad de Ciencias Sociales y Humanísticas","FCSH"
-"CONTROL INTERNO","AUDG2038       ","Facultad de Ciencias Sociales y Humanísticas","FCSH"
-"METODOLOGÍAS PARA LA MEJORA CONTINUA","INDG1044       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12C"
-"INSTRUMENTACIÓN INDUSTRIAL","EYAG1038       ","Facultad de Ingeniería en Electricidad y Computación","11A"
-"DISEÑO Y MANUFACTURA ASISTIDA POR COMPUTADORA","MCTG1014       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12C"
-"CONTABILIDAD III","AUDG2037       ","Facultad de Ciencias Sociales y Humanísticas","9B "
-"DERECHO SOCIETARIO Y LABORAL","JURG2005       ","Facultad de Ciencias Sociales y Humanísticas","FCSH"
-"AUDITORÍA FINANCIERA I","AUDG2027       ","Facultad de Ciencias Sociales y Humanísticas","FCSH"
-"CÁLCULO DE UNA VARIABLE","MATG1045       ","Facultad de Ciencias Naturales y Matemáticas","9M "
-"FENÓMENOS DE TRANSPORTE DE MOMENTUM","QUIG1039       ","Facultad de Ciencias Naturales y Matemáticas","9M "
-"INTRODUCCIÓN A LA INGENIERÍA MECÁNICA","MECG1047       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12C"
-"DISEÑO DE MARCA","DIGG2026       ","Facultad de Arte, Diseño y Comunicación Audiovisual","14B"
-"ARTE Y TECNOLOGÍA","ARTG2024       ","Facultad de Arte, Diseño y Comunicación Audiovisual","14B"
-"BIOÉTICA","NUTG2026       ","Facultad de Ciencias de la Vida","3H "
-"DERECHO TURÍSTICO Y AMBIENTAL","TURG2022       ","Facultad de Ciencias Sociales y Humanísticas","9B "
-"MUESTREO","ESTG1041       ","Facultad de Ciencias Naturales y Matemáticas","9M "
-"ANÁLISIS NUTRICIONAL DE LOS ALIMENTOS","MEDG2013       ","Facultad de Ciencias de la Vida","3H "
-"FENÓMENOS DE TRANSPORTE DE CALOR","QUIG1041       ","Facultad de Ciencias Naturales y Matemáticas","8G "
-"ÁLGEBRA LINEAL","MATG1049       ","Facultad de Ciencias Naturales y Matemáticas","9M "
-"CIENCIAS DE LA SOSTENIBILIDAD","ADSG1026       ","Facultad de Ciencias Naturales y Matemáticas","9M "
-"TEORÍA DE LA COMUNICACIÓN","COMG2002       ","Facultad de Arte, Diseño y Comunicación Audiovisual","14B"
-"SOCIOLOGÍA","CCAG2023       ","Facultad de Ciencias Sociales y Humanísticas","FCSH"
-"FUNDAMENTOS DE INVERSIONES","ECOG2055       ","Facultad de Ciencias Sociales y Humanísticas","FCSH"
-"CIENCIA E INGENIERÍA DE MATERIALES","MTRG1024       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12C"
-"ESTADÍSTICA II","ESTG1037       ","Facultad de Ciencias Naturales y Matemáticas","9M "
-"INGENIERÍA DE MÉTODOS","INDG1039       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12C"
-"GESTIÓN DE RECURSOS HUMANOS","ADMG2034       ","Facultad de Ciencias Sociales y Humanísticas","9B "
-"ESTADÍSTICA","ESTG2004       ","Facultad de Ciencias Naturales y Matemáticas","FCNM"
-"GESTION DE CALIDAD, AMBIENTE Y SEGURIDAD EN LA INDUSTRIA","ADSG1025       ","Facultad de Ciencias Naturales y Matemáticas","8G "
-"ANÁLISIS FINANCIERO","ECOG2042       ","Facultad de Ciencias Sociales y Humanísticas","9B "
-"PLANIFICACIÓN Y CONTROL FINANCIERO","ECOG2066       ","Facultad de Ciencias Sociales y Humanísticas","9C "
-"AUDITORÍA TRIBUTARIA","AUDG2031       ","Facultad de Ciencias Sociales y Humanísticas","FCSH"
-"QUÍMICA GENERAL","QUIG1032       ","Facultad de Ciencias Naturales y Matemáticas","9M "
-"CONTABILIDAD II","AUDG2036       ","Facultad de Ciencias Sociales y Humanísticas","9B "
-"PLANIFICACIÓN ESTRATÉGICA","ADMG2036       ","Facultad de Ciencias Sociales y Humanísticas","9F "
-"DIRECCIÓN ESCÉNICA","CADG2028       ","Facultad de Arte, Diseño y Comunicación Audiovisual","14B"
-"MATEMÁTICAS","MATG2009       ","Facultad de Ciencias Naturales y Matemáticas","14B"
-"AUDITORÍA FINANCIERA II","AUDG2028       ","Facultad de Ciencias Sociales y Humanísticas","FCSH"
-"DERECHO TRIBUTARIO","JURG2006       ","Facultad de Ciencias Sociales y Humanísticas","FCSH"
-"LOGÍSTICA EN SERVICIO","LOGG1026       ","Facultad de Ciencias Naturales y Matemáticas","9M "
-"FUNDAMENTOS DE ADMINISTRACIÓN","ADMG2029       ","Facultad de Ciencias Sociales y Humanísticas","9B "
-"PRONÓSTICO Y CONTROL DE INVENTARIO","INDG1056       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12C"
-"QUÍMICA ANALÍTICA E INSTRUMENTAL","QUIG1040       ","Facultad de Ciencias Naturales y Matemáticas","9M "
-"CRECIMIENTO Y DESARROLLO ECONÓMICO","ECOG2043       ","Facultad de Ciencias Sociales y Humanísticas","9B "
-"QUÍMICA ORGÁNICA I","QUIG1036       ","Facultad de Ciencias Naturales y Matemáticas","9M "
-"DESARROLLO PROFESIONAL","ADMG2027       ","Facultad de Ciencias Sociales y Humanísticas","9B "
-"FORMULACION Y EVALUACIÓN SOCIAL DE PROYECTOS","ECOG2057       ","Facultad de Ciencias Sociales y Humanísticas","9F "
-"MICROECONOMÍA III","ECOG2060       ","Facultad de Ciencias Sociales y Humanísticas","9F "
-"MICROECONOMÍA III","ECOG2060       ","Facultad de Ciencias Sociales y Humanísticas","FCSH"
-"AUDITORÍA FORENSE","AUDG2029       ","Facultad de Ciencias Sociales y Humanísticas","FCSH"
-"DISEÑO DE PLANTAS","INDG1035       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12H"
-"AUDITORÍA DE SISTEMAS DE INFORMACIÓN","CCPG1059       ","Facultad de Ingeniería en Electricidad y Computación","9B "
-"INTRODUCCIÓN A LAS TÉCNICAS DE AUDITORÍA","AUDG2043       ","Facultad de Ciencias Sociales y Humanísticas","9C "
-"GESTIÓN TRIBUTARIA","ECOG2065       ","Facultad de Ciencias Sociales y Humanísticas","FCSH"
-"HISTORIA DEL DISEÑO","DIGG2033       ","Facultad de Arte, Diseño y Comunicación Audiovisual","14B"
-"ROBOTS MÓVILES Y ARTICULADOS","MCTG1021       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12H"
-"FUNDAMENTOS DE AUDITORÍA","AUDG2039       ","Facultad de Ciencias Sociales y Humanísticas","9F "
-"SEMIÓTICA","CCAG2021       ","Facultad de Arte, Diseño y Comunicación Audiovisual","FADCOM"
-"DERECHO ECONÓMICO","JURG2004       ","Facultad de Ciencias Sociales y Humanísticas","9F "
-"ECONOMETRÍA I","ECOG2044       ","Facultad de Ciencias Sociales y Humanísticas","FCSH"
-"OPERACIÓN DE SISTEMAS DE POTENCIA","ELEG1044       ","Facultad de Ingeniería en Electricidad y Computación","11D"
-"GESTIÓN DE MARKETING","ADMG2033       ","Facultad de Ciencias Sociales y Humanísticas","9B "
-"SISTEMAS FLEXIBLES DE MANUFACTURA","MCTG1020       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12H"
-"GESTION DE PROYECTOS II","ADMP1090       ","Escuela de Postgrado en Administración de Empresas","BLOQUE A"
-"MÚSICA FOLCLÓRICA LATINOAMERICANA","ARTG2040       ","Facultad de Arte, Diseño y Comunicación Audiovisual","14B"
-"MATERIA INTEGRADORA DE DISEÑO GRÁFICO","DIGG2034       ","Facultad de Arte, Diseño y Comunicación Audiovisual","14B"
-"MINERALOGÍA","GEOG1041       ","Facultad de Ingeniería en Ciencias de la Tierra","13H"
-"MATERIA INTEGRADORA DE INGENIERÍA INDUSTRIAL","INDG1043       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12H"
-"MACROECONOMÍA III","ECOG2059       ","Facultad de Ciencias Sociales y Humanísticas","8E "
-"MATERIA INTEGRADORA DE TELEMÁTICA","TLMG1031       ","Facultad de Ingeniería en Electricidad y Computación","FIEC"
-"SISTEMAS DE INFORMACIÓN GEOGRÁFICA","GEOG1047       ","Facultad de Ingeniería en Ciencias de la Tierra","13H"
-"TÉCNICAS CULINARIAS","NUTG2043       ","Facultad de Ciencias de la Vida","3H "
-"PRESUPUESTO","ECOG2054       ","Facultad de Ciencias Sociales y Humanísticas","FCSH"
-"MATERIA INTEGRADORA DE ELECTRÓNICA Y AUTOMATIZACIÓN","EYAG1039       ","Facultad de Ingeniería en Electricidad y Computación","VRA"
-"RESISTENCIA DE MATERIALES","CIVG1056       ","Facultad de Ingeniería en Ciencias de la Tierra","13H"
-"PORTAFOLIO","DING2037       ","Facultad de Arte, Diseño y Comunicación Audiovisual","14B"
-"PINTURA","ARTG2042       ","Facultad de Arte, Diseño y Comunicación Audiovisual","14B"
-"ESTRATEGIAS CORPORATIVAS Y DE NEGOCIOS","ADMG2028       ","Facultad de Ciencias Sociales y Humanísticas","9F "
-"ANTROPOLOGÍA NUTRICIONAL","MEDG2012       ","Facultad de Ciencias de la Vida","BLOQUE VIRTUAL"
-"SISTEMAS DIGITALES II","EYAG1045       ","Facultad de Ingeniería en Electricidad y Computación","11D"
-"MECÁNICA DE SÓLIDOS","MECG1050       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12C"
-"MANTENIMIENTO INDUSTRIAL","MECG1048       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12C"
-"DESARROLLO ORGANIZACIONAL","ADMG2026       ","Facultad de Ciencias Sociales y Humanísticas","9F "
-"GESTIÓN DE LA RELACIÓN CON EL CLIENTE","TURG2028       ","Facultad de Ciencias Sociales y Humanísticas","9F "
-"PROYECTO AUDIOVISUAL I","CADG2039       ","Facultad de Arte, Diseño y Comunicación Audiovisual","14B"
-"SOCIOLOGÍA","CCAG2023       ","Facultad de Ciencias Sociales y Humanísticas","9B "
-"ECONOMETRÍA III","ECOG2046       ","Facultad de Ciencias Sociales y Humanísticas","9C "
-"METODOLOGÍA DE LA INVESTIGACIÓN EN COMPUTACIÓN","CCPG1048       ","Facultad de Ingeniería en Electricidad y Computación","FIEC"
-"TERMODINÁMICA I","MECG1064       ","Facultad de Ciencias Naturales y Matemáticas","9M "
-"CINÉTICA Y REACTORES","QUIG1043       ","Facultad de Ciencias Naturales y Matemáticas","9I "
-"HISTORIA Y FILOSOFÍA DEL PENSAMIENTO ECONÓMICO","ECOG2069       ","Facultad de Ciencias Sociales y Humanísticas","9F "
-"SISTEMAS DIGITALES I","EYAG1044       ","Facultad de Ingeniería en Electricidad y Computación","11D"
-"TERMODINÁMICA","MECG1061       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12H"
-"QUÍMICA ORGÁNICA II","QUIG1038       ","Facultad de Ciencias Naturales y Matemáticas","8G "
-"INSTALACIONES ELÉCTRICAS","ELEG1038       ","Facultad de Ingeniería en Electricidad y Computación","11D"
-"PROYECTOS INDUSTRIALES","INDG1048       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12C"
-"SEGURIDAD DE LA INFORMACIÓN","CCPG1053       ","Facultad de Ingeniería en Electricidad y Computación","11D"
-"SISTEMAS DE CONTROL DE PRODUCCIÓN","INDG1053       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12C"
-"MICROECONOMÍA I","ECOG2064       ","Facultad de Ciencias Sociales y Humanísticas","8F "
-"REDES DE DATOS","TLMG1032       ","Facultad de Ingeniería en Electricidad y Computación","11B"
-"APLICACIONES ELECTRÓNICAS","EYAG1027       ","Facultad de Ingeniería en Electricidad y Computación","11D"
-"INGLÉS IV","IDIG1009       ","Facultad de Ciencias Sociales y Humanísticas","9F "
-"COMUNICACIÓN","IDIG2012       ","ESCUELA SUPERIOR POLITECNICA DEL LITORAL","9I "
-"SISTEMAS EMBEBIDOS","EYAG1046       ","Facultad de Ingeniería en Electricidad y Computación","11A"
-"MICROECONOMÍA II","ECOG2062       ","Facultad de Ciencias Sociales y Humanísticas","9F "
-"DISEÑO DE SISTEMAS MECÁNICOS","MECG1043       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12C"
-"DIBUJO PARA INGENIERÍA","MECG1041       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12H"
-"FUNDAMENTOS DE PROGRAMACIÓN","CCPG1043       ","Facultad de Ingeniería en Electricidad y Computación","11D"
-"MATEMÁTICAS FINANCIERAS","MATG2008       ","Facultad de Ciencias Sociales y Humanísticas","9F "
-"SISTEMAS OPERATIVOS","CCPG1056       ","Facultad de Ingeniería en Electricidad y Computación","11A"
-"PROGRAMACIÓN ORIENTADA A OBJETOS","CCPG1052       ","Facultad de Ingeniería en Electricidad y Computación","11B"
-"PROGRAMACIÓN DE SISTEMAS","CCPG1051       ","Facultad de Ingeniería en Electricidad y Computación","11C"
-"ORGANIZACIÓN DE COMPUTADORES","CCPG1049       ","Facultad de Ingeniería en Electricidad y Computación","11D"
-"SISTEMAS DE CONTROL APLICADOS","MECG1055       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12C"
-"INTRODUCCIÓN A LA ECONOMÍA","ECOG2067       ","Facultad de Ciencias Sociales y Humanísticas","9B "
-"PROGRAMACIÓN DE SISTEMAS TELEMÁTICOS","TLMG1037       ","Facultad de Ingeniería en Electricidad y Computación","11D"
-"ADMINISTRACIÓN LOGÍSTICA","INDG1060       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","9B "
-"FUNDAMENTOS DE MARKETING","ADMG2030       ","Facultad de Ciencias Sociales y Humanísticas","9F "
-"ECONOMETRÍA II","ECOG2045       ","Facultad de Ciencias Sociales y Humanísticas","9F "
-"CONTABILIDAD DE COSTOS","AUDG2033       ","Facultad de Ciencias Sociales y Humanísticas","8E "
-"GESTIÓN DE LA CADENA DE SUMINISTRO SOSTENIBLE","INDG1037       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12C"
-"TERMOFLUIDOS","MECG1054       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12H"
-"ARTE Y CIENCIA","ARTG2023       ","Facultad de Arte, Diseño y Comunicación Audiovisual","14B"
-"SISTEMAS DISTRIBUIDOS Y COMPUTACIÓN EN LA NUBE","CCPG1055       ","Facultad de Ingeniería en Electricidad y Computación","11D"
-"ANÁLISIS Y RESOLUCIÓN DE PROBLEMAS","INDG1033       ","ESCUELA SUPERIOR POLITECNICA DEL LITORAL","11D"
-"GESTIÓN DE PROYECTOS","ADMG2037       ","Facultad de Ciencias Sociales y Humanísticas","FCSH"
-"FÍSICA: ELECTRÓNICA Y ÓPTICA","FISG1007       ","Facultad de Ciencias Naturales y Matemáticas","9M "
-"DERECHO SOCIETARIO Y LABORAL","JURG2005       ","Facultad de Ciencias Sociales y Humanísticas","9F "
-"FISICOQUÍMICA","QUIG1034       ","Facultad de Ciencias Naturales y Matemáticas","9M "
-"MÉTODOS NUMÉRICOS","MATG1052       ","Facultad de Ciencias Naturales y Matemáticas","9C "
-"ADMINISTRACIÓN DE OPERACIONES","ADMG2022       ","Facultad de Ciencias Sociales y Humanísticas","9F "
-"DISEÑO ESTRATÉGICO","DIGG2028       ","Facultad de Arte, Diseño y Comunicación Audiovisual","14B"
-"AGENCIAS DE VIAJE","TURG2018       ","Facultad de Ciencias Sociales y Humanísticas","9B "
-"EMPRENDIMIENTO E INNOVACIÓN","ADMG1005       ","ESCUELA SUPERIOR POLITECNICA DEL LITORAL","13B"
-"CÁLCULO DE VARIAS VARIABLES","MATG1047       ","Facultad de Ciencias Naturales y Matemáticas","9M "
-"ANÁLISIS FINANCIERO","ECOG2042       ","Facultad de Ciencias Sociales y Humanísticas","9F "
-"FÍSICA: TERMODINÁMICA Y ELECTRÓNICA","FISG1008       ","Facultad de Ciencias Naturales y Matemáticas","9M "
-"COMPORTAMIENTO ORGANIZACIONAL","ADMG2025       ","Facultad de Ciencias Sociales y Humanísticas","9F "
-"EMPRENDIMIENTO E INNOVACIÓN","ADMG1005       ","ESCUELA SUPERIOR POLITECNICA DEL LITORAL","9B "
-"FINANZAS INTERNACIONALES","ECOG2051       ","Facultad de Ciencias Sociales y Humanísticas","9B "
-"INGENIERÍA DE LA CALIDAD","INDG1057       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12C"
-"MATEMÁTICA APLICADA A LA INGENIERÍA","MATG1053       ","Facultad de Ciencias Naturales y Matemáticas","9I "
-"FUNDAMENTOS DE PROGRAMACIÓN","CCPG1043       ","Facultad de Ingeniería en Electricidad y Computación","8G "
-"ESTUDIO DE CASOS DE CIENCIAS SOCIALES","CCAG2022       ","Facultad de Ciencias Sociales y Humanísticas","9B "
-"ESTADÍSTICA","ESTG1034       ","Facultad de Ciencias Naturales y Matemáticas","9M "
-"CONTABILIDAD DE COSTOS","AUDG2033       ","Facultad de Ciencias Sociales y Humanísticas","9B "
-"MECÁNICA DE FLUIDOS","MECG1049       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","FIMCP"
-"SOCIOLOGÍA","CCAG2023       ","Facultad de Ciencias Sociales y Humanísticas","9F "
-"CONTABILIDAD FINANCIERA","AUDG2034       ","Facultad de Ciencias Sociales y Humanísticas","9B "
-"FUNDAMENTOS DE INVERSIONES","ECOG2055       ","Facultad de Ciencias Sociales y Humanísticas","9B "
-"ANÁLISIS Y RESOLUCIÓN DE PROBLEMAS","INDG1033       ","ESCUELA SUPERIOR POLITECNICA DEL LITORAL","12C"
-"COMUNICACIÓN","IDIG2012       ","ESCUELA SUPERIOR POLITECNICA DEL LITORAL","VRA"
-"ADMINISTRACIÓN DE OPERACIONES","ADMG2022       ","Facultad de Ciencias Sociales y Humanísticas","9C "
-"CÁLCULO DE UNA VARIABLE","MATG1045       ","Facultad de Ciencias Naturales y Matemáticas","8G "
-"FUNDAMENTOS DE ADMINISTRACIÓN","ADMG2029       ","Facultad de Ciencias Sociales y Humanísticas","9F "
-"INTRODUCCIÓN A LA ECONOMÍA","ECOG2067       ","Facultad de Ciencias Sociales y Humanísticas","8E "
-"EMPRENDIMIENTO E INNOVACIÓN","ADMG1005       ","ESCUELA SUPERIOR POLITECNICA DEL LITORAL","11D"
-"FUNDAMENTOS DE PROGRAMACIÓN","CCPG1043       ","Facultad de Ingeniería en Electricidad y Computación","7A "
-"MECÁNICA DE MAQUINARIA","MECG1051       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12C"
-"ANÁLISIS Y RESOLUCIÓN DE PROBLEMAS","INDG1033       ","ESCUELA SUPERIOR POLITECNICA DEL LITORAL","8G "
-"MECÁNICA DE FLUIDOS","MECG1049       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12H"
-"EMPRENDIMIENTO E INNOVACIÓN","ADMG1005       ","ESCUELA SUPERIOR POLITECNICA DEL LITORAL","14B"
-"FUNDAMENTOS DE PROGRAMACIÓN","CCPG1043       ","Facultad de Ingeniería en Electricidad y Computación","8H "
-"ANÁLISIS Y RESOLUCIÓN DE PROBLEMAS","INDG1033       ","ESCUELA SUPERIOR POLITECNICA DEL LITORAL","13B"
-"CHINO-MANDARÍN I","IDIG2013       ","Facultad de Ciencias Sociales y Humanísticas","8F "
-"INGLÉS V","IDIG1010       ","Facultad de Ciencias Sociales y Humanísticas","8F "
-"FRANCÉS I","IDIG2016       ","Facultad de Ciencias Sociales y Humanísticas","8F "
-"INTRODUCCIÓN A LA ECONOMÍA","ECOG2067       ","Facultad de Ciencias Sociales y Humanísticas","8F "
-"INGLÉS II","IDIG1007       ","Facultad de Ciencias Sociales y Humanísticas","8E "
-"INGLÉS IV","IDIG1009       ","Facultad de Ciencias Sociales y Humanísticas","8E "
-"INGLÉS III","IDIG1008       ","Facultad de Ciencias Sociales y Humanísticas","8E "
-"INGLÉS I","IDIG1006       ","Facultad de Ciencias Sociales y Humanísticas","8E "
-"ANÁLISIS Y RESOLUCIÓN DE PROBLEMAS","INDG1033       ","ESCUELA SUPERIOR POLITECNICA DEL LITORAL","5K "
-"FUNDAMENTOS DE PROGRAMACIÓN","CCPG1043       ","Facultad de Ingeniería en Electricidad y Computación","FIEC"
-"ANÁLISIS Y RESOLUCIÓN DE PROBLEMAS","INDG1033       ","ESCUELA SUPERIOR POLITECNICA DEL LITORAL","9M "
-"EMPRENDIMIENTO E INNOVACIÓN","ADMG1005       ","ESCUELA SUPERIOR POLITECNICA DEL LITORAL","7B "
-"MATEMÁTICAS FINANCIERAS","MATG2008       ","Facultad de Ciencias Sociales y Humanísticas","8E "
-"EMPRENDIMIENTO E INNOVACIÓN","ADMG1005       ","ESCUELA SUPERIOR POLITECNICA DEL LITORAL","12C"
-"INGLÉS V","IDIG1010       ","Facultad de Ciencias Sociales y Humanísticas","9F "
-"INGLÉS I","IDIG1006       ","Facultad de Ciencias Sociales y Humanísticas","9F "
-"INGLÉS I","IDIG1006       ","Facultad de Ciencias Sociales y Humanísticas","9B "
-"INGLÉS II","IDIG1007       ","Facultad de Ciencias Sociales y Humanísticas","9B "
-"CIENCIAS DE LA SOSTENIBILIDAD","ADSG1026       ","Facultad de Ciencias Naturales y Matemáticas","8G "
-"INGLÉS III","IDIG1008       ","Facultad de Ciencias Sociales y Humanísticas","9F "
-"ANÁLISIS Y RESOLUCIÓN DE PROBLEMAS","INDG1033       ","ESCUELA SUPERIOR POLITECNICA DEL LITORAL","9B "
-"ANÁLISIS Y RESOLUCIÓN DE PROBLEMAS","INDG1033       ","ESCUELA SUPERIOR POLITECNICA DEL LITORAL","9G "
-"INGLÉS IV","IDIG1009       ","Facultad de Ciencias Sociales y Humanísticas","9B "
-"FÍSICA: MECÁNICA","FISG1005       ","Facultad de Ciencias Naturales y Matemáticas","9I "
-"FUNDAMENTOS DE PROGRAMACIÓN","CCPG1043       ","Facultad de Ingeniería en Electricidad y Computación","FCNM"
-"EMPRENDIMIENTO E INNOVACIÓN","ADMG1005       ","ESCUELA SUPERIOR POLITECNICA DEL LITORAL","5K "
-"ANÁLISIS Y RESOLUCIÓN DE PROBLEMAS","INDG1033       ","ESCUELA SUPERIOR POLITECNICA DEL LITORAL","8H "
-"CÁLCULO DE UNA VARIABLE","MATG1045       ","Facultad de Ciencias Naturales y Matemáticas","9G "
-"CÁLCULO DE UNA VARIABLE","MATG1045       ","Facultad de Ciencias Naturales y Matemáticas","9I "
-"FUNDAMENTOS DE PROGRAMACIÓN","CCPG1043       ","Facultad de Ingeniería en Electricidad y Computación","FCV"
-"ANÁLISIS Y RESOLUCIÓN DE PROBLEMAS","INDG1033       ","ESCUELA SUPERIOR POLITECNICA DEL LITORAL","7B "
-"FUNDAMENTOS DE PROGRAMACIÓN","CCPG1043       ","Facultad de Ingeniería en Electricidad y Computación","FCSH"
-"DIAGNÓSTICO Y PROTECCIÓN VEGETAL I","AGRG1025       ","Facultad de Ciencias de la Vida","GEA"
-"GENOTECNIA","MEDG1022       ","Facultad de Ciencias de la Vida","GEA"
-"EXTENSIONISMO","CCAG1002       ","Facultad de Ciencias de la Vida","GEA"
-"RIEGO Y DRENAJE","AGRG1035       ","Facultad de Ciencias de la Vida","GEA"
-"PRODUCCIÓN PECUARIA II","AGRG1038       ","Facultad de Ciencias de la Vida","GEA"
-"ELECTRÓNICA","EYAG1034       ","Facultad de Ingeniería en Electricidad y Computación","11C"
-"APLICACIONES ELECTRÓNICAS","EYAG1027       ","Facultad de Ingeniería en Electricidad y Computación","11C"
-"PRINCIPIOS DE ELECTRÓNICA","EYAG1040       ","Facultad de Ingeniería en Electricidad y Computación","11A"
-"FERMENTACIÓN Y ENZIMOLOGÍA ALIMENTARIA","ALIG1036       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12G"
-"PRINCIPIOS DE ELECTRÓNICA","EYAG1040       ","Facultad de Ingeniería en Electricidad y Computación","11C"
-"PROCESAMIENTO DE FRUTAS Y VEGETALES","ALIG1044       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12G"
-"PROCESAMIENTO DE CÁRNICOS, PESCADOS Y MARISCOS","ALIG1046       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12G"
-"PROCESAMIENTO DE LÁCTEOS","ALIG1045       ","Facultad de Ingeniería en Mecánica y Ciencias de la Producción","12G"
-"INVESTIGACIÓN II","CCAG1004       ","ESCUELA SUPERIOR POLITECNICA DEL LITORAL","AULAS EDCOM"
-"INVESTIGACIÓN I","CCAG1003       ","ESCUELA SUPERIOR POLITECNICA DEL LITORAL","AULAS EDCOM"
+NOMBRE,BLOQUE,Coordenadas,LATS,LONGS
+QUIMIOMETRIA,9M,"-2.14682, -79.96671",-2.14682,-79.96671
+DISEÑO DE CIMENTACIONES SUPERFICIALES Y PROFUNDAS,9M,"-2.14682, -79.96671",-2.14682,-79.96671
+INTRODUCCIÓN A LA INDUSTRIA HIDROCARBURÍFERA,13H,"-2.14592, -79.96581",-2.14592,-79.96581
+ESTRATIGRAFIA Y SEDIMENTACIÓN,13H,"-2.14592, -79.96581",-2.14592,-79.96581
+PATOLOGÍA ACUÍCOLA I,5K,"-2.14675, -79.96303",-2.14675,-79.96303
+GEOMÁTICA,13C,"-2.14521, -79.9649",-2.14521,-79.9649
+PETROFÍSICA,13H,"-2.14592, -79.96581",-2.14592,-79.96581
+CLIMATOLOGÍA Y METEOROLOGÍA,5K,"-2.14675, -79.96303",-2.14675,-79.96303
+MATERIA INTEGRADORA DE ESTADÍSTICA,FCNM,"-2.14698, -79.96746",-2.14698,-79.96746
+ESTRUCTURA Y CARACTERIZACIÓN DE MATERIALES,12E,"-2.14471, -79.96635",-2.14471,-79.96635
+MÉTODOS GEOFÍSICOS,13H,"-2.14592, -79.96581",-2.14592,-79.96581
+GEOLOGÍA DEL PETRÓLEO,13H,"-2.14592, -79.96581",-2.14592,-79.96581
+GEOMORFOLOGIA,13H,"-2.14592, -79.96581",-2.14592,-79.96581
+BIOGEOQUÍMICA MARINA,5K,"-2.14675, -79.96303",-2.14675,-79.96303
+FUNDAMENTOS DE INGENIERÍA OCEANOGRÁFICA,5K,"-2.14675, -79.96303",-2.14675,-79.96303
+PROYECTOS DE INVESTIGACIÓN ARQUEOLÓGICA,9F,"-2.14717, -79.96779",-2.14717,-79.96779
+CAMPO DE ANTROPOLOGÍA SOCIOCULTURAL I,FCSH,"-2.1478, -79.96865",-2.1478,-79.96865
+PERFORACIÓN,13H,"-2.14592, -79.96581",-2.14592,-79.96581
+VULNERABILIDAD Y RIESGO GEOLÓGICO,13H,"-2.14592, -79.96581",-2.14592,-79.96581
+HERRAMIENTAS PARA EL DIAGNÓSTICO DE ENFERMEDADES ACUÍCOLAS,5K,"-2.14675, -79.96303",-2.14675,-79.96303
+EVALUACIÓN DE PROYECTOS HIDROCARBURÍFEROS,FICT,"-2.14532, -79.96537",-2.14532,-79.96537
+SEGURIDAD MINERA,FICT,"-2.14532, -79.96537",-2.14532,-79.96537
+"VENTILACIÓN, DRENAJE Y SISTEMAS ELÉCTRICOS",FICT,"-2.14532, -79.96537",-2.14532,-79.96537
+DISEÑO DE MATERIALES COMPUESTOS,12H,"-2.14423, -79.96633",-2.14423,-79.96633
+CALIDAD Y EFICIENCIA ENERGÉTICA,FIEC,"-2.14458, -79.96767",-2.14458,-79.96767
+GEOMÁTICA MINERA,13H,"-2.14592, -79.96581",-2.14592,-79.96581
+INGENIERÍA GEOLÓGICA,13H,"-2.14592, -79.96581",-2.14592,-79.96581
+ANTROPOLOGÍA BIOLÓGICA,9F,"-2.14717, -79.96779",-2.14717,-79.96779
+PRODUCCIÓN ACUICOLA I,CENAIM,"-1.95497, -80.72931",-1.95497,-80.72931
+PROPIEDADES DE HIDROCARBUROS Y COMPORTAMIENTO DE FASES,13H,"-2.14592, -79.96581",-2.14592,-79.96581
+EXPLOTACIÓN SUBTERRÁNEA,13H,"-2.14592, -79.96581",-2.14592,-79.96581
+OCEANOGRAFÍA FÍSICA,5K,"-2.14675, -79.96303",-2.14675,-79.96303
+OCEANOGRAFÍA DESCRIPTIVA,5K,"-2.14675, -79.96303",-2.14675,-79.96303
+ECUACIONES EN DERIVADAS PARCIALES,8G,"-2.14859, -79.9672",-2.14859,-79.9672
+TECTONICA,13H,"-2.14592, -79.96581",-2.14592,-79.96581
+DANZA,9F,"-2.14717, -79.96779",-2.14717,-79.96779
+INTRODUCCIÓN A LA INGENIERÍA EN MATERIALES,12E,"-2.14471, -79.96635",-2.14471,-79.96635
+MATERIA INTEGRADORA EN ARQUEOLOGÍA,13C,"-2.14521, -79.9649",-2.14521,-79.9649
+PLANEAMIENTO Y DISEÑO MINERO,13H,"-2.14592, -79.96581",-2.14592,-79.96581
+PERFORACIÓN Y VOLADURA,13H,"-2.14592, -79.96581",-2.14592,-79.96581
+EXPLOTACIÓN A CIELO ABIERTO,13H,"-2.14592, -79.96581",-2.14592,-79.96581
+PROCESOS ESTOCÁSTICOS,9M,"-2.14682, -79.96671",-2.14682,-79.96671
+FÍSICA: TERMODINÁMICA Y ÓPTICA,9M,"-2.14682, -79.96671",-2.14682,-79.96671
+PETROGRAFÍA,FICT,"-2.14532, -79.96537",-2.14532,-79.96537
+GEOTECNIA MINERA,13H,"-2.14592, -79.96581",-2.14592,-79.96581
+MORFOLOGÍA Y FISIOLOGÍA DE ORGANISMOS ACUÍCOLAS,5K,"-2.14675, -79.96303",-2.14675,-79.96303
+BUENAS PRÁCTICAS EN ACUICULTURA,5K,"-2.14675, -79.96303",-2.14675,-79.96303
+CONSTRUCCIÓN NAVAL CON MATERIALES COMPUESTOS,5K,"-2.14675, -79.96303",-2.14675,-79.96303
+ANÁLISIS DE FALLAS Y SELECCIÓN DE MATERIALES,12H,"-2.14423, -79.96633",-2.14423,-79.96633
+GEOLOGÍA GENERAL,13H,"-2.14592, -79.96581",-2.14592,-79.96581
+FUNDAMENTOS DE INGENIERÍA ACUÍCOLA,5K,"-2.14675, -79.96303",-2.14675,-79.96303
+OPTIMIZACIÓN LINEAL,9I,"-2.14608, -79.96717",-2.14608,-79.96717
+INGENIERÍA DE CERÁMICOS,12H,"-2.14423, -79.96633",-2.14423,-79.96633
+HIDROGEOLOGÍA,13H,"-2.14592, -79.96581",-2.14592,-79.96581
+ANÁLISIS DE DATOS ACUÍCOLAS,5K,"-2.14675, -79.96303",-2.14675,-79.96303
+MATERIA INTEGRADORA DE MINAS,FICT,"-2.14532, -79.96537",-2.14532,-79.96537
+TELEDETECCIÓN,13G,"-2.14587, -79.96552",-2.14587,-79.96552
+ECONOMIA DEL CRECIMIENTO Y DESARROLLO ,FCNM,"-2.14698, -79.96746",-2.14698,-79.96746
+ECONOMIA DEL CRECIMIENTO Y DESARROLLO ,FCSH,"-2.1478, -79.96865",-2.1478,-79.96865
+INGENIERÍA DE YACIMIENTOS I,FICT,"-2.14532, -79.96537",-2.14532,-79.96537
+SISTEMAS DINÁMICOS PARA LA TOMA DE DECISIONES,11A,"-2.14464, -79.96763",-2.14464,-79.96763
+SISTEMAS DE CONTROL EMBEBIDOS (14 AL 30 OCT 2002),11A,"-2.14464, -79.96763",-2.14464,-79.96763
+CORROSIÓN Y DEGRADACIÓN DE MATERIALES,12E,"-2.14471, -79.96635",-2.14471,-79.96635
+MINERALOGÍA ÓPTICA,13B,"-2.1456, -79.96506",-2.1456,-79.96506
+LABORATORIO DE ARQUEOLOGÍA II,13C,"-2.14521, -79.9649",-2.14521,-79.9649
+TRANSPORTE MULTIMODAL,8G,"-2.14859, -79.9672",-2.14859,-79.9672
+MÉTODOS ROBUSTOS Y NO PARAMÉTRICOS,9M,"-2.14682, -79.96671",-2.14682,-79.96671
+SOLDADURA Y ENSAYOS NO DESTRUCTIVOS,12H,"-2.14423, -79.96633",-2.14423,-79.96633
+PRIMER POBLAMIENTO AMERICANO,13C,"-2.14521, -79.9649",-2.14521,-79.9649
+DEPÓSITOS MINERALES,13H,"-2.14592, -79.96581",-2.14592,-79.96581
+INGENIERÍA DE PRODUCCIÓN I,13H,"-2.14592, -79.96581",-2.14592,-79.96581
+PALEONTOLOGÍA APLICADA,13H,"-2.14592, -79.96581",-2.14592,-79.96581
+COMPLETACIÓN Y REACONDICIONAMIENTO DE POZOS,13H,"-2.14592, -79.96581",-2.14592,-79.96581
+DIAGNÓSTICO Y PROTECCIÓN VEGETAL I,3H,"-2.15229, -79.95582",-2.15229,-79.95582
+ARQUEOLOGÍA SOCIAL LATINOAMERICANA,9F,"-2.14717, -79.96779",-2.14717,-79.96779
+ARQUEOLOGÍA DEL ECUADOR II,9F,"-2.14717, -79.96779",-2.14717,-79.96779
+PRODUCCIÓN VEGETAL I,GEA,"-2.15133, -79.95574",-2.15133,-79.95574
+TRANSFORMACIONES DE FASES,12E,"-2.14471, -79.96635",-2.14471,-79.96635
+SÍNTESIS DE MATERIALES,12H,"-2.14423, -79.96633",-2.14423,-79.96633
+ANTROPOLOGÍA NUTRICIONAL,3H,"-2.15229, -79.95582",-2.15229,-79.95582
+MATERIA INTEGRADORA DE MATEMÁTICA,FCNM,"-2.14698, -79.96746",-2.14698,-79.96746
+MACHINE LEARNING,FIEC,"-2.14458, -79.96767",-2.14458,-79.96767
+NUTRICIÓN ACUÍCOLA,5K,"-2.14675, -79.96303",-2.14675,-79.96303
+AGROECOSISTEMAS,GEA,"-2.15133, -79.95574",-2.15133,-79.95574
+PETROLOGÍA ÍGNEA Y METAMÓRFICA,13B,"-2.1456, -79.96506",-2.1456,-79.96506
+EVALUACIÓN DE YACIMIENTOS MINERALES,13H,"-2.14592, -79.96581",-2.14592,-79.96581
+INGENIERÍA PARA LA ACUICULTURA I,5K,"-2.14675, -79.96303",-2.14675,-79.96303
+DISEÑO DE BUQUES,5K,"-2.14675, -79.96303",-2.14675,-79.96303
+MANEJO ACUÍCOLA,5K,"-2.14675, -79.96303",-2.14675,-79.96303
+INTRODUCCIÓN A LA ACUICULTURA,5K,"-2.14675, -79.96303",-2.14675,-79.96303
+ESTADÍSTICA MULTIVARIANTE,9C,"-2.14725, -79.96693",-2.14725,-79.96693
+ARQUEOLOGÍA DEL VIEJO MUNDO,9F,"-2.14717, -79.96779",-2.14717,-79.96779
+TEORÍA ANTROPOLÓGICA Y ARQUEOLÓGICA,FCSH,"-2.1478, -79.96865",-2.1478,-79.96865
+INGENIERÍA DE PRODUCCIÓN II,13H,"-2.14592, -79.96581",-2.14592,-79.96581
+EDAFOLOGÍA,3H,"-2.15229, -79.95582",-2.15229,-79.95582
+GENOTECNIA,3H,"-2.15229, -79.95582",-2.15229,-79.95582
+CULTIVO DE PLANCTON,5K,"-2.14675, -79.96303",-2.14675,-79.96303
+ADMINISTRACIÓN DE LA PRODUCCIÓN DE ALIMENTOS ,8G,"-2.14859, -79.9672",-2.14859,-79.9672
+DISEÑO DE EXPERIMENTOS,9I,"-2.14608, -79.96717",-2.14608,-79.96717
+DANZA FOLCLÓRICA,14B,"-2.14361, -79.96212",-2.14361,-79.96212
+GEOMECÁNICA,13H,"-2.14592, -79.96581",-2.14592,-79.96581
+PREPARACIÓN MECÁNICA,13H,"-2.14592, -79.96581",-2.14592,-79.96581
+PERFORACIÓN DIRECCIONAL,13H,"-2.14592, -79.96581",-2.14592,-79.96581
+EVALUACIÓN DE FORMACIONES II,13H,"-2.14592, -79.96581",-2.14592,-79.96581
+DIBUJO TÉCNICO Y PLANOS,13H,"-2.14592, -79.96581",-2.14592,-79.96581
+ESTADÍSTICA BAYESIANA,9M,"-2.14682, -79.96671",-2.14682,-79.96671
+SOFTWARE EN INGENIERÍA EN PETRÓLEO,13G,"-2.14587, -79.96552",-2.14587,-79.96552
+DISEÑO DE PRODUCTOS IV,14B,"-2.14361, -79.96212",-2.14361,-79.96212
+CONTROL ESTADÍSTICO DE PROCESOS,9I,"-2.14608, -79.96717",-2.14608,-79.96717
+OPTIMIZACIÓN COMBINATORIA,9I,"-2.14608, -79.96717",-2.14608,-79.96717
+SEÑALES Y SISTEMAS,11D,"-2.14542, -79.96613",-2.14542,-79.96613
+DISTRIBUCIÓN ELÉCTRICA I,11F,"-2.14528, -79.96718",-2.14528,-79.96718
+HSEQ EN LA INDUSTRIA HIDROCARBURÍFERA,13G,"-2.14587, -79.96552",-2.14587,-79.96552
+INGENIERÍA DE YACIMIENTOS II,13H,"-2.14592, -79.96581",-2.14592,-79.96581
+GESTIÓN DE DRAGADOS,5K,"-2.14675, -79.96303",-2.14675,-79.96303
+TRANSPORTE MARÍTIMO,5K,"-2.14675, -79.96303",-2.14675,-79.96303
+ELEMENTOS DE COMPUTACIÓN CIENTÍFICA,9I,"-2.14608, -79.96717",-2.14608,-79.96717
+AGENCIAS DE VIAJE,FCSH,"-2.1478, -79.96865",-2.1478,-79.96865
+COMPORTAMIENTO MECÁNICO,12E,"-2.14471, -79.96635",-2.14471,-79.96635
+MATERIA INTEGRADORA PARA PETRÓLEOS,13H,"-2.14592, -79.96581",-2.14592,-79.96581
+DISEÑO DE CAMPO GEOLÓGICO,13B,"-2.1456, -79.96506",-2.1456,-79.96506
+LABORATORIO DE ARQUEOLOGÍA I,13C,"-2.14521, -79.9649",-2.14521,-79.9649
+SISTEMAS ACUÍCOLAS,5K,"-2.14675, -79.96303",-2.14675,-79.96303
+CONTAMINACIÓN MARINA,5K,"-2.14675, -79.96303",-2.14675,-79.96303
+GESTIÓN MARÍTIMA PORTUARIA,5K,"-2.14675, -79.96303",-2.14675,-79.96303
+TEORÍA DEL TURISMO,9B,"-2.14715, -79.96725",-2.14715,-79.96725
+LOGÍSTICA II,9C,"-2.14725, -79.96693",-2.14725,-79.96693
+LOGÍSTICA I,9C,"-2.14725, -79.96693",-2.14725,-79.96693
+ARQUEOLOGÍA DE LAS TIERRAS BAJAS DE SUDAMÉRICA Y DEL CARIBE,9F,"-2.14717, -79.96779",-2.14717,-79.96779
+LOGÍSTICA I,9M,"-2.14682, -79.96671",-2.14682,-79.96671
+MATERIA INTEGRADORA DE TURISMO,FCSH,"-2.1478, -79.96865",-2.1478,-79.96865
+PROPIEDADES  FUNCIONALES DE LOS  MATERIALES,12E,"-2.14471, -79.96635",-2.14471,-79.96635
+INGENIERÍA DE TÚNELES,13H,"-2.14592, -79.96581",-2.14592,-79.96581
+MATERIA INTEGRADORA DE BIOLOGÍA,3D,"-2.15063, -79.95777",-2.15063,-79.95777
+INGENIERÍA PARA LA ACUICULTURA II,5K,"-2.14675, -79.96303",-2.14675,-79.96303
+GEOLOGÍA MARINA,5K,"-2.14675, -79.96303",-2.14675,-79.96303
+MEDIDA Y PROBABILIDAD,8G,"-2.14859, -79.9672",-2.14859,-79.9672
+TEORÍA DE LA MEDIDA,9I,"-2.14608, -79.96717",-2.14608,-79.96717
+GESTIÓN DE PROYECTOS Y REGULACIÓN EN TELECOMUNICACIONES,11A,"-2.14464, -79.96763",-2.14464,-79.96763
+MATERIA INTEGRADORA DE MATERIALES,12E,"-2.14471, -79.96635",-2.14471,-79.96635
+ANÁLISIS DE ALIMENTOS,12H,"-2.14423, -79.96633",-2.14423,-79.96633
+ARQUEOLOGÍA ANDINOAMERICANA,13C,"-2.14521, -79.9649",-2.14521,-79.9649
+GEOLOGIA DE ECUADOR,13H,"-2.14592, -79.96581",-2.14592,-79.96581
+EVALUACIÓN DE FORMACIONES I,13H,"-2.14592, -79.96581",-2.14592,-79.96581
+ELECTRICIDAD Y ELECTRÓNICA PARA BUQUES,5K,"-2.14675, -79.96303",-2.14675,-79.96303
+MATERIA INTEGRADORA DE INGENIERÍA AGRÍCOLA Y BIOLÓGICA,GEA,"-2.15133, -79.95574",-2.15133,-79.95574
+MATERIALES Y MANUFACTURA II,FADCOM,"-2.14391, -79.96202",-2.14391,-79.96202
+MATERIA INTEGRADORA DE MECÁNICA,FIMCP,"-2.14437, -79.96617",-2.14437,-79.96617
+NANOTECNOLOGÍA Y NANOMATERIALES,12E,"-2.14471, -79.96635",-2.14471,-79.96635
+TERMODINÁMICA DE MATERIALES,12E,"-2.14471, -79.96635",-2.14471,-79.96635
+INOCUIDAD ALIMENTARIA,12H,"-2.14423, -79.96633",-2.14423,-79.96633
+GEOLOGÍA ESTRUCTURAL,13H,"-2.14592, -79.96581",-2.14592,-79.96581
+MATERIA INTEGRADORA DE INGENIERÍA CIVIL,13H,"-2.14592, -79.96581",-2.14592,-79.96581
+GEOMETRÍA DIFERENCIAL,9I,"-2.14608, -79.96717",-2.14608,-79.96717
+TÉCNICAS DE MUESTREO Y ANÁLISIS MULTIVARIADO,9M,"-2.14682, -79.96671",-2.14682,-79.96671
+MATERIA INTEGRADORA DE ECONOMÍA,FCSH,"-2.1478, -79.96865",-2.1478,-79.96865
+MATERIA INTEGRADORA DE ADMINISTRACIÓN DE EMPRESAS,FCSH,"-2.1478, -79.96865",-2.1478,-79.96865
+ARQUEOLOGÍA DEL ECUADOR I,13C,"-2.14521, -79.9649",-2.14521,-79.9649
+SIMULACIÓN DE RESERVORIOS,13G,"-2.14587, -79.96552",-2.14587,-79.96552
+PROTOTIPADO AVANZADO,14B,"-2.14361, -79.96212",-2.14361,-79.96212
+OCEANOGRAFÍA PESQUERA,5K,"-2.14675, -79.96303",-2.14675,-79.96303
+MATERIA INTEGRADORA DE OCEANOGRAFÍA,5K,"-2.14675, -79.96303",-2.14675,-79.96303
+MODELOS ESTADÍSTICOS APLICADOS II,8G,"-2.14859, -79.9672",-2.14859,-79.9672
+FUNDAMENTOS DE OPTIMIZACIÓN,8G,"-2.14859, -79.9672",-2.14859,-79.9672
+ARQUEOLOGÍA DE MESOAMÉRICA,9F,"-2.14717, -79.96779",-2.14717,-79.96779
+ECOSISTEMAS ACUÍCOLAS,5K,"-2.14675, -79.96303",-2.14675,-79.96303
+DATOS CATEGÓRICOS,8G,"-2.14859, -79.9672",-2.14859,-79.9672
+APRENDIZAJE ESTADÍSTICO,9C,"-2.14725, -79.96693",-2.14725,-79.96693
+MATEMÁTICA APLICADA A LA INGENIERÍA,9C,"-2.14725, -79.96693",-2.14725,-79.96693
+ECUACIONES DIFERENCIALES I,9I,"-2.14608, -79.96717",-2.14608,-79.96717
+OPTIMIZACIÓN NO LINEAL Y ESTOCÁSTICA,9M,"-2.14682, -79.96671",-2.14682,-79.96671
+SISTEMAS DE TRANSPORTE,9M,"-2.14682, -79.96671",-2.14682,-79.96671
+PISCICULTURA,CENAIM,"-1.95497, -80.72931",-1.95497,-80.72931
+INGENIERÍA DE METALES,12E,"-2.14471, -79.96635",-2.14471,-79.96635
+MATERIA INTEGRADORA DE ELECTRICIDAD,FIEC,"-2.14458, -79.96767",-2.14458,-79.96767
+MATERIA INTEGRADORA DE INGENIERÍA INDUSTRIAL,12C,"-2.14497, -79.96579",-2.14497,-79.96579
+SISTEMAS ENERGÉTICOS SOSTENIBLES,12H,"-2.14423, -79.96633",-2.14423,-79.96633
+EVOLUCIÓN,3D,"-2.15063, -79.95777",-2.15063,-79.95777
+ECOLOGÍA ACUÁTICA,3D,"-2.15063, -79.95777",-2.15063,-79.95777
+EVOLUCIÓN,3H,"-2.15229, -79.95582",-2.15229,-79.95582
+CULTIVO DE ESPECIES NO TRADICIONALES,5K,"-2.14675, -79.96303",-2.14675,-79.96303
+ACUICULTURA ORNAMENTAL,CENAIM,"-1.95497, -80.72931",-1.95497,-80.72931
+MATERIA INTEGRADORA DE AUDITORÍA Y CONTROL DE GESTIÓN,FCSH,"-2.1478, -79.96865",-2.1478,-79.96865
+MATERIA INTEGRADORA DE MECATRÓNICA,12C,"-2.14497, -79.96579",-2.14497,-79.96579
+ENTOMOLOGÍA,3D,"-2.15063, -79.95777",-2.15063,-79.95777
+ORÍGENES DE LOS ESTADOS PREHISPÁNICOS,13C,"-2.14521, -79.9649",-2.14521,-79.9649
+TALLER DE DISEÑO II,14B,"-2.14361, -79.96212",-2.14361,-79.96212
+ANÁLISIS NUMÉRICO,8G,"-2.14859, -79.9672",-2.14859,-79.9672
+ANÁLISIS MATEMÁTICO I,9I,"-2.14608, -79.96717",-2.14608,-79.96717
+GESTIÓN Y MARCO REGULATORIO DEL SECTOR ELÉCTRICO,11F,"-2.14528, -79.96718",-2.14528,-79.96718
+SISTEMAS DE INFORMACIÓN APLICADOS A LOGÍSTICA,9C,"-2.14725, -79.96693",-2.14725,-79.96693
+MATERIA INTEGRADORA DE DISEÑO GRÁFICO,FADCOM,"-2.14391, -79.96202",-2.14391,-79.96202
+MATERIA INTEGRADORA DE DISEÑO DE PRODUCTOS,14B,"-2.14361, -79.96212",-2.14361,-79.96212
+BIOQUÍMICA ALIMENTARIA,12H,"-2.14423, -79.96633",-2.14423,-79.96633
+INGENIERÍA DE POLÍMEROS,12H,"-2.14423, -79.96633",-2.14423,-79.96633
+CONTAMINACIÓN AMBIENTAL,3D,"-2.15063, -79.95777",-2.15063,-79.95777
+VIROLOGÍA,3D,"-2.15063, -79.95777",-2.15063,-79.95777
+ANÁLISIS DE INFORMACIÓN OCEANOGRÁFICA,5K,"-2.14675, -79.96303",-2.14675,-79.96303
+OPTIMIZACION DE SISTEMAS DE POTENCIA,11F,"-2.14528, -79.96718",-2.14528,-79.96718
+CONTROL DE CALIDAD Y EVALUACIÓN SENSORIAL DE ALIMENTOS,12H,"-2.14423, -79.96633",-2.14423,-79.96633
+SISTEMAS Y PROGRAMACIÓN DE PRODUCCIÓN,12H,"-2.14423, -79.96633",-2.14423,-79.96633
+MUSEOS Y ESPACIOS DE CONSERVACIÓN DE LA MEMORIA,9F,"-2.14717, -79.96779",-2.14717,-79.96779
+INTRODUCCIÓN A LAS TELECOMUNICACIONES,11D,"-2.14542, -79.96613",-2.14542,-79.96613
+MODELADO TRIDIMENSIONAL,14B,"-2.14361, -79.96212",-2.14361,-79.96212
+MATERIA INTEGRADORA DE INGENIERÍA NAVAL,5K,"-2.14675, -79.96303",-2.14675,-79.96303
+MATERIA INTEGRADORA DE ACUICULTURA,CENAIM,"-1.95497, -80.72931",-1.95497,-80.72931
+TRANSPORTE URBANO,9M,"-2.14682, -79.96671",-2.14682,-79.96671
+MATERIA INTEGRADORA DE TELECOMUNICACIONES,11D,"-2.14542, -79.96613",-2.14542,-79.96613
+TOPOGRAFÍA,13H,"-2.14592, -79.96581",-2.14592,-79.96581
+FOTOGRAFÍA PARA MEDIOS,14B,"-2.14361, -79.96212",-2.14361,-79.96212
+PRODUCCIÓN PECUARIA II,3D,"-2.15063, -79.95777",-2.15063,-79.95777
+BIOQUÍMICA,3H,"-2.15229, -79.95582",-2.15229,-79.95582
+BOTÁNICA SISTEMÁTICA,3H,"-2.15229, -79.95582",-2.15229,-79.95582
+SIMULACIÓN MATEMÁTICA,8G,"-2.14859, -79.9672",-2.14859,-79.9672
+MÉTODOS MATEMÁTICOS PARA LAS CIENCIAS,9M,"-2.14682, -79.96671",-2.14682,-79.96671
+INTERNETWORKING,11B,"-2.14509, -79.96725",-2.14509,-79.96725
+PATOLOGÍA ACUÍCOLA II,5K,"-2.14675, -79.96303",-2.14675,-79.96303
+RIEGO Y DRENAJE,3H,"-2.15229, -79.95582",-2.15229,-79.95582
+ERGONOMÍA,14B,"-2.14361, -79.96212",-2.14361,-79.96212
+MATERIALES Y MANUFACTURA I,14B,"-2.14361, -79.96212",-2.14361,-79.96212
+OPTIMIZACIÓN NUMÉRICA,8G,"-2.14859, -79.9672",-2.14859,-79.9672
+FUNDAMENTOS DE LA INGENIERÍA EN ALIMENTOS,12H,"-2.14423, -79.96633",-2.14423,-79.96633
+TALLER DE DISEÑO III,14B,"-2.14361, -79.96212",-2.14361,-79.96212
+EXTENSIONISMO,3H,"-2.15229, -79.95582",-2.15229,-79.95582
+PLATAFORMAS MULTIMODALES,9M,"-2.14682, -79.96671",-2.14682,-79.96671
+MANUFACTURA SOSTENIBLE,12H,"-2.14423, -79.96633",-2.14423,-79.96633
+ZOOLOGÍA DE INVERTEBRADOS,3D,"-2.15063, -79.95777",-2.15063,-79.95777
+OCEANOGRAFÍA COSTERA,5K,"-2.14675, -79.96303",-2.14675,-79.96303
+ESTRUCTURAS ALGEBRAICAS,9M,"-2.14682, -79.96671",-2.14682,-79.96671
+MICROBIOLOGÍA DE ALIMENTOS,12H,"-2.14423, -79.96633",-2.14423,-79.96633
+DISEÑO Y GESTIÓN DE RELLENOS SANITARIOS,13H,"-2.14592, -79.96581",-2.14592,-79.96581
+DISEÑO DE PRODUCTOS II,14B,"-2.14361, -79.96212",-2.14361,-79.96212
+CÁLCULO II,8G,"-2.14859, -79.9672",-2.14859,-79.9672
+GEOESTADISTICA,8G,"-2.14859, -79.9672",-2.14859,-79.9672
+ESTRUCTURAS Y MECANISMOS II,14B,"-2.14361, -79.96212",-2.14361,-79.96212
+BIOINFORMÁTICA,3H,"-2.15229, -79.95582",-2.15229,-79.95582
+MATERIA INTEGRADORA DE GEOLOGÍA,FICT,"-2.14532, -79.96537",-2.14532,-79.96537
+BUCEO Y ACTIVIDADES NAÚTICAS,5K,"-2.14675, -79.96303",-2.14675,-79.96303
+MODELIZACIÓN DEL TRANSPORTE,9M,"-2.14682, -79.96671",-2.14682,-79.96671
+MODELOS ESTADÍSTICOS APLICADOS I,9M,"-2.14682, -79.96671",-2.14682,-79.96671
+PROYECTO AUDIOVISUAL II,14B,"-2.14361, -79.96212",-2.14361,-79.96212
+ECOLOGÍA GENERAL,3D,"-2.15063, -79.95777",-2.15063,-79.95777
+DISEÑO COSTERO,5K,"-2.14675, -79.96303",-2.14675,-79.96303
+QUÍMICA ORGÁNICA,9M,"-2.14682, -79.96671",-2.14682,-79.96671
+ELECTRICIDAD BÁSICA,11D,"-2.14542, -79.96613",-2.14542,-79.96613
+CHINO-MANDARÍN I,8E,"-2.1487, -79.96782",-2.1487,-79.96782
+PRESUPUESTOS Y PROYECTOS LOGÍSTICOS,9I,"-2.14608, -79.96717",-2.14608,-79.96717
+PRODUCCIÓN ACUÍCOLA II,CENAIM,"-1.95497, -80.72931",-1.95497,-80.72931
+ROBÓTICA INDUSTRIAL,11D,"-2.14542, -79.96613",-2.14542,-79.96613
+CIRCUITOS DE ALTA FRECUENCIA Y MICROONDAS,11D,"-2.14542, -79.96613",-2.14542,-79.96613
+GESTIÓN DE BODEGAS Y ABASTECIMIENTO,9C,"-2.14725, -79.96693",-2.14725,-79.96693
+ECONOMÍA MATEMÁTICA,9F,"-2.14717, -79.96779",-2.14717,-79.96779
+SISTEMAS DE INFORMACIÓN GEOGRÁFICA,FICT,"-2.14532, -79.96537",-2.14532,-79.96537
+GESTIÓN HOTELERA,FCSH,"-2.1478, -79.96865",-2.1478,-79.96865
+QUÍMICA ALIMENTARIA,12H,"-2.14423, -79.96633",-2.14423,-79.96633
+ANÁLISIS MATEMÁTICO II,9M,"-2.14682, -79.96671",-2.14682,-79.96671
+INGENIERÍA DE PROCESOS ALIMENTARIOS,12C,"-2.14497, -79.96579",-2.14497,-79.96579
+ORGANIZACIÓN DE COMPUTADORES,11A,"-2.14464, -79.96763",-2.14464,-79.96763
+TALLER DE DISEÑO IV,11C,"-2.14565, -79.96656",-2.14565,-79.96656
+MINERALOGÍA,13D,"-2.14554, -79.9648",-2.14554,-79.9648
+ALIMENTOS Y BEBIDAS,14B,"-2.14361, -79.96212",-2.14361,-79.96212
+MEZCLA DE SONIDO,14B,"-2.14361, -79.96212",-2.14361,-79.96212
+ESTRUCTURAS Y MECANISMOS I,14B,"-2.14361, -79.96212",-2.14361,-79.96212
+TÉCNICAS DE MANEJO COSTERO,5K,"-2.14675, -79.96303",-2.14675,-79.96303
+PROCESOS DE MANUFACTURA,12C,"-2.14497, -79.96579",-2.14497,-79.96579
+NARRATIVA AUDIOVISUAL,14B,"-2.14361, -79.96212",-2.14361,-79.96212
+ELEMENTOS FINITOS,5K,"-2.14675, -79.96303",-2.14675,-79.96303
+TELEMÁTICA Y TRANSFORMACIÓN DIGITAL,11B,"-2.14509, -79.96725",-2.14509,-79.96725
+DISEÑO DIGITAL,14B,"-2.14361, -79.96212",-2.14361,-79.96212
+REMEDIACIÓN AMBIENTAL,3D,"-2.15063, -79.95777",-2.15063,-79.95777
+SERIES DE TIEMPO,8G,"-2.14859, -79.9672",-2.14859,-79.9672
+PROGRAMACIÓN DE SISTEMAS TELEMÁTICOS,11B,"-2.14509, -79.96725",-2.14509,-79.96725
+DISEÑO DE REDES CONMUTADAS,FIEC,"-2.14458, -79.96767",-2.14458,-79.96767
+SISTEMAS DE COMUNICACIONES II,11A,"-2.14464, -79.96763",-2.14464,-79.96763
+INTRODUCCIÓN A LAS ENERGÍAS RENOVABLES,13G,"-2.14587, -79.96552",-2.14587,-79.96552
+INVESTIGACIÓN AUDIOVISUAL,14B,"-2.14361, -79.96212",-2.14361,-79.96212
+TALLER DE DISEÑO I,14B,"-2.14361, -79.96212",-2.14361,-79.96212
+MATERIALES Y MANUFACTURA III,14B,"-2.14361, -79.96212",-2.14361,-79.96212
+REDES INALÁMBRICAS Y DE SENSORES,FIEC,"-2.14458, -79.96767",-2.14458,-79.96767
+DISEÑO MECÁNICO,12C,"-2.14497, -79.96579",-2.14497,-79.96579
+ADMINISTRACIÓN DE OPERACIONES,9B,"-2.14715, -79.96725",-2.14715,-79.96725
+MATERIA INTEGRADORA DE ELECTRÓNICA Y AUTOMATIZACIÓN,11A,"-2.14464, -79.96763",-2.14464,-79.96763
+INTRODUCCIÓN AL RAZONAMIENTO MATEMÁTICO,9I,"-2.14608, -79.96717",-2.14608,-79.96717
+ESTADÍSTICA MATEMÁTICA,9M,"-2.14682, -79.96671",-2.14682,-79.96671
+SÍNTESIS Y CARACTERIZACIÓN DE PRODUCTOS QUÍMICOS,9M,"-2.14682, -79.96671",-2.14682,-79.96671
+GEOMETRÍA AXIOMÁTICA,9M,"-2.14682, -79.96671",-2.14682,-79.96671
+ENTRENAMIENTO DE FUERZA,DEPORTES,"-2.14356, -79.96798",-2.14356,-79.96798
+HORMIGÓN Y MATERIALES DE CONSTRUCCIÓN,13H,"-2.14592, -79.96581",-2.14592,-79.96581
+DISEÑO DE PRODUCTOS III,14B,"-2.14361, -79.96212",-2.14361,-79.96212
+APLICACIONES MÓVILES Y SERVICIOS TELEMÁTICOS,11C,"-2.14565, -79.96656",-2.14565,-79.96656
+SISTEMAS DE COMUNICACIONES I,11A,"-2.14464, -79.96763",-2.14464,-79.96763
+DISEÑO DE PROCESOS TÉRMICOS I,12C,"-2.14497, -79.96579",-2.14497,-79.96579
+REOLOGÍA DE FLUIDOS,12H,"-2.14423, -79.96633",-2.14423,-79.96633
+INGENIERÍA SISMO-RESISTENTE,13H,"-2.14592, -79.96581",-2.14592,-79.96581
+DISEÑO DE PRODUCTOS I,14B,"-2.14361, -79.96212",-2.14361,-79.96212
+PRODUCCIÓN PARA NUEVOS MEDIOS,14B,"-2.14361, -79.96212",-2.14361,-79.96212
+SALUD COMUNITARIA,3H,"-2.15229, -79.95582",-2.15229,-79.95582
+MAQUINARIA MARÍTIMA II,5K,"-2.14675, -79.96303",-2.14675,-79.96303
+ESTRATEGIAS DE GESTIÓN,9F,"-2.14717, -79.96779",-2.14717,-79.96779
+FORMULACIÓN Y EVALUACIÓN DE PROYECTOS,9F,"-2.14717, -79.96779",-2.14717,-79.96779
+TENIS,DEPORTES,"-2.15393, -79.95941",-2.15393,-79.95941
+DISEÑO ESTRUCTURAL,13H,"-2.14592, -79.96581",-2.14592,-79.96581
+MATERIA INTEGRADORA DE PRODUCCIÓN PARA MEDIOS DE COMUNICACIÓN,FADCOM,"-2.14391, -79.96202",-2.14391,-79.96202
+MATERIA INTEGRADORA DE LOGÍSTICA Y TRANSPORTE,FCNM,"-2.14698, -79.96746",-2.14698,-79.96746
+TEORÍA ELECTROMAGNÉTICA,11D,"-2.14542, -79.96613",-2.14542,-79.96613
+DISEÑO DE PLANTAS ALIMENTARIAS,12H,"-2.14423, -79.96633",-2.14423,-79.96633
+PRINCIPIOS DE ECOTOXICOLOGÍA,3D,"-2.15063, -79.95777",-2.15063,-79.95777
+ECOLOGÍA DE ECOSISTEMAS,3H,"-2.15229, -79.95582",-2.15229,-79.95582
+BIENESTAR ANIMAL,5K,"-2.14675, -79.96303",-2.14675,-79.96303
+MODELADO Y SIMULACIÓN DE ESTRUCTURAS Y MÁQUINAS,12H,"-2.14423, -79.96633",-2.14423,-79.96633
+BIOLOGÍA DE LA CONSERVACIÓN,3H,"-2.15229, -79.95582",-2.15229,-79.95582
+NUTRICIÓN EN EL CICLO DE LA VIDA II,3H,"-2.15229, -79.95582",-2.15229,-79.95582
+DESARROLLO ORGANIZACIONAL,FCSH,"-2.1478, -79.96865",-2.1478,-79.96865
+MATERIA INTEGRADORA DE COMPUTACIÓN,FIEC,"-2.14458, -79.96767",-2.14458,-79.96767
+BALONCESTO,DEPORTES,"-2.14208, -79.96719",-2.14208,-79.96719
+POSTPRODUCCIÓN,14B,"-2.14361, -79.96212",-2.14361,-79.96212
+MATEMÁTICAS SUPERIORES,9I,"-2.14608, -79.96717",-2.14608,-79.96717
+SANIDAD E HIGIENE ALIMENTARIA,12H,"-2.14423, -79.96633",-2.14423,-79.96633
+ANÁLISIS ESTRUCTURAL,13H,"-2.14592, -79.96581",-2.14592,-79.96581
+FISIOLOGÍA ANIMAL,3D,"-2.15063, -79.95777",-2.15063,-79.95777
+ESTABILIDAD Y CONTROL DE SISTEMAS DE POTENCIA,11F,"-2.14528, -79.96718",-2.14528,-79.96718
+AMBIENTES INTELIGENTES,11C,"-2.14565, -79.96656",-2.14565,-79.96656
+CALIDAD DE SERVICIO Y REDES MULTIMEDIA,11D,"-2.14542, -79.96613",-2.14542,-79.96613
+PROCESAMIENTO DE FRUTAS Y VEGETALES,12H,"-2.14423, -79.96633",-2.14423,-79.96633
+MATERIA INTEGRADORA DE ALIMENTOS,12H,"-2.14423, -79.96633",-2.14423,-79.96633
+APRECIACIÓN MUSICAL,14B,"-2.14361, -79.96212",-2.14361,-79.96212
+EVALUACIÓN DEL ESTADO NUTRICIONAL I,3H,"-2.15229, -79.95582",-2.15229,-79.95582
+TRATAMIENTO DE AGUAS,9M,"-2.14682, -79.96671",-2.14682,-79.96671
+INTERACCIÓN HUMANO COMPUTADOR,FIEC,"-2.14458, -79.96767",-2.14458,-79.96767
+HERRAMIENTAS DE MANUFACTURA ESBELTA,12C,"-2.14497, -79.96579",-2.14497,-79.96579
+DESARROLLO DE NUEVOS PRODUCTOS ALIMENTICIOS,12H,"-2.14423, -79.96633",-2.14423,-79.96633
+PLANIFICACIÓN Y CONSTRUCCIÓN,5K,"-2.14675, -79.96303",-2.14675,-79.96303
+CIBERSEGURIDAD Y GESTIÓN DE REDES,11D,"-2.14542, -79.96613",-2.14542,-79.96613
+DISEÑO DE SONIDO,14B,"-2.14361, -79.96212",-2.14361,-79.96212
+EMBRIOLOGÍA,3H,"-2.15229, -79.95582",-2.15229,-79.95582
+CONSTRUCCIÓN DE OBRAS PORTUARIAS,5K,"-2.14675, -79.96303",-2.14675,-79.96303
+INTRODUCCIÓN A LA ECONOMÍA,9F,"-2.14717, -79.96779",-2.14717,-79.96779
+INTRODUCCIÓN A LA ESTADÍSTICA,9I,"-2.14608, -79.96717",-2.14608,-79.96717
+TEORÍA DEL DISEÑO,14B,"-2.14361, -79.96212",-2.14361,-79.96212
+ADMINISTRACIÓN DE SISTEMAS Y SERVICIOS EN RED,11B,"-2.14509, -79.96725",-2.14509,-79.96725
+TRANSFERENCIA DE CALOR,12H,"-2.14423, -79.96633",-2.14423,-79.96633
+GESTIÓN DE OBRAS CIVILES,13H,"-2.14592, -79.96581",-2.14592,-79.96581
+FINANZAS INTERNACIONALES,9F,"-2.14717, -79.96779",-2.14717,-79.96779
+MACROECONOMÍA I,9F,"-2.14717, -79.96779",-2.14717,-79.96779
+INGENIERÍA DE TRÁNSITO,9M,"-2.14682, -79.96671",-2.14682,-79.96671
+SISTEMAS BIOMECATRÓNICOS,12H,"-2.14423, -79.96633",-2.14423,-79.96633
+EXPRESIÓN CORPORAL,14B,"-2.14361, -79.96212",-2.14361,-79.96212
+REDACCIÓN CREATIVA,14B,"-2.14361, -79.96212",-2.14361,-79.96212
+INMUNOLOGÍA,3H,"-2.15229, -79.95582",-2.15229,-79.95582
+BIOGEOGRAFÍA,3H,"-2.15229, -79.95582",-2.15229,-79.95582
+BIOESTADÍSTICA,8G,"-2.14859, -79.9672",-2.14859,-79.9672
+GEOGRAFÍA TURÍSTICA,9C,"-2.14725, -79.96693",-2.14725,-79.96693
+CÁLCULO I,9I,"-2.14608, -79.96717",-2.14608,-79.96717
+AJEDREZ,VRA,"-2.14753, -79.9661",-2.14753,-79.9661
+PROPAGACIÓN,11A,"-2.14464, -79.96763",-2.14464,-79.96763
+SISTEMAS DE POTENCIA II,11D,"-2.14542, -79.96613",-2.14542,-79.96613
+CIRCUITOS ELÉCTRICOS,11D,"-2.14542, -79.96613",-2.14542,-79.96613
+DISEÑO DE SOFTWARE,11D,"-2.14542, -79.96613",-2.14542,-79.96613
+GESTIÓN DE PROYECTOS,9F,"-2.14717, -79.96779",-2.14717,-79.96779
+ELECTRÓNICA,11D,"-2.14542, -79.96613",-2.14542,-79.96613
+PROGRAMACIÓN APLICADA A LA AUTOMATIZACIÓN,11D,"-2.14542, -79.96613",-2.14542,-79.96613
+SISTEMA DE BASES DE DATOS,11D,"-2.14542, -79.96613",-2.14542,-79.96613
+INSTALACIONES ELÉCTRICAS,11F,"-2.14528, -79.96718",-2.14528,-79.96718
+TRANSFERENCIA DE CALOR Y MASA,12H,"-2.14423, -79.96633",-2.14423,-79.96633
+SISTEMAS DE MONITOREO Y CONTROL INDUSTRIAL,12H,"-2.14423, -79.96633",-2.14423,-79.96633
+POTABILIZACIÓN Y TRATAMIENTO DEL AGUA,13H,"-2.14592, -79.96581",-2.14592,-79.96581
+DISEÑO DE EXPERIENCIA,14B,"-2.14361, -79.96212",-2.14361,-79.96212
+GENÉTICA,3D,"-2.15063, -79.95777",-2.15063,-79.95777
+LOGÍSTICA Y SERVICIO AL CLIENTE,12C,"-2.14497, -79.96579",-2.14497,-79.96579
+MÉTODOS DE INVESTIGACIÓN EN TURISMO,FCSH,"-2.1478, -79.96865",-2.1478,-79.96865
+PROCESAMIENTO DE FARINÁCEOS Y OLEAGINOSAS,12H,"-2.14423, -79.96633",-2.14423,-79.96633
+GESTIÓN DEL DISEÑO,14B,"-2.14361, -79.96212",-2.14361,-79.96212
+FRANCÉS I,8E,"-2.1487, -79.96782",-2.1487,-79.96782
+EDUCACIÓN SOCIOEMOCIONAL,9F,"-2.14717, -79.96779",-2.14717,-79.96779
+CONSEJERÍA NUTRICIONAL,VRA,"-2.15201, -79.95506",-2.15201,-79.95506
+GESTIÓN DE INFRAESTRUCTURA Y SERVICIOS TI,11B,"-2.14509, -79.96725",-2.14509,-79.96725
+TELEMETRÍA Y SISTEMAS CIBERFÍSICOS,11D,"-2.14542, -79.96613",-2.14542,-79.96613
+PROCESAMIENTO DIGITAL DE SEÑALES,11D,"-2.14542, -79.96613",-2.14542,-79.96613
+OPTIMIZACIÓN Y SIMULACIÓN DE PROCESOS ALIMENTARIOS,12C,"-2.14497, -79.96579",-2.14497,-79.96579
+FERMENTACIÓN Y ENZIMOLOGÍA ALIMENTARIA,12H,"-2.14423, -79.96633",-2.14423,-79.96633
+CONTROL POR APRENDIZAJE REFORZADO,12H,"-2.14423, -79.96633",-2.14423,-79.96633
+GUIANZA Y MANEJO DE GRUPOS,9F,"-2.14717, -79.96779",-2.14717,-79.96779
+SCADA APLICADO A SISTEMAS DE POTENCIA,11F,"-2.14528, -79.96718",-2.14528,-79.96718
+PROGRAMACIÓN ENTERA PARA INGENIERÍA,12C,"-2.14497, -79.96579",-2.14497,-79.96579
+MECÁNICA DE SUELOS Y ROCAS,13H,"-2.14592, -79.96581",-2.14592,-79.96581
+DIETOTERAPIA BÁSICA,3H,"-2.15229, -79.95582",-2.15229,-79.95582
+BOTÁNICA GENERAL,3H,"-2.15229, -79.95582",-2.15229,-79.95582
+NUTRICIÓN EN EL CICLO DE LA VIDA I,3H,"-2.15229, -79.95582",-2.15229,-79.95582
+HISTORIA DEL DISEÑO INDUSTRIAL,14B,"-2.14361, -79.96212",-2.14361,-79.96212
+ACTUACIÓN,14B,"-2.14361, -79.96212",-2.14361,-79.96212
+TENDENCIAS EN NUTRICIÓN,3H,"-2.15229, -79.95582",-2.15229,-79.95582
+NUTRICIÓN CLÍNICA I,3H,"-2.15229, -79.95582",-2.15229,-79.95582
+TOXICOLOGÍA NUTRICIONAL Y ALIMENTARIA,3H,"-2.15229, -79.95582",-2.15229,-79.95582
+DIETOTERAPIA AVANZADA,3H,"-2.15229, -79.95582",-2.15229,-79.95582
+AUDITORÍA DE SISTEMAS INTEGRADOS,FCSH,"-2.1478, -79.96865",-2.1478,-79.96865
+TERMODINÁMICA,12C,"-2.14497, -79.96579",-2.14497,-79.96579
+DISEÑO MECATRÓNICO,12C,"-2.14497, -79.96579",-2.14497,-79.96579
+EDICIÓN Y MONTAJE,14B,"-2.14361, -79.96212",-2.14361,-79.96212
+FOTOGRAFÍA DIGITAL,14B,"-2.14361, -79.96212",-2.14361,-79.96212
+FOTOGRAFÍA,14B,"-2.14361, -79.96212",-2.14361,-79.96212
+TÉCNICAS CULINARIAS,3D,"-2.15063, -79.95777",-2.15063,-79.95777
+MATERIALES EN MEDIOS MARINOS,5K,"-2.14675, -79.96303",-2.14675,-79.96303
+CONTABILIDAD I,9B,"-2.14715, -79.96725",-2.14715,-79.96725
+MICROECONOMÍA I,9F,"-2.14717, -79.96779",-2.14717,-79.96779
+EVALUACIÓN Y SIMULACIÓN DE REDES,11A,"-2.14464, -79.96763",-2.14464,-79.96763
+ELECTRÓNICA MÉDICA,11C,"-2.14565, -79.96656",-2.14565,-79.96656
+ENERGÍAS RENOVABLES,11F,"-2.14528, -79.96718",-2.14528,-79.96718
+FIBRAS ÓPTICAS,11A,"-2.14464, -79.96763",-2.14464,-79.96763
+SISTEMAS EN LA NUBE,11B,"-2.14509, -79.96725",-2.14509,-79.96725
+MAQUINARIA ELÉCTRICA I,11C,"-2.14565, -79.96656",-2.14565,-79.96656
+DISTRIBUCIÓN ELÉCTRICA II,11D,"-2.14542, -79.96613",-2.14542,-79.96613
+ESTRUCTURAS DE DATOS,11D,"-2.14542, -79.96613",-2.14542,-79.96613
+INSTRUMENTACIÓN,12H,"-2.14423, -79.96633",-2.14423,-79.96633
+INVESTIGACIÓN EN CIENCIAS DE LA VIDA,3D,"-2.15063, -79.95777",-2.15063,-79.95777
+ESTRATEGIAS CORPORATIVAS Y DE NEGOCIOS,9B,"-2.14715, -79.96725",-2.14715,-79.96725
+PRESUPUESTO,9B,"-2.14715, -79.96725",-2.14715,-79.96725
+MARKETING TURÍSTICO,9F,"-2.14717, -79.96779",-2.14717,-79.96779
+REFRIGERACIÓN Y CLIMATIZACIÓN,12C,"-2.14497, -79.96579",-2.14497,-79.96579
+HORMIGÓN PREFORZADO,13H,"-2.14592, -79.96581",-2.14592,-79.96581
+LÍNEAS DE TRANSMISIÓN Y SUBESTACIONES,11D,"-2.14542, -79.96613",-2.14542,-79.96613
+MAQUINARIA ELÉCTRICA II,11D,"-2.14542, -79.96613",-2.14542,-79.96613
+CONGRESOS Y EVENTOS,9B,"-2.14715, -79.96725",-2.14715,-79.96725
+REDES DE DATOS,11D,"-2.14542, -79.96613",-2.14542,-79.96613
+SIMULACIÓN,12H,"-2.14423, -79.96633",-2.14423,-79.96633
+INTRODUCCIÓN A LA MANUFACTURA,12H,"-2.14423, -79.96633",-2.14423,-79.96633
+PREPRODUCCIÓN,14B,"-2.14361, -79.96212",-2.14361,-79.96212
+ORNITOLOGÍA,3D,"-2.15063, -79.95777",-2.15063,-79.95777
+EVALUACIÓN DEL ESTADO NUTRICIONAL II,3H,"-2.15229, -79.95582",-2.15229,-79.95582
+INGLÉS V,8E,"-2.1487, -79.96782",-2.1487,-79.96782
+DISEÑO GRÁFICO III,FADCOM,"-2.14391, -79.96202",-2.14391,-79.96202
+MACROECONOMÍA III,9B,"-2.14715, -79.96725",-2.14715,-79.96725
+SISTEMAS OPERATIVOS,11D,"-2.14542, -79.96613",-2.14542,-79.96613
+ESTÁTICA,12C,"-2.14497, -79.96579",-2.14497,-79.96579
+ANTROPOLOGÍA DEL DISEÑO,14B,"-2.14361, -79.96212",-2.14361,-79.96212
+INTRODUCCIÓN A LAS HERRAMIENTAS ÓMICAS,3D,"-2.15063, -79.95777",-2.15063,-79.95777
+GESTIÓN COMERCIAL,FCSH,"-2.1478, -79.96865",-2.1478,-79.96865
+ELECTRÓNICA DE POTENCIA I,11A,"-2.14464, -79.96763",-2.14464,-79.96763
+SISTEMAS DIGITALES I,11A,"-2.14464, -79.96763",-2.14464,-79.96763
+PRINCIPIOS DE ELECTRÓNICA,11D,"-2.14542, -79.96613",-2.14542,-79.96613
+ANÁLISIS DE ALGORITMOS,11D,"-2.14542, -79.96613",-2.14542,-79.96613
+COMUNICACIÓN DIGITAL DE DATOS,11D,"-2.14542, -79.96613",-2.14542,-79.96613
+MODELADO Y SIMULACIÓN EN TERMOFLUIDOS,12C,"-2.14497, -79.96579",-2.14497,-79.96579
+MECÁNICA DE SÓLIDOS,12H,"-2.14423, -79.96633",-2.14423,-79.96633
+SISTEMAS DE RECOLECCIÓN Y DISTRIBUCIÓN DE AGUA,13H,"-2.14592, -79.96581",-2.14592,-79.96581
+HORMIGÓN ARMADO,13H,"-2.14592, -79.96581",-2.14592,-79.96581
+INGENIERÍA DE CIMENTACIÓN,13H,"-2.14592, -79.96581",-2.14592,-79.96581
+DISEÑO DE PAVIMENTOS,13H,"-2.14592, -79.96581",-2.14592,-79.96581
+DISEÑO DE INTERFACES,14B,"-2.14361, -79.96212",-2.14361,-79.96212
+HISTORIA CONTEMPORÁNEA DE AMÉRICA LATINA,9F,"-2.14717, -79.96779",-2.14717,-79.96779
+ELECTRÓNICA DE POTENCIA II,11A,"-2.14464, -79.96763",-2.14464,-79.96763
+DOMÓTICA E INMÓTICA,11D,"-2.14542, -79.96613",-2.14542,-79.96613
+INSTALACIONES,13H,"-2.14592, -79.96581",-2.14592,-79.96581
+TÉCNICAS PICTÓRICAS,14B,"-2.14361, -79.96212",-2.14361,-79.96212
+DISEÑO EDITORIAL,14B,"-2.14361, -79.96212",-2.14361,-79.96212
+NUTRICIÓN DEPORTIVA,3H,"-2.15229, -79.95582",-2.15229,-79.95582
+MICROECONOMÍA II,9B,"-2.14715, -79.96725",-2.14715,-79.96725
+MACROECONOMÍA II,9F,"-2.14717, -79.96779",-2.14717,-79.96779
+MANTENIMIENTO INDUSTRIAL,12H,"-2.14423, -79.96633",-2.14423,-79.96633
+DISEÑO DE SISTEMAS MECÁNICOS,12H,"-2.14423, -79.96633",-2.14423,-79.96633
+FUNDAMENTOS DE PLANIFICACIÓN TURÍSTICA,FCSH,"-2.1478, -79.96865",-2.1478,-79.96865
+PROCESOS DE MECANIZACIÓN,12C,"-2.14497, -79.96579",-2.14497,-79.96579
+MECÁNICA DE MAQUINARIA,12H,"-2.14423, -79.96633",-2.14423,-79.96633
+DESARROLLO SOCIAL Y VOLUNTARIADO,9F,"-2.14717, -79.96779",-2.14717,-79.96779
+SISTEMAS DE POTENCIA I,11D,"-2.14542, -79.96613",-2.14542,-79.96613
+MÉTODOS DE ANALÍTICA PARA LA INDUSTRIA,12C,"-2.14497, -79.96579",-2.14497,-79.96579
+VIDEOGRAFÍA,14B,"-2.14361, -79.96212",-2.14361,-79.96212
+PROGRAMACIÓN DE SISTEMAS,FIEC,"-2.14458, -79.96767",-2.14458,-79.96767
+CONTROL DE PROCESOS INDUSTRIALES,11D,"-2.14542, -79.96613",-2.14542,-79.96613
+PROCESAMIENTO DE LÁCTEOS,12C,"-2.14497, -79.96579",-2.14497,-79.96579
+PROYECTOS INDUSTRIALES,12H,"-2.14423, -79.96633",-2.14423,-79.96633
+INTRODUCCIÓN A LA MECATRÓNICA,12H,"-2.14423, -79.96633",-2.14423,-79.96633
+INGENIERÍA PORTUARIA,13H,"-2.14592, -79.96581",-2.14592,-79.96581
+NUTRICIÓN CLÍNICA III,3H,"-2.15229, -79.95582",-2.15229,-79.95582
+ECUACIONES DIFERENCIALES,9M,"-2.14682, -79.96671",-2.14682,-79.96671
+LENGUAJES DE PROGRAMACIÓN,11A,"-2.14464, -79.96763",-2.14464,-79.96763
+ACTUADORES MECATRÓNICOS,12C,"-2.14497, -79.96579",-2.14497,-79.96579
+"PROCESAMIENTO DE CÁRNICOS, PESCADOS Y MARISCOS",12H,"-2.14423, -79.96633",-2.14423,-79.96633
+DISEÑO DE PRODUCCIÓN,14B,"-2.14361, -79.96212",-2.14361,-79.96212
+PROCESAMIENTO DIGITAL DE IMÁGENES,11A,"-2.14464, -79.96763",-2.14464,-79.96763
+TURBOMAQUINARIA Y PLANTAS DE POTENCIA,12C,"-2.14497, -79.96579",-2.14497,-79.96579
+FUNDAMENTOS DE ELECTRICIDAD Y SISTEMAS DIGITALES,11A,"-2.14464, -79.96763",-2.14464,-79.96763
+SISTEMAS EMBEBIDOS,11D,"-2.14542, -79.96613",-2.14542,-79.96613
+MECÁNICA VECTORIAL,12C,"-2.14497, -79.96579",-2.14497,-79.96579
+DISEÑO DE VÍAS,13H,"-2.14592, -79.96581",-2.14592,-79.96581
+DIRECCIÓN DE ARTE,14B,"-2.14361, -79.96212",-2.14361,-79.96212
+RESISTENCIA Y PROPULSIÓN DE BUQUES,5K,"-2.14675, -79.96303",-2.14675,-79.96303
+METAHEURÍSTICAS,9C,"-2.14725, -79.96693",-2.14725,-79.96693
+INTRODUCCIÓN A LA CIENCIA DE DATOS,FIEC,"-2.14458, -79.96767",-2.14458,-79.96767
+METODOLOGÍA DE LA INVESTIGACIÓN EN COMPUTACIÓN,11A,"-2.14464, -79.96763",-2.14464,-79.96763
+METODOLOGÍA DE LA INVESTIGACIÓN EN COMPUTACIÓN,11D,"-2.14542, -79.96613",-2.14542,-79.96613
+MECÁNICA DE FLUIDOS,12C,"-2.14497, -79.96579",-2.14497,-79.96579
+NUTRICIÓN CLÍNICA II,3H,"-2.15229, -79.95582",-2.15229,-79.95582
+FISIOLOGÍA VEGETAL,3H,"-2.15229, -79.95582",-2.15229,-79.95582
+GESTIÓN DE LA PRODUCTIVIDAD,9B,"-2.14715, -79.96725",-2.14715,-79.96725
+OPERACIÓN TURÍSTICA,9F,"-2.14717, -79.96779",-2.14717,-79.96779
+CONSERVACIÓN Y MANEJO AMBIENTAL EN TURISMO,9F,"-2.14717, -79.96779",-2.14717,-79.96779
+INGENIERÍA DE LA CALIDAD,12H,"-2.14423, -79.96633",-2.14423,-79.96633
+GUION,14B,"-2.14361, -79.96212",-2.14361,-79.96212
+HISTORIA Y FILOSOFÍA DE LAS CIENCIAS,9F,"-2.14717, -79.96779",-2.14717,-79.96779
+APRECIACIÓN CINEMATOGRÁFICA,FADCOM,"-2.14391, -79.96202",-2.14391,-79.96202
+COMPUTACIÓN Y SOCIEDAD,11D,"-2.14542, -79.96613",-2.14542,-79.96613
+HIDROLOGÍA,13H,"-2.14592, -79.96581",-2.14592,-79.96581
+HIDRÁULICA,13H,"-2.14592, -79.96581",-2.14592,-79.96581
+ECONOMÍA POLÍTICA,9F,"-2.14717, -79.96779",-2.14717,-79.96779
+INGENIERÍA DE BIOPROCESOS,12H,"-2.14423, -79.96633",-2.14423,-79.96633
+ESTRUCTURAS METÁLICAS,13H,"-2.14592, -79.96581",-2.14592,-79.96581
+DISEÑO GRÁFICO I,14B,"-2.14361, -79.96212",-2.14361,-79.96212
+BIOLOGÍA GENERAL,3H,"-2.15229, -79.95582",-2.15229,-79.95582
+INGLÉS III,8F,"-2.14877, -79.96752",-2.14877,-79.96752
+MATEMÁTICAS,9I,"-2.14608, -79.96717",-2.14608,-79.96717
+BALANCE DE MATERIA Y ENERGÍA,9M,"-2.14682, -79.96671",-2.14682,-79.96671
+PROTECCIONES ELÉCTRICAS,11D,"-2.14542, -79.96613",-2.14542,-79.96613
+CENTRALES ELÉCTRICAS,11F,"-2.14528, -79.96718",-2.14528,-79.96718
+FARMACOLOGÍA Y NUTRICIÓN,3H,"-2.15229, -79.95582",-2.15229,-79.95582
+EPIDEMIOLOGÍA Y SALUD PÚBLICA,3H,"-2.15229, -79.95582",-2.15229,-79.95582
+ECONOMETRÍA II,9B,"-2.14715, -79.96725",-2.14715,-79.96725
+HISTORIA DEL CINE,14B,"-2.14361, -79.96212",-2.14361,-79.96212
+ORGANIZACIÓN INDUSTRIAL,9B,"-2.14715, -79.96725",-2.14715,-79.96725
+MATEMÁTICAS FINANCIERAS,9B,"-2.14715, -79.96725",-2.14715,-79.96725
+SEGURIDAD DE LA INFORMACIÓN,11A,"-2.14464, -79.96763",-2.14464,-79.96763
+ERGONOMÍA LABORAL,12C,"-2.14497, -79.96579",-2.14497,-79.96579
+DISEÑO DE PUENTES,13H,"-2.14592, -79.96581",-2.14592,-79.96581
+TALLER DE ILUSTRACIÓN,14B,"-2.14361, -79.96212",-2.14361,-79.96212
+VIBRACIONES MECÁNICAS,5K,"-2.14675, -79.96303",-2.14675,-79.96303
+DESARROLLO SOCIAL Y NUEVAS TECNOLOGÍAS,9F,"-2.14717, -79.96779",-2.14717,-79.96779
+FÍSICA GENERAL,9M,"-2.14682, -79.96671",-2.14682,-79.96671
+PROGRAMACIÓN ORIENTADA A OBJETOS,11A,"-2.14464, -79.96763",-2.14464,-79.96763
+DISEÑO DE SISTEMAS TERMOFLUIDOS,12C,"-2.14497, -79.96579",-2.14497,-79.96579
+INGENIERÍA AMBIENTAL,13H,"-2.14592, -79.96581",-2.14592,-79.96581
+LEGISLACIÓN AUDIOVISUAL,14B,"-2.14361, -79.96212",-2.14361,-79.96212
+DIBUJO II,14B,"-2.14361, -79.96212",-2.14361,-79.96212
+DIBUJO ARTÍSTICO,14B,"-2.14361, -79.96212",-2.14361,-79.96212
+TÉCNICAS DIETÉTICAS,3H,"-2.15229, -79.95582",-2.15229,-79.95582
+MICROBIOLOGÍA GENERAL,3H,"-2.15229, -79.95582",-2.15229,-79.95582
+INGLÉS IV,8F,"-2.14877, -79.96752",-2.14877,-79.96752
+ÁLGEBRA LINEAL I,9I,"-2.14608, -79.96717",-2.14608,-79.96717
+FENÓMENOS DE TRANSPORTE DE MASA,9M,"-2.14682, -79.96671",-2.14682,-79.96671
+FUNDAMENTOS DE PROGRAMACIÓN,11A,"-2.14464, -79.96763",-2.14464,-79.96763
+DISEÑO Y SIMULACIÓN DE MÁQUINAS,12C,"-2.14497, -79.96579",-2.14497,-79.96579
+TÉCNICAS DE IMPRESIÓN,14B,"-2.14361, -79.96212",-2.14361,-79.96212
+SERVICIOS DE ALIMENTACIÓN,3H,"-2.15229, -79.95582",-2.15229,-79.95582
+MORFOFISIOLOGÍA HUMANA I,3H,"-2.15229, -79.95582",-2.15229,-79.95582
+MORFOFISIOLOGÍA HUMANA II,3H,"-2.15229, -79.95582",-2.15229,-79.95582
+INGLÉS I,8F,"-2.14877, -79.96752",-2.14877,-79.96752
+ECONOMÍA GERENCIAL,9B,"-2.14715, -79.96725",-2.14715,-79.96725
+GESTIÓN DEL PATRIMONIO CULTURAL,9F,"-2.14717, -79.96779",-2.14717,-79.96779
+ESTADÍSTICA,9I,"-2.14608, -79.96717",-2.14608,-79.96717
+ESTADÍSTICA I,9M,"-2.14682, -79.96671",-2.14682,-79.96671
+SISTEMAS DE CONTROL DE GESTIÓN,FCSH,"-2.1478, -79.96865",-2.1478,-79.96865
+INGENIERÍA DE SOFTWARE I,11A,"-2.14464, -79.96763",-2.14464,-79.96763
+ECONOMETRÍA III,9B,"-2.14715, -79.96725",-2.14715,-79.96725
+CONTABILIDAD DE COSTOS,9F,"-2.14717, -79.96779",-2.14717,-79.96779
+SISTEMAS DE INFORMACIÓN,FIEC,"-2.14458, -79.96767",-2.14458,-79.96767
+INTELIGENCIA ARTIFICIAL,11A,"-2.14464, -79.96763",-2.14464,-79.96763
+SISTEMAS DE CONTROL APLICADOS,12H,"-2.14423, -79.96633",-2.14423,-79.96633
+HIDRÁULICA Y NEUMÁTICA,12H,"-2.14423, -79.96633",-2.14423,-79.96633
+DIRECCIÓN AUDIOVISUAL,14B,"-2.14361, -79.96212",-2.14361,-79.96212
+INGLÉS II,8F,"-2.14877, -79.96752",-2.14877,-79.96752
+FUNDAMENTOS DE MARKETING,9B,"-2.14715, -79.96725",-2.14715,-79.96725
+ADMINISTRACIÓN LOGÍSTICA,9C,"-2.14725, -79.96693",-2.14725,-79.96693
+GEOGRAFÍA FÍSICA,9F,"-2.14717, -79.96779",-2.14717,-79.96779
+CONTABILIDAD FINANCIERA,9F,"-2.14717, -79.96779",-2.14717,-79.96779
+OPERACIONES UNITARIAS I,9M,"-2.14682, -79.96671",-2.14682,-79.96671
+DISEÑO GRÁFICO IV,FADCOM,"-2.14391, -79.96202",-2.14391,-79.96202
+EMPRENDIMIENTO E INNOVACIÓN,VRA,"-2.14862, -79.9677",-2.14862,-79.9677
+CONTROLES ELÉCTRICOS INDUSTRIALES,11C,"-2.14565, -79.96656",-2.14565,-79.96656
+DISEÑO DE APLICACIONES EN TELECOMUNICACIONES,11D,"-2.14542, -79.96613",-2.14542,-79.96613
+COMUNICACIONES INDUSTRIALES Y SISTEMAS SCADA,11A,"-2.14464, -79.96763",-2.14464,-79.96763
+DIRECCIÓN DE PROYECTOS INFORMÁTICOS,11A,"-2.14464, -79.96763",-2.14464,-79.96763
+TERMOFLUIDOS,12C,"-2.14497, -79.96579",-2.14497,-79.96579
+TIPOGRAFÍA,14B,"-2.14361, -79.96212",-2.14361,-79.96212
+BIOLOGÍA CELULAR Y MOLECULAR,3H,"-2.15229, -79.95582",-2.15229,-79.95582
+SISTEMAS DE CONTROL,11D,"-2.14542, -79.96613",-2.14542,-79.96613
+SISTEMAS DISTRIBUIDOS Y COMPUTACIÓN EN LA NUBE,11A,"-2.14464, -79.96763",-2.14464,-79.96763
+SISTEMAS DE REDES,FIEC,"-2.14458, -79.96767",-2.14458,-79.96767
+PLANIFICACIÓN DE SISTEMAS DE POTENCIA,11F,"-2.14528, -79.96718",-2.14528,-79.96718
+INGENIERÍA DE SOFTWARE II,FIEC,"-2.14458, -79.96767",-2.14458,-79.96767
+INGENIERÍA DE LA CONSTRUCCIÓN,13H,"-2.14592, -79.96581",-2.14592,-79.96581
+ESTUDIO DE CASOS DE CIENCIAS SOCIALES,9F,"-2.14717, -79.96779",-2.14717,-79.96779
+MATEMÁTICAS DISCRETAS,9M,"-2.14682, -79.96671",-2.14682,-79.96671
+SISTEMAS DIGITALES II,11A,"-2.14464, -79.96763",-2.14464,-79.96763
+TRANSMISIÓN DE SERVICIOS MULTIMEDIA,11D,"-2.14542, -79.96613",-2.14542,-79.96613
+INTRODUCCIÓN A LA HISTORIA Y ETNOHISTORIA,9F,"-2.14717, -79.96779",-2.14717,-79.96779
+DISEÑO GRÁFICO II,FADCOM,"-2.14391, -79.96202",-2.14391,-79.96202
+DISEÑO DE ELEMENTOS DE MÁQUINAS,12H,"-2.14423, -79.96633",-2.14423,-79.96633
+OPERACIONES UNITARIAS II,9M,"-2.14682, -79.96671",-2.14682,-79.96671
+INTRODUCCIÓN A LA ANTROPOLOGÍA Y ARQUEOLOGÍA,9F,"-2.14717, -79.96779",-2.14717,-79.96779
+ANIMACIÓN II,FADCOM,"-2.14391, -79.96202",-2.14391,-79.96202
+HISTORIA DEL ARTE,14B,"-2.14361, -79.96212",-2.14361,-79.96212
+TERMODINÁMICA II,9M,"-2.14682, -79.96671",-2.14682,-79.96671
+ARTE Y CIENCIA,FADCOM,"-2.14391, -79.96202",-2.14391,-79.96202
+AUTOMATIZACIÓN DE PROCESOS INDUSTRIALES,11A,"-2.14464, -79.96763",-2.14464,-79.96763
+MÁQUINAS Y TRANSFORMADORES,11D,"-2.14542, -79.96613",-2.14542,-79.96613
+NUTRICIÓN HUMANA Y METABOLISMO,3H,"-2.15229, -79.95582",-2.15229,-79.95582
+DINÁMICA DE PROCESOS Y CONTROL,8G,"-2.14859, -79.9672",-2.14859,-79.9672
+MATEMÁTICAS AVANZADAS,9M,"-2.14682, -79.96671",-2.14682,-79.96671
+ANIMACIÓN I,FADCOM,"-2.14391, -79.96202",-2.14391,-79.96202
+PLANIFICACIÓN DE ESPACIOS TURÍSTICOS,9F,"-2.14717, -79.96779",-2.14717,-79.96779
+DESARROLLO DE JUEGOS DE VIDEO,FIEC,"-2.14458, -79.96767",-2.14458,-79.96767
+PROYECTO DE DISEÑO,14B,"-2.14361, -79.96212",-2.14361,-79.96212
+AUDITORÍA OPERACIONAL,9B,"-2.14715, -79.96725",-2.14715,-79.96725
+INVESTIGACIÓN DE OPERACIONES,12H,"-2.14423, -79.96633",-2.14423,-79.96633
+DISEÑO DE PROCESOS TÉRMICOS II,12H,"-2.14423, -79.96633",-2.14423,-79.96633
+INVESTIGACIÓN APLICADA AL DISEÑO,14B,"-2.14361, -79.96212",-2.14361,-79.96212
+MATERIA INTEGRADORA DE NUTRICIÓN Y DIETÉTICA,3H,"-2.15229, -79.95582",-2.15229,-79.95582
+CONTABILIDAD AVANZADA,9B,"-2.14715, -79.96725",-2.14715,-79.96725
+GESTIÓN DE LA RELACIÓN CON EL CLIENTE,9B,"-2.14715, -79.96725",-2.14715,-79.96725
+COMUNICACIONES INALÁMBRICAS,11A,"-2.14464, -79.96763",-2.14464,-79.96763
+ANÁLISIS DE REDES ELÉCTRICAS,11D,"-2.14542, -79.96613",-2.14542,-79.96613
+EVALUACIÓN DE POLÍTICAS PÚBLICAS,8B,"-2.14821, -79.96861",-2.14821,-79.96861
+DISEÑO DE PLANTAS,9M,"-2.14682, -79.96671",-2.14682,-79.96671
+ANÁLISIS DE VALOR DE PRODUCTO,12C,"-2.14497, -79.96579",-2.14497,-79.96579
+INTRODUCCIÓN A LA INGENIERÍA INDUSTRIAL,12C,"-2.14497, -79.96579",-2.14497,-79.96579
+ANÁLISIS Y RESOLUCIÓN DE PROBLEMAS,14B,"-2.14361, -79.96212",-2.14361,-79.96212
+COMPORTAMIENTO ORGANIZACIONAL,9B,"-2.14715, -79.96725",-2.14715,-79.96725
+PATRIMONIO NATURAL Y CULTURAL,9B,"-2.14715, -79.96725",-2.14715,-79.96725
+FORMAS E HIDROSTÁTICA DEL BUQUE,FIMCM,"-2.14428, -79.96637",-2.14428,-79.96637
+CONTROL AVANZADO,11D,"-2.14542, -79.96613",-2.14542,-79.96613
+DESARROLLO DE APLICACIONES WEB Y MÓVILES,11D,"-2.14542, -79.96613",-2.14542,-79.96613
+ECUACIONES DIFERENCIALES Y ÁLGEBRA LINEAL,9M,"-2.14682, -79.96671",-2.14682,-79.96671
+COMERCIO EXTERIOR,9F,"-2.14717, -79.96779",-2.14717,-79.96779
+LEGISLACIÓN Y SOBERANÍA ALIMENTARIA,3H,"-2.15229, -79.95582",-2.15229,-79.95582
+ATENCIÓN PLENA,9F,"-2.14717, -79.96779",-2.14717,-79.96779
+MATERIA INTEGRADORA DE INGENIERÍA QUÍMICA,FCNM,"-2.14698, -79.96746",-2.14698,-79.96746
+SEGURIDAD Y SALUD OCUPACIONAL,12C,"-2.14497, -79.96579",-2.14497,-79.96579
+DINÁMICA,12C,"-2.14497, -79.96579",-2.14497,-79.96579
+FÍSICA: ELECTRICIDAD Y MAGNETISMO,9M,"-2.14682, -79.96671",-2.14682,-79.96671
+DESARROLLO SOSTENIBLE DEL TURISMO,FCSH,"-2.1478, -79.96865",-2.1478,-79.96865
+TALLER MECÁNICO,12H,"-2.14423, -79.96633",-2.14423,-79.96633
+MODELOS ESTOCÁSTICOS PARA MANUFACTURA Y SERVICIOS,12C,"-2.14497, -79.96579",-2.14497,-79.96579
+DISEÑO DE INFORMACIÓN,14B,"-2.14361, -79.96212",-2.14361,-79.96212
+DIBUJO  I,14B,"-2.14361, -79.96212",-2.14361,-79.96212
+PRODUCCIÓN EJECUTIVA,14B,"-2.14361, -79.96212",-2.14361,-79.96212
+COMUNICACIÓN,8G,"-2.14859, -79.9672",-2.14859,-79.9672
+CINÉTICA Y REACTORES,9C,"-2.14725, -79.96693",-2.14725,-79.96693
+CÁLCULO VECTORIAL,9M,"-2.14682, -79.96671",-2.14682,-79.96671
+FÍSICA: MECÁNICA,9M,"-2.14682, -79.96671",-2.14682,-79.96671
+PLANIFICACIÓN DE LA PRODUCCIÓN,12C,"-2.14497, -79.96579",-2.14497,-79.96579
+PROCESOS INDUSTRIALES,12C,"-2.14497, -79.96579",-2.14497,-79.96579
+PRÁCTICA TRIBUTARIA,9B,"-2.14715, -79.96725",-2.14715,-79.96725
+QUÍMICA INORGÁNICA,9M,"-2.14682, -79.96671",-2.14682,-79.96671
+INVESTIGACIÓN DE MERCADOS,FCSH,"-2.1478, -79.96865",-2.1478,-79.96865
+HISTORIA Y FILOSOFÍA DEL PENSAMIENTO ECONÓMICO,FCSH,"-2.1478, -79.96865",-2.1478,-79.96865
+CONTROL INTERNO,FCSH,"-2.1478, -79.96865",-2.1478,-79.96865
+METODOLOGÍAS PARA LA MEJORA CONTINUA,12C,"-2.14497, -79.96579",-2.14497,-79.96579
+INSTRUMENTACIÓN INDUSTRIAL,11A,"-2.14464, -79.96763",-2.14464,-79.96763
+DISEÑO Y MANUFACTURA ASISTIDA POR COMPUTADORA,12C,"-2.14497, -79.96579",-2.14497,-79.96579
+CONTABILIDAD III,9B,"-2.14715, -79.96725",-2.14715,-79.96725
+DERECHO SOCIETARIO Y LABORAL,FCSH,"-2.1478, -79.96865",-2.1478,-79.96865
+AUDITORÍA FINANCIERA I,FCSH,"-2.1478, -79.96865",-2.1478,-79.96865
+CÁLCULO DE UNA VARIABLE,9M,"-2.14682, -79.96671",-2.14682,-79.96671
+FENÓMENOS DE TRANSPORTE DE MOMENTUM,9M,"-2.14682, -79.96671",-2.14682,-79.96671
+INTRODUCCIÓN A LA INGENIERÍA MECÁNICA,12C,"-2.14497, -79.96579",-2.14497,-79.96579
+DISEÑO DE MARCA,14B,"-2.14361, -79.96212",-2.14361,-79.96212
+ARTE Y TECNOLOGÍA,14B,"-2.14361, -79.96212",-2.14361,-79.96212
+BIOÉTICA,3H,"-2.15229, -79.95582",-2.15229,-79.95582
+DERECHO TURÍSTICO Y AMBIENTAL,9B,"-2.14715, -79.96725",-2.14715,-79.96725
+MUESTREO,9M,"-2.14682, -79.96671",-2.14682,-79.96671
+ANÁLISIS NUTRICIONAL DE LOS ALIMENTOS,3H,"-2.15229, -79.95582",-2.15229,-79.95582
+FENÓMENOS DE TRANSPORTE DE CALOR,8G,"-2.14859, -79.9672",-2.14859,-79.9672
+ÁLGEBRA LINEAL,9M,"-2.14682, -79.96671",-2.14682,-79.96671
+CIENCIAS DE LA SOSTENIBILIDAD,9M,"-2.14682, -79.96671",-2.14682,-79.96671
+TEORÍA DE LA COMUNICACIÓN,14B,"-2.14361, -79.96212",-2.14361,-79.96212
+SOCIOLOGÍA,FCSH,"-2.1478, -79.96865",-2.1478,-79.96865
+FUNDAMENTOS DE INVERSIONES,FCSH,"-2.1478, -79.96865",-2.1478,-79.96865
+CIENCIA E INGENIERÍA DE MATERIALES,12C,"-2.14497, -79.96579",-2.14497,-79.96579
+ESTADÍSTICA II,9M,"-2.14682, -79.96671",-2.14682,-79.96671
+INGENIERÍA DE MÉTODOS,12C,"-2.14497, -79.96579",-2.14497,-79.96579
+GESTIÓN DE RECURSOS HUMANOS,9B,"-2.14715, -79.96725",-2.14715,-79.96725
+ESTADÍSTICA,FCNM,"-2.14698, -79.96746",-2.14698,-79.96746
+"GESTION DE CALIDAD, AMBIENTE Y SEGURIDAD EN LA INDUSTRIA",8G,"-2.14859, -79.9672",-2.14859,-79.9672
+ANÁLISIS FINANCIERO,9B,"-2.14715, -79.96725",-2.14715,-79.96725
+PLANIFICACIÓN Y CONTROL FINANCIERO,9C,"-2.14725, -79.96693",-2.14725,-79.96693
+AUDITORÍA TRIBUTARIA,FCSH,"-2.1478, -79.96865",-2.1478,-79.96865
+QUÍMICA GENERAL,9M,"-2.14682, -79.96671",-2.14682,-79.96671
+CONTABILIDAD II,9B,"-2.14715, -79.96725",-2.14715,-79.96725
+PLANIFICACIÓN ESTRATÉGICA,9F,"-2.14717, -79.96779",-2.14717,-79.96779
+DIRECCIÓN ESCÉNICA,14B,"-2.14361, -79.96212",-2.14361,-79.96212
+MATEMÁTICAS,14B,"-2.14361, -79.96212",-2.14361,-79.96212
+AUDITORÍA FINANCIERA II,FCSH,"-2.1478, -79.96865",-2.1478,-79.96865
+DERECHO TRIBUTARIO,FCSH,"-2.1478, -79.96865",-2.1478,-79.96865
+LOGÍSTICA EN SERVICIO,9M,"-2.14682, -79.96671",-2.14682,-79.96671
+FUNDAMENTOS DE ADMINISTRACIÓN,9B,"-2.14715, -79.96725",-2.14715,-79.96725
+PRONÓSTICO Y CONTROL DE INVENTARIO,12C,"-2.14497, -79.96579",-2.14497,-79.96579
+QUÍMICA ANALÍTICA E INSTRUMENTAL,9M,"-2.14682, -79.96671",-2.14682,-79.96671
+CRECIMIENTO Y DESARROLLO ECONÓMICO,9B,"-2.14715, -79.96725",-2.14715,-79.96725
+QUÍMICA ORGÁNICA I,9M,"-2.14682, -79.96671",-2.14682,-79.96671
+DESARROLLO PROFESIONAL,9B,"-2.14715, -79.96725",-2.14715,-79.96725
+FORMULACION Y EVALUACIÓN SOCIAL DE PROYECTOS,9F,"-2.14717, -79.96779",-2.14717,-79.96779
+MICROECONOMÍA III,9F,"-2.14717, -79.96779",-2.14717,-79.96779
+MICROECONOMÍA III,FCSH,"-2.1478, -79.96865",-2.1478,-79.96865
+AUDITORÍA FORENSE,FCSH,"-2.1478, -79.96865",-2.1478,-79.96865
+DISEÑO DE PLANTAS,12H,"-2.14423, -79.96633",-2.14423,-79.96633
+AUDITORÍA DE SISTEMAS DE INFORMACIÓN,9B,"-2.14715, -79.96725",-2.14715,-79.96725
+INTRODUCCIÓN A LAS TÉCNICAS DE AUDITORÍA,9C,"-2.14725, -79.96693",-2.14725,-79.96693
+GESTIÓN TRIBUTARIA,FCSH,"-2.1478, -79.96865",-2.1478,-79.96865
+HISTORIA DEL DISEÑO,14B,"-2.14361, -79.96212",-2.14361,-79.96212
+ROBOTS MÓVILES Y ARTICULADOS,12H,"-2.14423, -79.96633",-2.14423,-79.96633
+FUNDAMENTOS DE AUDITORÍA,9F,"-2.14717, -79.96779",-2.14717,-79.96779
+SEMIÓTICA,FADCOM,"-2.14391, -79.96202",-2.14391,-79.96202
+DERECHO ECONÓMICO,9F,"-2.14717, -79.96779",-2.14717,-79.96779
+ECONOMETRÍA I,FCSH,"-2.1478, -79.96865",-2.1478,-79.96865
+OPERACIÓN DE SISTEMAS DE POTENCIA,11D,"-2.14542, -79.96613",-2.14542,-79.96613
+GESTIÓN DE MARKETING,9B,"-2.14715, -79.96725",-2.14715,-79.96725
+SISTEMAS FLEXIBLES DE MANUFACTURA,12H,"-2.14423, -79.96633",-2.14423,-79.96633
+GESTION DE PROYECTOS II,BLOQUE A,"-2.14777, -79.9688",-2.14777,-79.9688
+MÚSICA FOLCLÓRICA LATINOAMERICANA,14B,"-2.14361, -79.96212",-2.14361,-79.96212
+MATERIA INTEGRADORA DE DISEÑO GRÁFICO,14B,"-2.14361, -79.96212",-2.14361,-79.96212
+MINERALOGÍA,13H,"-2.14592, -79.96581",-2.14592,-79.96581
+MATERIA INTEGRADORA DE INGENIERÍA INDUSTRIAL,12H,"-2.14423, -79.96633",-2.14423,-79.96633
+MACROECONOMÍA III,8E,"-2.1487, -79.96782",-2.1487,-79.96782
+MATERIA INTEGRADORA DE TELEMÁTICA,FIEC,"-2.14458, -79.96767",-2.14458,-79.96767
+SISTEMAS DE INFORMACIÓN GEOGRÁFICA,13H,"-2.14592, -79.96581",-2.14592,-79.96581
+TÉCNICAS CULINARIAS,3H,"-2.15229, -79.95582",-2.15229,-79.95582
+PRESUPUESTO,FCSH,"-2.1478, -79.96865",-2.1478,-79.96865
+MATERIA INTEGRADORA DE ELECTRÓNICA Y AUTOMATIZACIÓN,VRA,"-2.14509, -79.96722",-2.14509,-79.96722
+RESISTENCIA DE MATERIALES,13H,"-2.14592, -79.96581",-2.14592,-79.96581
+PORTAFOLIO,14B,"-2.14361, -79.96212",-2.14361,-79.96212
+PINTURA,14B,"-2.14361, -79.96212",-2.14361,-79.96212
+ESTRATEGIAS CORPORATIVAS Y DE NEGOCIOS,9F,"-2.14717, -79.96779",-2.14717,-79.96779
+SISTEMAS DIGITALES II,11D,"-2.14542, -79.96613",-2.14542,-79.96613
+MECÁNICA DE SÓLIDOS,12C,"-2.14497, -79.96579",-2.14497,-79.96579
+MANTENIMIENTO INDUSTRIAL,12C,"-2.14497, -79.96579",-2.14497,-79.96579
+DESARROLLO ORGANIZACIONAL,9F,"-2.14717, -79.96779",-2.14717,-79.96779
+GESTIÓN DE LA RELACIÓN CON EL CLIENTE,9F,"-2.14717, -79.96779",-2.14717,-79.96779
+PROYECTO AUDIOVISUAL I,14B,"-2.14361, -79.96212",-2.14361,-79.96212
+SOCIOLOGÍA,9B,"-2.14715, -79.96725",-2.14715,-79.96725
+ECONOMETRÍA III,9C,"-2.14725, -79.96693",-2.14725,-79.96693
+METODOLOGÍA DE LA INVESTIGACIÓN EN COMPUTACIÓN,FIEC,"-2.14458, -79.96767",-2.14458,-79.96767
+TERMODINÁMICA I,9M,"-2.14682, -79.96671",-2.14682,-79.96671
+CINÉTICA Y REACTORES,9I,"-2.14608, -79.96717",-2.14608,-79.96717
+HISTORIA Y FILOSOFÍA DEL PENSAMIENTO ECONÓMICO,9F,"-2.14717, -79.96779",-2.14717,-79.96779
+SISTEMAS DIGITALES I,11D,"-2.14542, -79.96613",-2.14542,-79.96613
+TERMODINÁMICA,12H,"-2.14423, -79.96633",-2.14423,-79.96633
+QUÍMICA ORGÁNICA II,8G,"-2.14859, -79.9672",-2.14859,-79.9672
+INSTALACIONES ELÉCTRICAS,11D,"-2.14542, -79.96613",-2.14542,-79.96613
+PROYECTOS INDUSTRIALES,12C,"-2.14497, -79.96579",-2.14497,-79.96579
+SEGURIDAD DE LA INFORMACIÓN,11D,"-2.14542, -79.96613",-2.14542,-79.96613
+SISTEMAS DE CONTROL DE PRODUCCIÓN,12C,"-2.14497, -79.96579",-2.14497,-79.96579
+MICROECONOMÍA I,8F,"-2.14877, -79.96752",-2.14877,-79.96752
+REDES DE DATOS,11B,"-2.14509, -79.96725",-2.14509,-79.96725
+APLICACIONES ELECTRÓNICAS,11D,"-2.14542, -79.96613",-2.14542,-79.96613
+INGLÉS IV,9F,"-2.14717, -79.96779",-2.14717,-79.96779
+COMUNICACIÓN,9I,"-2.14608, -79.96717",-2.14608,-79.96717
+SISTEMAS EMBEBIDOS,11A,"-2.14464, -79.96763",-2.14464,-79.96763
+MICROECONOMÍA II,9F,"-2.14717, -79.96779",-2.14717,-79.96779
+DISEÑO DE SISTEMAS MECÁNICOS,12C,"-2.14497, -79.96579",-2.14497,-79.96579
+DIBUJO PARA INGENIERÍA,12H,"-2.14423, -79.96633",-2.14423,-79.96633
+FUNDAMENTOS DE PROGRAMACIÓN,11D,"-2.14542, -79.96613",-2.14542,-79.96613
+MATEMÁTICAS FINANCIERAS,9F,"-2.14717, -79.96779",-2.14717,-79.96779
+SISTEMAS OPERATIVOS,11A,"-2.14464, -79.96763",-2.14464,-79.96763
+PROGRAMACIÓN ORIENTADA A OBJETOS,11B,"-2.14509, -79.96725",-2.14509,-79.96725
+PROGRAMACIÓN DE SISTEMAS,11C,"-2.14565, -79.96656",-2.14565,-79.96656
+ORGANIZACIÓN DE COMPUTADORES,11D,"-2.14542, -79.96613",-2.14542,-79.96613
+SISTEMAS DE CONTROL APLICADOS,12C,"-2.14497, -79.96579",-2.14497,-79.96579
+INTRODUCCIÓN A LA ECONOMÍA,9B,"-2.14715, -79.96725",-2.14715,-79.96725
+PROGRAMACIÓN DE SISTEMAS TELEMÁTICOS,11D,"-2.14542, -79.96613",-2.14542,-79.96613
+ADMINISTRACIÓN LOGÍSTICA,9B,"-2.14715, -79.96725",-2.14715,-79.96725
+FUNDAMENTOS DE MARKETING,9F,"-2.14717, -79.96779",-2.14717,-79.96779
+ECONOMETRÍA II,9F,"-2.14717, -79.96779",-2.14717,-79.96779
+CONTABILIDAD DE COSTOS,8E,"-2.1487, -79.96782",-2.1487,-79.96782
+GESTIÓN DE LA CADENA DE SUMINISTRO SOSTENIBLE,12C,"-2.14497, -79.96579",-2.14497,-79.96579
+TERMOFLUIDOS,12H,"-2.14423, -79.96633",-2.14423,-79.96633
+ARTE Y CIENCIA,14B,"-2.14361, -79.96212",-2.14361,-79.96212
+SISTEMAS DISTRIBUIDOS Y COMPUTACIÓN EN LA NUBE,11D,"-2.14542, -79.96613",-2.14542,-79.96613
+ANÁLISIS Y RESOLUCIÓN DE PROBLEMAS,11D,"-2.14542, -79.96613",-2.14542,-79.96613
+GESTIÓN DE PROYECTOS,FCSH,"-2.1478, -79.96865",-2.1478,-79.96865
+FÍSICA: ELECTRÓNICA Y ÓPTICA,9M,"-2.14682, -79.96671",-2.14682,-79.96671
+DERECHO SOCIETARIO Y LABORAL,9F,"-2.14717, -79.96779",-2.14717,-79.96779
+FISICOQUÍMICA,9M,"-2.14682, -79.96671",-2.14682,-79.96671
+MÉTODOS NUMÉRICOS,9C,"-2.14725, -79.96693",-2.14725,-79.96693
+ADMINISTRACIÓN DE OPERACIONES,9F,"-2.14717, -79.96779",-2.14717,-79.96779
+DISEÑO ESTRATÉGICO,14B,"-2.14361, -79.96212",-2.14361,-79.96212
+AGENCIAS DE VIAJE,9B,"-2.14715, -79.96725",-2.14715,-79.96725
+EMPRENDIMIENTO E INNOVACIÓN,13B,"-2.1456, -79.96506",-2.1456,-79.96506
+CÁLCULO DE VARIAS VARIABLES,9M,"-2.14682, -79.96671",-2.14682,-79.96671
+ANÁLISIS FINANCIERO,9F,"-2.14717, -79.96779",-2.14717,-79.96779
+FÍSICA: TERMODINÁMICA Y ELECTRÓNICA,9M,"-2.14682, -79.96671",-2.14682,-79.96671
+COMPORTAMIENTO ORGANIZACIONAL,9F,"-2.14717, -79.96779",-2.14717,-79.96779
+EMPRENDIMIENTO E INNOVACIÓN,9B,"-2.14715, -79.96725",-2.14715,-79.96725
+FINANZAS INTERNACIONALES,9B,"-2.14715, -79.96725",-2.14715,-79.96725
+INGENIERÍA DE LA CALIDAD,12C,"-2.14497, -79.96579",-2.14497,-79.96579
+MATEMÁTICA APLICADA A LA INGENIERÍA,9I,"-2.14608, -79.96717",-2.14608,-79.96717
+FUNDAMENTOS DE PROGRAMACIÓN,8G,"-2.14859, -79.9672",-2.14859,-79.9672
+ESTUDIO DE CASOS DE CIENCIAS SOCIALES,9B,"-2.14715, -79.96725",-2.14715,-79.96725
+ESTADÍSTICA,9M,"-2.14682, -79.96671",-2.14682,-79.96671
+CONTABILIDAD DE COSTOS,9B,"-2.14715, -79.96725",-2.14715,-79.96725
+MECÁNICA DE FLUIDOS,FIMCP,"-2.14437, -79.96617",-2.14437,-79.96617
+SOCIOLOGÍA,9F,"-2.14717, -79.96779",-2.14717,-79.96779
+CONTABILIDAD FINANCIERA,9B,"-2.14715, -79.96725",-2.14715,-79.96725
+FUNDAMENTOS DE INVERSIONES,9B,"-2.14715, -79.96725",-2.14715,-79.96725
+ANÁLISIS Y RESOLUCIÓN DE PROBLEMAS,12C,"-2.14497, -79.96579",-2.14497,-79.96579
+COMUNICACIÓN,VRA,"-2.14862, -79.9677",-2.14862,-79.9677
+ADMINISTRACIÓN DE OPERACIONES,9C,"-2.14725, -79.96693",-2.14725,-79.96693
+CÁLCULO DE UNA VARIABLE,8G,"-2.14859, -79.9672",-2.14859,-79.9672
+FUNDAMENTOS DE ADMINISTRACIÓN,9F,"-2.14717, -79.96779",-2.14717,-79.96779
+INTRODUCCIÓN A LA ECONOMÍA,8E,"-2.1487, -79.96782",-2.1487,-79.96782
+EMPRENDIMIENTO E INNOVACIÓN,11D,"-2.14542, -79.96613",-2.14542,-79.96613
+FUNDAMENTOS DE PROGRAMACIÓN,7A,"-2.14752, -79.96611",-2.14752,-79.96611
+MECÁNICA DE MAQUINARIA,12C,"-2.14497, -79.96579",-2.14497,-79.96579
+ANÁLISIS Y RESOLUCIÓN DE PROBLEMAS,8G,"-2.14859, -79.9672",-2.14859,-79.9672
+MECÁNICA DE FLUIDOS,12H,"-2.14423, -79.96633",-2.14423,-79.96633
+EMPRENDIMIENTO E INNOVACIÓN,14B,"-2.14361, -79.96212",-2.14361,-79.96212
+FUNDAMENTOS DE PROGRAMACIÓN,8H,"-2.14846, -79.96737",-2.14846,-79.96737
+ANÁLISIS Y RESOLUCIÓN DE PROBLEMAS,13B,"-2.1456, -79.96506",-2.1456,-79.96506
+CHINO-MANDARÍN I,8F,"-2.14877, -79.96752",-2.14877,-79.96752
+INGLÉS V,8F,"-2.14877, -79.96752",-2.14877,-79.96752
+FRANCÉS I,8F,"-2.14877, -79.96752",-2.14877,-79.96752
+INTRODUCCIÓN A LA ECONOMÍA,8F,"-2.14877, -79.96752",-2.14877,-79.96752
+INGLÉS II,8E,"-2.1487, -79.96782",-2.1487,-79.96782
+INGLÉS IV,8E,"-2.1487, -79.96782",-2.1487,-79.96782
+INGLÉS III,8E,"-2.1487, -79.96782",-2.1487,-79.96782
+INGLÉS I,8E,"-2.1487, -79.96782",-2.1487,-79.96782
+ANÁLISIS Y RESOLUCIÓN DE PROBLEMAS,5K,"-2.14675, -79.96303",-2.14675,-79.96303
+FUNDAMENTOS DE PROGRAMACIÓN,FIEC,"-2.14458, -79.96767",-2.14458,-79.96767
+ANÁLISIS Y RESOLUCIÓN DE PROBLEMAS,9M,"-2.14682, -79.96671",-2.14682,-79.96671
+EMPRENDIMIENTO E INNOVACIÓN,7B,"-2.14704, -79.96609",-2.14704,-79.96609
+MATEMÁTICAS FINANCIERAS,8E,"-2.1487, -79.96782",-2.1487,-79.96782
+EMPRENDIMIENTO E INNOVACIÓN,12C,"-2.14497, -79.96579",-2.14497,-79.96579
+INGLÉS V,9F,"-2.14717, -79.96779",-2.14717,-79.96779
+INGLÉS I,9F,"-2.14717, -79.96779",-2.14717,-79.96779
+INGLÉS I,9B,"-2.14715, -79.96725",-2.14715,-79.96725
+INGLÉS II,9B,"-2.14715, -79.96725",-2.14715,-79.96725
+CIENCIAS DE LA SOSTENIBILIDAD,8G,"-2.14859, -79.9672",-2.14859,-79.9672
+INGLÉS III,9F,"-2.14717, -79.96779",-2.14717,-79.96779
+ANÁLISIS Y RESOLUCIÓN DE PROBLEMAS,9B,"-2.14715, -79.96725",-2.14715,-79.96725
+ANÁLISIS Y RESOLUCIÓN DE PROBLEMAS,9G,"-2.14684, -79.9678",-2.14684,-79.9678
+INGLÉS IV,9B,"-2.14715, -79.96725",-2.14715,-79.96725
+FÍSICA: MECÁNICA,9I,"-2.14608, -79.96717",-2.14608,-79.96717
+FUNDAMENTOS DE PROGRAMACIÓN,FCNM,"-2.14698, -79.96746",-2.14698,-79.96746
+EMPRENDIMIENTO E INNOVACIÓN,5K,"-2.14675, -79.96303",-2.14675,-79.96303
+ANÁLISIS Y RESOLUCIÓN DE PROBLEMAS,8H,"-2.14846, -79.96737",-2.14846,-79.96737
+CÁLCULO DE UNA VARIABLE,9G,"-2.14684, -79.9678",-2.14684,-79.9678
+CÁLCULO DE UNA VARIABLE,9I,"-2.14608, -79.96717",-2.14608,-79.96717
+FUNDAMENTOS DE PROGRAMACIÓN,FCV,"-2.15153, -79.95655",-2.15153,-79.95655
+ANÁLISIS Y RESOLUCIÓN DE PROBLEMAS,7B,"-2.14704, -79.96609",-2.14704,-79.96609
+FUNDAMENTOS DE PROGRAMACIÓN,FCSH,"-2.1478, -79.96865",-2.1478,-79.96865
+DIAGNÓSTICO Y PROTECCIÓN VEGETAL I,GEA,"-2.15133, -79.95574",-2.15133,-79.95574
+GENOTECNIA,GEA,"-2.15133, -79.95574",-2.15133,-79.95574
+EXTENSIONISMO,GEA,"-2.15133, -79.95574",-2.15133,-79.95574
+RIEGO Y DRENAJE,GEA,"-2.15133, -79.95574",-2.15133,-79.95574
+PRODUCCIÓN PECUARIA II,GEA,"-2.15133, -79.95574",-2.15133,-79.95574
+ELECTRÓNICA,11C,"-2.14565, -79.96656",-2.14565,-79.96656
+APLICACIONES ELECTRÓNICAS,11C,"-2.14565, -79.96656",-2.14565,-79.96656
+PRINCIPIOS DE ELECTRÓNICA,11A,"-2.14464, -79.96763",-2.14464,-79.96763
+FERMENTACIÓN Y ENZIMOLOGÍA ALIMENTARIA,12G,"-2.14441, -79.96641",-2.14441,-79.96641
+PRINCIPIOS DE ELECTRÓNICA,11C,"-2.14565, -79.96656",-2.14565,-79.96656
+PROCESAMIENTO DE FRUTAS Y VEGETALES,12G,"-2.14441, -79.96641",-2.14441,-79.96641
+"PROCESAMIENTO DE CÁRNICOS, PESCADOS Y MARISCOS",12G,"-2.14441, -79.96641",-2.14441,-79.96641
+PROCESAMIENTO DE LÁCTEOS,12G,"-2.14441, -79.96641",-2.14441,-79.96641
+INVESTIGACIÓN II,AULAS EDCOM,"-2.15149, -79.9464",-2.15149,-79.9464
+INVESTIGACIÓN I,AULAS EDCOM,"-2.15149, -79.9464",-2.15149,-79.9464

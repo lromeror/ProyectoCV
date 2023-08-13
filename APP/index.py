@@ -69,9 +69,9 @@ DATAS_DIR = os.path.relpath(os.path.join(ASSETS_DIR,'data'))
 #df = pd.read_csv(os.path.join(DATAS_DIR,'planificacion.csv'),sep=",")
 
 try:
-    df = pd.read_excel("APP/assets/data/planificacion.xlsx",sheet_name="Sheet1")
+    df = pd.read_csv("APP/assets/data/planificacion.csv",sep=",")
 except FileNotFoundError:
-    df = pd.read_excel("https://raw.githubusercontent.com/lromeror/ProyectoCV/main/APP/assets/data/planificacion.xlsx",sheet_name="Sheet1")
+    df = pd.read_csv("https://raw.githubusercontent.com/lromeror/ProyectoCV/main/APP/assets/data/planificacion.csv",sep=",")
     #ahí que estar actualizando
 
 
