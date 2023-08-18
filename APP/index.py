@@ -2,8 +2,10 @@ from datetime import datetime
 import dash
 import dash_bootstrap_components as dbc
 import os
+import numpy as np
 import plotly.express as px
 import plotly.graph_objects as go
+from scipy.interpolate import interp1d
 import pandas as pd
 import math
 external_stylesheets = [dbc.themes.BOOTSTRAP]  
@@ -197,6 +199,20 @@ def haversine_distance(lat1, lon1, lat2, lon2):
 
     return distance_meters
 
+def generate_random_path(lat1, lon1, lat2, lon2, deviation=0.002):
+    # Generar puntos intermedios con una pequeña desviación aleatoria
+
+    df2 = df[df['BLOQUE']!="CENAIM"].copy()
+    mid_lat = (lat1 + lat2) / 2 + deviation * np.random.randn()
+    mid_lon = (lon1 + lon2) / 2 + deviation * np.random.randn()
+    while(max(df2["LATS"])< mid_lat < min(df2["LATS"])):
+        mid_lat = (lat1 + lat2) / 2 + deviation * np.random.randn()
+    while(max(df2["LONGS"])< mid_lat <min(df2["LONGS"])):
+        mid_lon = (lon1 + lon2) / 2 + deviation * np.random.randn()
+
+
+    return [lat1,mid_lat,lat2],[lon1,mid_lon,lon2]
+
 @app.callback(
     Output('mapa','figure'),
     [Input('Materiapartida', 'value')],
@@ -228,9 +244,22 @@ def grafica(Materiapartida,Bloquepartida,MateriaLlegada,BloqueLlegada):
             mode="lines",
             lon=[lon1, lon2],
             lat=[lat1, lat2],
-            line=dict(width=2, color='red'),
+            line=dict(width=2, color='Green'),
             name='CAMINO MÁS CORTO',
         ))
+        # Número de caminos aleatorios a generar
+        dic={0:"Purple",1:"Red",2:"Blue"}
+        num_random_paths = 2
+        for p in range(num_random_paths):
+            path_lat, path_lon = generate_random_path(lat1, lon1, lat2, lon2)
+            fig.add_traces(go.Scattermapbox(
+        mode="lines",
+        lon=path_lon,
+        lat=path_lat,
+        line=dict(width=2, color=dic[p]),
+        name='Camino Aleatorio',
+        ))
+
         # Actualizar el estilo del mapa y centrar
         fig.update_layout(mapbox_style="open-street-map", 
                         mapbox={'center': {'lat':-2.14730,'lon': -79.9630}})
