@@ -187,7 +187,7 @@ def haversine_distance(lat1, lon1, lat2, lon2):
 
     # Fórmula del haversine
     a = math.sin(dlat / 2)**2 + math.cos(lat1_rad) * math.cos(lat2_rad) * math.sin(dlon / 2)**2
-    c = 2 * math.atan2(math.sqrt(a), math.sqrt(1 - a))
+    c = 2*math.asin(math.sqrt(a))
 
     # Distancia en kilómetros
     distance = R * c
