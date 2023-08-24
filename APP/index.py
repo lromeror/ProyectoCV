@@ -268,8 +268,9 @@ def grafica(Materiapartida,Bloquepartida,MateriaLlegada,BloqueLlegada):
         return fig
     except : 
         current_time = datetime.now().time()
+        date = datetime.now().date
         with open('APP/assets/data/errores.txt', 'a') as archivo:
-            archivo.write(f"Error {current_time}\n")
+            archivo.write(f"Error {date} hora: {current_time}\n")
 
 @app.callback(
     Output('resumen','children'),
@@ -290,8 +291,9 @@ def mostrar_resumen(Materiapartida,Bloquepartida,MateriaLlegada,BloqueLlegada):
             return dbc.Col(html.H4(f"La distancia más corta, desde el bloque {Bloquepartida}({Materiapartida.title()}) hasta el bloque {BloqueLlegada}({MateriaLlegada.title()}) es {round(distancia,2)} metros"),className="text-center")
         except:
             current_time = datetime.now().time()
+            date = datetime.now().date
             with open('APP/assets/data/errores.txt', 'a') as archivo:
-                archivo.write(f"Error {current_time}\n")
+                archivo.write(f"Error {date} hora: {current_time}\n")
 integrantes =html.Div([
     dbc.Container([
         dbc.Row(
